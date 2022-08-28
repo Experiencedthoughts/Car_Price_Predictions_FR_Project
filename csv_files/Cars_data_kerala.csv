@@ -1,0 +1,2598 @@
+,Brand,Model,Variant,Year_of_Manufacturing,Transmission Type,Fuel Type,Kilometers Driven,No of Owners,Price,Location
+0,Tata,Harrier,,2019,Manual,Diesel,"8,600 km",1st,"16,75,000",kerala
+1,Maruti Suzuki,Swift,,2016,Manual,Petrol,"55,225 km",1st,"5,45,000",kerala
+2,Maruti Suzuki,Eeco,,2011,Manual,Petrol,"75,000 km",2nd,"1,98,000",kerala
+3,Maruti Suzuki,Swift Dzire,,2014,Manual,Diesel,"120,000 km",2nd,"4,00,000",kerala
+4,Mahindra,Xylo,,2010,Manual,Diesel,"120,000 km",2nd,"2,35,000",kerala
+5,Maruti Suzuki,800,,2015,Manual,Petrol,555 km,4th,"15,000",kerala
+6,Maruti Suzuki,Zen Estilo,,2013,Manual,Petrol,"92,345 km",2nd,"2,25,000",kerala
+7,Audi,Q5,,2015,Automatic,Diesel,"110,000 km",1st,"22,50,000",kerala
+8,Skoda,Octavia,,2011,Manual,Diesel,55 km,4th,"35,000",kerala
+9,Hyundai,Accent,,2013,Automatic,LPG,555 km,3rd,"15,000",kerala
+10,Maruti Suzuki,Alto K10,,2014,Automatic,-,"81,270 km",3rd,"2,90,000",kerala
+11,Ford,Classic,,2016,Automatic,Diesel,225 km,4th,"15,000",kerala
+12,Ford,Aspire,,2017,Manual,Diesel,"65,000 km",2nd,"4,68,000",kerala
+13,Ford,Ecosport,,2013,Manual,Diesel,"100,000 km",2nd,"5,25,000",kerala
+14,Renault,Pulse,,2012,Manual,Diesel,"110,000 km",1st,"2,55,000",kerala
+15,Hyundai,Creta,,2015,Manual,Diesel,"116,000 km",1st,"8,65,000",kerala
+16,Maruti Suzuki,Zen,,2000,Manual,Petrol,"95,000 km",3rd,"80,000",kerala
+17,Jeep,Compass,,2017,Manual,Diesel,"38,000 km",1st,"15,75,000",kerala
+18,-,-,,-,-,-,-,-,-,kerala
+19,Ford,Fiesta,,2008,Manual,Diesel,"120,000 km",1st,"1,48,000",kerala
+20,Volkswagen,Vento,,2014,Automatic,Diesel,"91,000 km",3rd,"5,45,000",kerala
+21,Audi,S5,,2018,Automatic,Petrol,"20,000 km",2nd,"58,00,000",kerala
+22,Volkswagen,Polo,,2019,Manual,Petrol,"44,080 km",1st,"6,40,000",kerala
+23,Nissan,Sunny,,2015,Manual,Diesel,"43,000 km",1st,"5,65,000",kerala
+24,Nissan,Micra Active,,2013,Manual,Petrol,"80,000 km",1st,"2,90,000",kerala
+25,Mahindra,Bolero Pik-Up,,2012,Automatic,Diesel,"150,000 km",2nd,"4,10,000",kerala
+26,Mahindra,Verito,,2013,Manual,Diesel,"260,000 km",2nd,"1,70,000",kerala
+27,Mahindra,Bolero,,2011,Manual,Diesel,"76,000 km",2nd,"4,55,000",kerala
+28,Maruti Suzuki,Alto,,2007,Manual,Petrol,"109,752 km",2nd,"1,05,000",kerala
+29,Hyundai,Santro Xing,,2010,Manual,Petrol,"95,000 km",2nd,"1,65,000",kerala
+30,Opel,Corsa,,2003,Manual,Petrol,"120,250 km",4th,"30,000",kerala
+31,Maruti Suzuki,Ritz,,2011,Manual,Diesel,"132,000 km",2nd,"2,85,000",kerala
+32,Chevrolet,Optra Magnum,,2010,Manual,Diesel,"110,000 km",1st,"3,00,000",kerala
+33,Maruti Suzuki,Swift,,2018,Manual,Diesel,"41,889 km",1st,"6,40,000",kerala
+34,Maruti Suzuki,Ertiga,,2016,Manual,Diesel,"50,000 km",1st,"7,50,000",kerala
+35,Toyota,Innova,,2012,Manual,Diesel,"110,000 km",2nd,"8,00,000",kerala
+36,Ford,Figo,,2015,Manual,Diesel,"25,086 km",2nd,"15,000",kerala
+37,Toyota,Innova,,2010,-,-,5 km,-,"1,00,000",kerala
+38,BMW,X5,,2016,-,Diesel,45 km,-,"45,55,555",kerala
+39,Maruti Suzuki,Swift Dzire,,2016,Manual,Diesel,"92,000 km",2nd,"4,15,000",kerala
+40,Tata,Harrier,,2019,Manual,Diesel,"8,600 km",1st,"16,75,000",kerala
+41,Maruti Suzuki,Swift,,2016,Manual,Petrol,"55,225 km",1st,"5,45,000",kerala
+42,Maruti Suzuki,Eeco,,2011,Manual,Petrol,"75,000 km",2nd,"1,98,000",kerala
+43,Maruti Suzuki,Swift Dzire,,2014,Manual,Diesel,"120,000 km",2nd,"4,00,000",kerala
+44,Mahindra,Xylo,,2010,Manual,Diesel,"120,000 km",2nd,"2,35,000",kerala
+45,Maruti Suzuki,800,,2015,Manual,Petrol,555 km,4th,"15,000",kerala
+46,Maruti Suzuki,Zen Estilo,,2013,Manual,Petrol,"92,345 km",2nd,"2,25,000",kerala
+47,Audi,Q5,,2015,Automatic,Diesel,"110,000 km",1st,"22,50,000",kerala
+48,Skoda,Octavia,,2011,Manual,Diesel,55 km,4th,"35,000",kerala
+49,Hyundai,Accent,,2013,Automatic,LPG,555 km,3rd,"15,000",kerala
+50,Maruti Suzuki,Alto K10,,2014,Automatic,-,"81,270 km",3rd,"2,90,000",kerala
+51,Ford,Classic,,2016,Automatic,Diesel,225 km,4th,"15,000",kerala
+52,Ford,Aspire,,2017,Manual,Diesel,"65,000 km",2nd,"4,68,000",kerala
+53,Ford,Ecosport,,2013,Manual,Diesel,"100,000 km",2nd,"5,25,000",kerala
+54,Renault,Pulse,,2012,Manual,Diesel,"110,000 km",1st,"2,55,000",kerala
+55,Hyundai,Creta,,2015,Manual,Diesel,"116,000 km",1st,"8,65,000",kerala
+56,Maruti Suzuki,Zen,,2000,Manual,Petrol,"95,000 km",3rd,"80,000",kerala
+57,Jeep,Compass,,2017,Manual,Diesel,"38,000 km",1st,"15,75,000",kerala
+58,-,-,,-,-,-,-,-,-,kerala
+59,Ford,Fiesta,,2008,Manual,Diesel,"120,000 km",1st,"1,48,000",kerala
+60,Volkswagen,Vento,,2014,Automatic,Diesel,"91,000 km",3rd,"5,45,000",kerala
+61,Audi,S5,,2018,Automatic,Petrol,"20,000 km",2nd,"58,00,000",kerala
+62,Volkswagen,Polo,,2019,Manual,Petrol,"44,080 km",1st,"6,40,000",kerala
+63,Nissan,Sunny,,2015,Manual,Diesel,"43,000 km",1st,"5,65,000",kerala
+64,Nissan,Micra Active,,2013,Manual,Petrol,"80,000 km",1st,"2,90,000",kerala
+65,Mahindra,Bolero Pik-Up,,2012,Automatic,Diesel,"150,000 km",2nd,"4,10,000",kerala
+66,Mahindra,Verito,,2013,Manual,Diesel,"260,000 km",2nd,"1,70,000",kerala
+67,Mahindra,Bolero,,2011,Manual,Diesel,"76,000 km",2nd,"4,55,000",kerala
+68,Maruti Suzuki,Alto,,2007,Manual,Petrol,"109,752 km",2nd,"1,05,000",kerala
+69,Hyundai,Santro Xing,,2010,Manual,Petrol,"95,000 km",2nd,"1,65,000",kerala
+70,Opel,Corsa,,2003,Manual,Petrol,"120,250 km",4th,"30,000",kerala
+71,Maruti Suzuki,Ritz,,2011,Manual,Diesel,"132,000 km",2nd,"2,85,000",kerala
+72,Chevrolet,Optra Magnum,,2010,Manual,Diesel,"110,000 km",1st,"3,00,000",kerala
+73,Maruti Suzuki,Swift,,2018,Manual,Diesel,"41,889 km",1st,"6,40,000",kerala
+74,Maruti Suzuki,Ertiga,,2016,Manual,Diesel,"50,000 km",1st,"7,50,000",kerala
+75,Toyota,Innova,,2012,Manual,Diesel,"110,000 km",2nd,"8,00,000",kerala
+76,Ford,Figo,,2015,Manual,Diesel,"25,086 km",2nd,"15,000",kerala
+77,Toyota,Innova,,2010,-,-,5 km,-,"1,00,000",kerala
+78,BMW,X5,,2016,-,Diesel,45 km,-,"45,55,555",kerala
+79,Maruti Suzuki,Swift Dzire,,2016,Manual,Diesel,"92,000 km",2nd,"4,15,000",kerala
+80,Maruti Suzuki,Baleno,,2018,Manual,Diesel,"13,000 km",1st,"7,75,000",kerala
+81,Hyundai,EON,,2017,Manual,Petrol,"14,958 km",1st,"3,10,000",kerala
+82,Skoda,Rapid,,2015,Automatic,Diesel,"122,000 km",1st,"4,85,000",kerala
+83,Maruti Suzuki,Alto 800,,2014,Manual,Petrol,"70,000 km",2nd,"2,10,000",kerala
+84,Maruti Suzuki,Swift,,2018,Manual,Petrol,"36,000 km",1st,"5,20,000",kerala
+85,Hyundai,Creta,,2015,Automatic,Diesel,82 km,1st,"9,75,000",kerala
+86,Maruti Suzuki,Eeco,,2020,Manual,Petrol,"6,600 km",1st,"4,50,000",kerala
+87,Maruti Suzuki,Swift,,2010,Manual,Diesel,"128,000 km",3rd,"2,35,000",kerala
+88,Maruti Suzuki,Zen,,2003,Manual,Petrol,0 km,4th,"60,000",kerala
+89,Tata,Indica Vista,,2011,Manual,Diesel,"75,000 km",2nd,"1,39,000",kerala
+90,Porsche,Cayenne,,2017,-,Diesel,123 km,-,"77,77,777",kerala
+91,Hyundai,i10,,2021,Manual,Petrol,"2,000 km",1st,"6,60,000",kerala
+92,Toyota,Etios Liva,,2015,Manual,Diesel,"75,000 km",2nd,"5,70,000",kerala
+93,Mahindra,TUV 300,,2016,-,Diesel,"68,000 km",1st,"6,50,000",kerala
+94,Maruti Suzuki,Swift,,2017,Manual,Diesel,"80,000 km",1st,"5,60,000",kerala
+95,Maruti Suzuki,Ritz,,2016,Manual,Petrol,"80,000 km",1st,"4,40,000",kerala
+96,Mahindra Renault,Logan,,2009,Manual,Diesel,"95,000 km",2nd,"1,09,000",kerala
+97,Ford,Figo,,2012,Manual,Diesel,"66,011 km",1st,"2,15,000",kerala
+98,Ford,Figo,,2010,Manual,Diesel,"118,000 km",3rd,"1,95,000",kerala
+99,Toyota,Etios Liva,,2017,Manual,Petrol,"21,000 km",2nd,"5,95,000",kerala
+100,Maruti Suzuki,Swift Dzire,,2018,Manual,Diesel,"8,900 km",1st,"7,25,000",kerala
+101,Hyundai,Verna,,2016,Manual,Petrol,"77,889 km",2nd,"6,30,000",kerala
+102,Maruti Suzuki,Swift Dzire,,2018,Manual,Diesel,"70,500 km",1st,"6,35,000",kerala
+103,Ford,Figo,,2011,-,Diesel,"117,000 km",1st,"1,83,000",kerala
+104,Maruti Suzuki,Baleno,,2017,Manual,Petrol,"42,042 km",1st,"5,75,000",kerala
+105,Maruti Suzuki,Wagon R,,2007,Manual,Petrol,"133,916 km",1st,"1,55,000",kerala
+106,Maruti Suzuki,Alto K10,,2014,Manual,Petrol,"35,000 km",1st,"2,70,000",kerala
+107,Maruti Suzuki,Alto,,2002,Manual,Petrol,"115,000 km",3rd,"1,45,000",kerala
+108,Mahindra,Marazzo,,2020,Manual,Diesel,"10,000 km",1st,"13,00,000",kerala
+109,Ford,Ecosport,,2020,Manual,Petrol,"12,100 km",1st,"8,20,000",kerala
+110,Maruti Suzuki,800,,2003,Manual,Petrol,"68,000 km",2nd,"60,000",kerala
+111,Maruti Suzuki,Swift,,2018,Automatic,Petrol,"50,000 km",1st,"7,25,000",kerala
+112,Maruti Suzuki,800,,2003,Manual,Petrol,"33,000 km",2nd,"1,30,000",kerala
+113,Maruti Suzuki,Swift,,2013,Manual,Diesel,"119,024 km",1st,"3,75,000",kerala
+114,Toyota,Innova,,2005,Manual,Diesel,"165,000 km",2nd,"4,15,000",kerala
+115,Maruti Suzuki,Celerio X,,2018,Manual,Petrol,"50,000 km",1st,"4,25,000",kerala
+116,Maruti Suzuki,Vitara Brezza,,2017,Manual,Diesel,"22,500 km",2nd,"7,50,000",kerala
+117,Hyundai,EON,,2014,Manual,Petrol,"66,000 km",2nd,"2,50,000",kerala
+118,Hyundai,Creta,,2017,Manual,Diesel,"52,000 km",2nd,"5,50,000",kerala
+119,Maruti Suzuki,Estilo,,2011,Manual,Petrol,"90,000 km",1st,"1,80,000",kerala
+120,Tata,Harrier,,2019,Manual,Diesel,"8,600 km",1st,"16,75,000",kerala
+121,Maruti Suzuki,Swift,,2016,Manual,Petrol,"55,225 km",1st,"5,45,000",kerala
+122,Maruti Suzuki,Eeco,,2011,Manual,Petrol,"75,000 km",2nd,"1,98,000",kerala
+123,Maruti Suzuki,Swift Dzire,,2014,Manual,Diesel,"120,000 km",2nd,"4,00,000",kerala
+124,Mahindra,Xylo,,2010,Manual,Diesel,"120,000 km",2nd,"2,35,000",kerala
+125,Maruti Suzuki,800,,2015,Manual,Petrol,555 km,4th,"15,000",kerala
+126,Maruti Suzuki,Zen Estilo,,2013,Manual,Petrol,"92,345 km",2nd,"2,25,000",kerala
+127,Audi,Q5,,2015,Automatic,Diesel,"110,000 km",1st,"22,50,000",kerala
+128,Skoda,Octavia,,2011,Manual,Diesel,55 km,4th,"35,000",kerala
+129,Hyundai,Accent,,2013,Automatic,LPG,555 km,3rd,"15,000",kerala
+130,Maruti Suzuki,Alto K10,,2014,Automatic,-,"81,270 km",3rd,"2,90,000",kerala
+131,Ford,Classic,,2016,Automatic,Diesel,225 km,4th,"15,000",kerala
+132,Ford,Aspire,,2017,Manual,Diesel,"65,000 km",2nd,"4,68,000",kerala
+133,Ford,Ecosport,,2013,Manual,Diesel,"100,000 km",2nd,"5,25,000",kerala
+134,Renault,Pulse,,2012,Manual,Diesel,"110,000 km",1st,"2,55,000",kerala
+135,Hyundai,Creta,,2015,Manual,Diesel,"116,000 km",1st,"8,65,000",kerala
+136,Maruti Suzuki,Zen,,2000,Manual,Petrol,"95,000 km",3rd,"80,000",kerala
+137,Jeep,Compass,,2017,Manual,Diesel,"38,000 km",1st,"15,75,000",kerala
+138,-,-,,-,-,-,-,-,-,kerala
+139,Ford,Fiesta,,2008,Manual,Diesel,"120,000 km",1st,"1,48,000",kerala
+140,Volkswagen,Vento,,2014,Automatic,Diesel,"91,000 km",3rd,"5,45,000",kerala
+141,Audi,S5,,2018,Automatic,Petrol,"20,000 km",2nd,"58,00,000",kerala
+142,Volkswagen,Polo,,2019,Manual,Petrol,"44,080 km",1st,"6,40,000",kerala
+143,Nissan,Sunny,,2015,Manual,Diesel,"43,000 km",1st,"5,65,000",kerala
+144,Nissan,Micra Active,,2013,Manual,Petrol,"80,000 km",1st,"2,90,000",kerala
+145,Mahindra,Bolero Pik-Up,,2012,Automatic,Diesel,"150,000 km",2nd,"4,10,000",kerala
+146,Mahindra,Verito,,2013,Manual,Diesel,"260,000 km",2nd,"1,70,000",kerala
+147,Mahindra,Bolero,,2011,Manual,Diesel,"76,000 km",2nd,"4,55,000",kerala
+148,Maruti Suzuki,Alto,,2007,Manual,Petrol,"109,752 km",2nd,"1,05,000",kerala
+149,Hyundai,Santro Xing,,2010,Manual,Petrol,"95,000 km",2nd,"1,65,000",kerala
+150,Opel,Corsa,,2003,Manual,Petrol,"120,250 km",4th,"30,000",kerala
+151,Maruti Suzuki,Ritz,,2011,Manual,Diesel,"132,000 km",2nd,"2,85,000",kerala
+152,Chevrolet,Optra Magnum,,2010,Manual,Diesel,"110,000 km",1st,"3,00,000",kerala
+153,Maruti Suzuki,Swift,,2018,Manual,Diesel,"41,889 km",1st,"6,40,000",kerala
+154,Maruti Suzuki,Ertiga,,2016,Manual,Diesel,"50,000 km",1st,"7,50,000",kerala
+155,Toyota,Innova,,2012,Manual,Diesel,"110,000 km",2nd,"8,00,000",kerala
+156,Ford,Figo,,2015,Manual,Diesel,"25,086 km",2nd,"15,000",kerala
+157,Toyota,Innova,,2010,-,-,5 km,-,"1,00,000",kerala
+158,BMW,X5,,2016,-,Diesel,45 km,-,"45,55,555",kerala
+159,Maruti Suzuki,Swift Dzire,,2016,Manual,Diesel,"92,000 km",2nd,"4,15,000",kerala
+160,Maruti Suzuki,Baleno,,2018,Manual,Diesel,"13,000 km",1st,"7,75,000",kerala
+161,Hyundai,EON,,2017,Manual,Petrol,"14,958 km",1st,"3,10,000",kerala
+162,Skoda,Rapid,,2015,Automatic,Diesel,"122,000 km",1st,"4,85,000",kerala
+163,Maruti Suzuki,Alto 800,,2014,Manual,Petrol,"70,000 km",2nd,"2,10,000",kerala
+164,Maruti Suzuki,Swift,,2018,Manual,Petrol,"36,000 km",1st,"5,20,000",kerala
+165,Hyundai,Creta,,2015,Automatic,Diesel,82 km,1st,"9,75,000",kerala
+166,Maruti Suzuki,Eeco,,2020,Manual,Petrol,"6,600 km",1st,"4,50,000",kerala
+167,Maruti Suzuki,Swift,,2010,Manual,Diesel,"128,000 km",3rd,"2,35,000",kerala
+168,Maruti Suzuki,Zen,,2003,Manual,Petrol,0 km,4th,"60,000",kerala
+169,Tata,Indica Vista,,2011,Manual,Diesel,"75,000 km",2nd,"1,39,000",kerala
+170,Porsche,Cayenne,,2017,-,Diesel,123 km,-,"77,77,777",kerala
+171,Hyundai,i10,,2021,Manual,Petrol,"2,000 km",1st,"6,60,000",kerala
+172,Toyota,Etios Liva,,2015,Manual,Diesel,"75,000 km",2nd,"5,70,000",kerala
+173,Mahindra,TUV 300,,2016,-,Diesel,"68,000 km",1st,"6,50,000",kerala
+174,Maruti Suzuki,Swift,,2017,Manual,Diesel,"80,000 km",1st,"5,60,000",kerala
+175,Maruti Suzuki,Ritz,,2016,Manual,Petrol,"80,000 km",1st,"4,40,000",kerala
+176,Mahindra Renault,Logan,,2009,Manual,Diesel,"95,000 km",2nd,"1,09,000",kerala
+177,Ford,Figo,,2012,Manual,Diesel,"66,011 km",1st,"2,15,000",kerala
+178,Ford,Figo,,2010,Manual,Diesel,"118,000 km",3rd,"1,95,000",kerala
+179,Toyota,Etios Liva,,2017,Manual,Petrol,"21,000 km",2nd,"5,95,000",kerala
+180,Maruti Suzuki,Swift Dzire,,2018,Manual,Diesel,"8,900 km",1st,"7,25,000",kerala
+181,Hyundai,Verna,,2016,Manual,Petrol,"77,889 km",2nd,"6,30,000",kerala
+182,Maruti Suzuki,Swift Dzire,,2018,Manual,Diesel,"70,500 km",1st,"6,35,000",kerala
+183,Ford,Figo,,2011,-,Diesel,"117,000 km",1st,"1,83,000",kerala
+184,Maruti Suzuki,Baleno,,2017,Manual,Petrol,"42,042 km",1st,"5,75,000",kerala
+185,Maruti Suzuki,Wagon R,,2007,Manual,Petrol,"133,916 km",1st,"1,55,000",kerala
+186,Maruti Suzuki,Alto K10,,2014,Manual,Petrol,"35,000 km",1st,"2,70,000",kerala
+187,Maruti Suzuki,Alto,,2002,Manual,Petrol,"115,000 km",3rd,"1,45,000",kerala
+188,Mahindra,Marazzo,,2020,Manual,Diesel,"10,000 km",1st,"13,00,000",kerala
+189,Ford,Ecosport,,2020,Manual,Petrol,"12,100 km",1st,"8,20,000",kerala
+190,Maruti Suzuki,800,,2003,Manual,Petrol,"68,000 km",2nd,"60,000",kerala
+191,Maruti Suzuki,Swift,,2018,Automatic,Petrol,"50,000 km",1st,"7,25,000",kerala
+192,Maruti Suzuki,800,,2003,Manual,Petrol,"33,000 km",2nd,"1,30,000",kerala
+193,Maruti Suzuki,Swift,,2013,Manual,Diesel,"119,024 km",1st,"3,75,000",kerala
+194,Toyota,Innova,,2005,Manual,Diesel,"165,000 km",2nd,"4,15,000",kerala
+195,Maruti Suzuki,Celerio X,,2018,Manual,Petrol,"50,000 km",1st,"4,25,000",kerala
+196,Maruti Suzuki,Vitara Brezza,,2017,Manual,Diesel,"22,500 km",2nd,"7,50,000",kerala
+197,Hyundai,EON,,2014,Manual,Petrol,"66,000 km",2nd,"2,50,000",kerala
+198,Hyundai,Creta,,2017,Manual,Diesel,"52,000 km",2nd,"5,50,000",kerala
+199,Maruti Suzuki,Estilo,,2011,Manual,Petrol,"90,000 km",1st,"1,80,000",kerala
+200,Maruti Suzuki,Vitara Brezza,,2018,Manual,Diesel,"36,745 km",1st,"9,40,000",kerala
+201,Maruti Suzuki,Ertiga,,2020,Manual,Diesel,"58,000 km",1st,"9,50,000",kerala
+202,BMW,6 Series,,2012,Automatic,Diesel,"48,000 km",2nd,"40,00,000",kerala
+203,Maruti Suzuki,800,,2003,Manual,Petrol,"120,000 km",2nd,"50,000",kerala
+204,Mahindra,Scorpio,,2006,Manual,Diesel,"130,000 km",3rd,"1,95,000",kerala
+205,Bajaj,Others,,1993,Manual,Petrol,"111,111 km",2nd,"42,000",kerala
+206,Hyundai,i10,,2010,Manual,Petrol,"63,511 km",2nd,"2,15,000",kerala
+207,Jeep,Compass,,2018,Manual,Diesel,"49,000 km",1st,"16,00,000",kerala
+208,Hyundai,i10,,2011,Manual,Petrol,"72,446 km",1st,"2,65,000",kerala
+209,Maruti Suzuki,Swift,,2018,Manual,Diesel,"62,000 km",1st,"6,10,000",kerala
+210,Ford,Figo Aspire,,2017,Manual,Diesel,"52,000 km",1st,"4,50,000",kerala
+211,Hyundai,Santro Xing,,2008,Manual,Petrol,"54,986 km",1st,"1,38,000",kerala
+212,Maruti Suzuki,Omni,,2010,Manual,Petrol,"78,958 km",2nd,"1,58,000",kerala
+213,Maruti Suzuki,Eeco,,2013,Manual,Petrol,"65,000 km",1st,"2,75,000",kerala
+214,Maruti Suzuki,A-Star,,2012,Manual,Petrol,"80,000 km",1st,"2,48,000",kerala
+215,Tata,Nexon,,2018,Manual,Petrol,"70,000 km",1st,"7,70,000",kerala
+216,Tata,Indigo,,2003,Manual,Petrol,"74,586 km",3rd,"65,000",kerala
+217,Hyundai,i10,,2008,Manual,Petrol,"90,791 km",3rd,"1,65,000",kerala
+218,Maruti Suzuki,Alto K10,,2011,-,Petrol,"36,499 km",1st,"2,15,000",kerala
+219,Maruti Suzuki,800,,2003,Manual,Petrol,"50,751 km",4+,"69,000",kerala
+220,Jeep,Compass,,2019,Manual,Diesel,"36,860 km",1st,"14,50,000",kerala
+221,Chevrolet,Cruze,,2011,Manual,Diesel,"185,000 km",1st,"5,00,000",kerala
+222,Maruti Suzuki,Swift Dzire,,2018,Manual,Petrol,"27,000 km",1st,"6,45,000",kerala
+223,Hyundai,Grand i10,,2016,Manual,Petrol,"33,067 km",1st,"4,25,000",kerala
+224,Maruti Suzuki,800,,2007,Manual,Petrol,"50,000 km",1st,"90,000",kerala
+225,Mercedes-Benz,CLA,,2015,Automatic,Diesel,"35,000 km",1st,"29,00,000",kerala
+226,Maruti Suzuki,Swift,,2018,Manual,Diesel,"50,100 km",1st,"6,35,000",kerala
+227,Maruti Suzuki,Swift,,2019,Manual,Petrol,"35,000 km",1st,"5,60,000",kerala
+228,Hyundai,Santro Xing,,2007,Manual,Petrol,"56,000 km",2nd,"1,48,000",kerala
+229,Mahindra,XUV500,,2018,Manual,Diesel,"52,989 km",1st,"9,75,000",kerala
+230,Mercedes-Benz,A Class,,2013,Automatic,Diesel,"40,000 km",1st,"16,00,000",kerala
+231,Tata,Indigo Ecs,,2011,Manual,Diesel,"100,000 km",2nd,"85,000",kerala
+232,Maruti Suzuki,Ritz,,2009,Manual,Petrol,"131,288 km",3rd,"2,15,000",kerala
+233,Maruti Suzuki,Alto,,2009,Manual,Petrol,"70,000 km",2nd,"1,45,000",kerala
+234,Chevrolet,Spark,,2010,Manual,Petrol,"76,342 km",3rd,"1,00,000",kerala
+235,Maruti Suzuki,Alto 800,,2017,Manual,Petrol,"57,858 km",1st,"2,85,000",kerala
+236,Volkswagen,Vento,,2012,Manual,Diesel,"80,000 km",4+,"3,40,000",kerala
+237,Tata,Nano,,2014,Manual,Petrol,"64,585 km",1st,"1,35,000",kerala
+238,Ford,Fiesta,,2007,Manual,Petrol,"107,858 km",3rd,"1,05,000",kerala
+239,Chevrolet,Spark,,2008,Manual,Petrol,"85,858 km",2nd,"89,000",kerala
+240,Tata,Harrier,,2019,Manual,Diesel,"8,600 km",1st,"16,75,000",kerala
+241,Maruti Suzuki,Swift,,2016,Manual,Petrol,"55,225 km",1st,"5,45,000",kerala
+242,Maruti Suzuki,Eeco,,2011,Manual,Petrol,"75,000 km",2nd,"1,98,000",kerala
+243,Maruti Suzuki,Swift Dzire,,2014,Manual,Diesel,"120,000 km",2nd,"4,00,000",kerala
+244,Mahindra,Xylo,,2010,Manual,Diesel,"120,000 km",2nd,"2,35,000",kerala
+245,Maruti Suzuki,800,,2015,Manual,Petrol,555 km,4th,"15,000",kerala
+246,Maruti Suzuki,Zen Estilo,,2013,Manual,Petrol,"92,345 km",2nd,"2,25,000",kerala
+247,Audi,Q5,,2015,Automatic,Diesel,"110,000 km",1st,"22,50,000",kerala
+248,Skoda,Octavia,,2011,Manual,Diesel,55 km,4th,"35,000",kerala
+249,Hyundai,Accent,,2013,Automatic,LPG,555 km,3rd,"15,000",kerala
+250,Maruti Suzuki,Alto K10,,2014,Automatic,-,"81,270 km",3rd,"2,90,000",kerala
+251,Ford,Classic,,2016,Automatic,Diesel,225 km,4th,"15,000",kerala
+252,Ford,Aspire,,2017,Manual,Diesel,"65,000 km",2nd,"4,68,000",kerala
+253,Ford,Ecosport,,2013,Manual,Diesel,"100,000 km",2nd,"5,25,000",kerala
+254,Renault,Pulse,,2012,Manual,Diesel,"110,000 km",1st,"2,55,000",kerala
+255,Hyundai,Creta,,2015,Manual,Diesel,"116,000 km",1st,"8,65,000",kerala
+256,Maruti Suzuki,Zen,,2000,Manual,Petrol,"95,000 km",3rd,"80,000",kerala
+257,Jeep,Compass,,2017,Manual,Diesel,"38,000 km",1st,"15,75,000",kerala
+258,-,-,,-,-,-,-,-,-,kerala
+259,Ford,Fiesta,,2008,Manual,Diesel,"120,000 km",1st,"1,48,000",kerala
+260,Volkswagen,Vento,,2014,Automatic,Diesel,"91,000 km",3rd,"5,45,000",kerala
+261,Audi,S5,,2018,Automatic,Petrol,"20,000 km",2nd,"58,00,000",kerala
+262,Volkswagen,Polo,,2019,Manual,Petrol,"44,080 km",1st,"6,40,000",kerala
+263,Nissan,Sunny,,2015,Manual,Diesel,"43,000 km",1st,"5,65,000",kerala
+264,Nissan,Micra Active,,2013,Manual,Petrol,"80,000 km",1st,"2,90,000",kerala
+265,Mahindra,Bolero Pik-Up,,2012,Automatic,Diesel,"150,000 km",2nd,"4,10,000",kerala
+266,Mahindra,Verito,,2013,Manual,Diesel,"260,000 km",2nd,"1,70,000",kerala
+267,Mahindra,Bolero,,2011,Manual,Diesel,"76,000 km",2nd,"4,55,000",kerala
+268,Maruti Suzuki,Alto,,2007,Manual,Petrol,"109,752 km",2nd,"1,05,000",kerala
+269,Hyundai,Santro Xing,,2010,Manual,Petrol,"95,000 km",2nd,"1,65,000",kerala
+270,Opel,Corsa,,2003,Manual,Petrol,"120,250 km",4th,"30,000",kerala
+271,Maruti Suzuki,Ritz,,2011,Manual,Diesel,"132,000 km",2nd,"2,85,000",kerala
+272,Chevrolet,Optra Magnum,,2010,Manual,Diesel,"110,000 km",1st,"3,00,000",kerala
+273,Maruti Suzuki,Swift,,2018,Manual,Diesel,"41,889 km",1st,"6,40,000",kerala
+274,Maruti Suzuki,Ertiga,,2016,Manual,Diesel,"50,000 km",1st,"7,50,000",kerala
+275,Toyota,Innova,,2012,Manual,Diesel,"110,000 km",2nd,"8,00,000",kerala
+276,Ford,Figo,,2015,Manual,Diesel,"25,086 km",2nd,"15,000",kerala
+277,Toyota,Innova,,2010,-,-,5 km,-,"1,00,000",kerala
+278,BMW,X5,,2016,-,Diesel,45 km,-,"45,55,555",kerala
+279,Maruti Suzuki,Swift Dzire,,2016,Manual,Diesel,"92,000 km",2nd,"4,15,000",kerala
+280,Maruti Suzuki,Baleno,,2018,Manual,Diesel,"13,000 km",1st,"7,75,000",kerala
+281,Hyundai,EON,,2017,Manual,Petrol,"14,958 km",1st,"3,10,000",kerala
+282,Skoda,Rapid,,2015,Automatic,Diesel,"122,000 km",1st,"4,85,000",kerala
+283,Maruti Suzuki,Alto 800,,2014,Manual,Petrol,"70,000 km",2nd,"2,10,000",kerala
+284,Maruti Suzuki,Swift,,2018,Manual,Petrol,"36,000 km",1st,"5,20,000",kerala
+285,Hyundai,Creta,,2015,Automatic,Diesel,82 km,1st,"9,75,000",kerala
+286,Maruti Suzuki,Eeco,,2020,Manual,Petrol,"6,600 km",1st,"4,50,000",kerala
+287,Maruti Suzuki,Swift,,2010,Manual,Diesel,"128,000 km",3rd,"2,35,000",kerala
+288,Maruti Suzuki,Zen,,2003,Manual,Petrol,0 km,4th,"60,000",kerala
+289,Tata,Indica Vista,,2011,Manual,Diesel,"75,000 km",2nd,"1,39,000",kerala
+290,Porsche,Cayenne,,2017,-,Diesel,123 km,-,"77,77,777",kerala
+291,Hyundai,i10,,2021,Manual,Petrol,"2,000 km",1st,"6,60,000",kerala
+292,Toyota,Etios Liva,,2015,Manual,Diesel,"75,000 km",2nd,"5,70,000",kerala
+293,Mahindra,TUV 300,,2016,-,Diesel,"68,000 km",1st,"6,50,000",kerala
+294,Maruti Suzuki,Swift,,2017,Manual,Diesel,"80,000 km",1st,"5,60,000",kerala
+295,Maruti Suzuki,Ritz,,2016,Manual,Petrol,"80,000 km",1st,"4,40,000",kerala
+296,Mahindra Renault,Logan,,2009,Manual,Diesel,"95,000 km",2nd,"1,09,000",kerala
+297,Ford,Figo,,2012,Manual,Diesel,"66,011 km",1st,"2,15,000",kerala
+298,Ford,Figo,,2010,Manual,Diesel,"118,000 km",3rd,"1,95,000",kerala
+299,Toyota,Etios Liva,,2017,Manual,Petrol,"21,000 km",2nd,"5,95,000",kerala
+300,Maruti Suzuki,Swift Dzire,,2018,Manual,Diesel,"8,900 km",1st,"7,25,000",kerala
+301,Hyundai,Verna,,2016,Manual,Petrol,"77,889 km",2nd,"6,30,000",kerala
+302,Maruti Suzuki,Swift Dzire,,2018,Manual,Diesel,"70,500 km",1st,"6,35,000",kerala
+303,Ford,Figo,,2011,-,Diesel,"117,000 km",1st,"1,83,000",kerala
+304,Maruti Suzuki,Baleno,,2017,Manual,Petrol,"42,042 km",1st,"5,75,000",kerala
+305,Maruti Suzuki,Wagon R,,2007,Manual,Petrol,"133,916 km",1st,"1,55,000",kerala
+306,Maruti Suzuki,Alto K10,,2014,Manual,Petrol,"35,000 km",1st,"2,70,000",kerala
+307,Maruti Suzuki,Alto,,2002,Manual,Petrol,"115,000 km",3rd,"1,45,000",kerala
+308,Mahindra,Marazzo,,2020,Manual,Diesel,"10,000 km",1st,"13,00,000",kerala
+309,Ford,Ecosport,,2020,Manual,Petrol,"12,100 km",1st,"8,20,000",kerala
+310,Maruti Suzuki,800,,2003,Manual,Petrol,"68,000 km",2nd,"60,000",kerala
+311,Maruti Suzuki,Swift,,2018,Automatic,Petrol,"50,000 km",1st,"7,25,000",kerala
+312,Maruti Suzuki,800,,2003,Manual,Petrol,"33,000 km",2nd,"1,30,000",kerala
+313,Maruti Suzuki,Swift,,2013,Manual,Diesel,"119,024 km",1st,"3,75,000",kerala
+314,Toyota,Innova,,2005,Manual,Diesel,"165,000 km",2nd,"4,15,000",kerala
+315,Maruti Suzuki,Celerio X,,2018,Manual,Petrol,"50,000 km",1st,"4,25,000",kerala
+316,Maruti Suzuki,Vitara Brezza,,2017,Manual,Diesel,"22,500 km",2nd,"7,50,000",kerala
+317,Hyundai,EON,,2014,Manual,Petrol,"66,000 km",2nd,"2,50,000",kerala
+318,Hyundai,Creta,,2017,Manual,Diesel,"52,000 km",2nd,"5,50,000",kerala
+319,Maruti Suzuki,Estilo,,2011,Manual,Petrol,"90,000 km",1st,"1,80,000",kerala
+320,Maruti Suzuki,Vitara Brezza,,2018,Manual,Diesel,"36,745 km",1st,"9,40,000",kerala
+321,Maruti Suzuki,Ertiga,,2020,Manual,Diesel,"58,000 km",1st,"9,50,000",kerala
+322,BMW,6 Series,,2012,Automatic,Diesel,"48,000 km",2nd,"40,00,000",kerala
+323,Maruti Suzuki,800,,2003,Manual,Petrol,"120,000 km",2nd,"50,000",kerala
+324,Mahindra,Scorpio,,2006,Manual,Diesel,"130,000 km",3rd,"1,95,000",kerala
+325,Bajaj,Others,,1993,Manual,Petrol,"111,111 km",2nd,"42,000",kerala
+326,Hyundai,i10,,2010,Manual,Petrol,"63,511 km",2nd,"2,15,000",kerala
+327,Jeep,Compass,,2018,Manual,Diesel,"49,000 km",1st,"16,00,000",kerala
+328,Hyundai,i10,,2011,Manual,Petrol,"72,446 km",1st,"2,65,000",kerala
+329,Maruti Suzuki,Swift,,2018,Manual,Diesel,"62,000 km",1st,"6,10,000",kerala
+330,Ford,Figo Aspire,,2017,Manual,Diesel,"52,000 km",1st,"4,50,000",kerala
+331,Hyundai,Santro Xing,,2008,Manual,Petrol,"54,986 km",1st,"1,38,000",kerala
+332,Maruti Suzuki,Omni,,2010,Manual,Petrol,"78,958 km",2nd,"1,58,000",kerala
+333,Maruti Suzuki,Eeco,,2013,Manual,Petrol,"65,000 km",1st,"2,75,000",kerala
+334,Maruti Suzuki,A-Star,,2012,Manual,Petrol,"80,000 km",1st,"2,48,000",kerala
+335,Tata,Nexon,,2018,Manual,Petrol,"70,000 km",1st,"7,70,000",kerala
+336,Tata,Indigo,,2003,Manual,Petrol,"74,586 km",3rd,"65,000",kerala
+337,Hyundai,i10,,2008,Manual,Petrol,"90,791 km",3rd,"1,65,000",kerala
+338,Maruti Suzuki,Alto K10,,2011,-,Petrol,"36,499 km",1st,"2,15,000",kerala
+339,Maruti Suzuki,800,,2003,Manual,Petrol,"50,751 km",4+,"69,000",kerala
+340,Jeep,Compass,,2019,Manual,Diesel,"36,860 km",1st,"14,50,000",kerala
+341,Chevrolet,Cruze,,2011,Manual,Diesel,"185,000 km",1st,"5,00,000",kerala
+342,Maruti Suzuki,Swift Dzire,,2018,Manual,Petrol,"27,000 km",1st,"6,45,000",kerala
+343,Hyundai,Grand i10,,2016,Manual,Petrol,"33,067 km",1st,"4,25,000",kerala
+344,Maruti Suzuki,800,,2007,Manual,Petrol,"50,000 km",1st,"90,000",kerala
+345,Mercedes-Benz,CLA,,2015,Automatic,Diesel,"35,000 km",1st,"29,00,000",kerala
+346,Maruti Suzuki,Swift,,2018,Manual,Diesel,"50,100 km",1st,"6,35,000",kerala
+347,Maruti Suzuki,Swift,,2019,Manual,Petrol,"35,000 km",1st,"5,60,000",kerala
+348,Hyundai,Santro Xing,,2007,Manual,Petrol,"56,000 km",2nd,"1,48,000",kerala
+349,Mahindra,XUV500,,2018,Manual,Diesel,"52,989 km",1st,"9,75,000",kerala
+350,Mercedes-Benz,A Class,,2013,Automatic,Diesel,"40,000 km",1st,"16,00,000",kerala
+351,Tata,Indigo Ecs,,2011,Manual,Diesel,"100,000 km",2nd,"85,000",kerala
+352,Maruti Suzuki,Ritz,,2009,Manual,Petrol,"131,288 km",3rd,"2,15,000",kerala
+353,Maruti Suzuki,Alto,,2009,Manual,Petrol,"70,000 km",2nd,"1,45,000",kerala
+354,Chevrolet,Spark,,2010,Manual,Petrol,"76,342 km",3rd,"1,00,000",kerala
+355,Maruti Suzuki,Alto 800,,2017,Manual,Petrol,"57,858 km",1st,"2,85,000",kerala
+356,Volkswagen,Vento,,2012,Manual,Diesel,"80,000 km",4+,"3,40,000",kerala
+357,Tata,Nano,,2014,Manual,Petrol,"64,585 km",1st,"1,35,000",kerala
+358,Ford,Fiesta,,2007,Manual,Petrol,"107,858 km",3rd,"1,05,000",kerala
+359,Chevrolet,Spark,,2008,Manual,Petrol,"85,858 km",2nd,"89,000",kerala
+360,Renault,Triber,,2019,Manual,Petrol,"2,650 km",1st,"6,75,000",kerala
+361,Hyundai,Xcent,,2017,Manual,Diesel,"35,266 km",1st,"4,85,000",kerala
+362,Volkswagen,Polo,,2017,Manual,Diesel,"52,486 km",2nd,"6,84,000",kerala
+363,Honda,BR-V,,2017,Manual,Diesel,"100,000 km",1st,"6,00,000",kerala
+364,Maruti Suzuki,Wagon R,,2014,Manual,Petrol,"72,000 km",2nd,"3,40,000",kerala
+365,Hyundai,Santro Xing,,2007,Manual,Petrol,"77,000 km",2nd,"1,40,000",kerala
+366,Maruti Suzuki,Swift,,2019,Manual,Diesel,"30,000 km",1st,"7,80,000",kerala
+367,Maruti Suzuki,800,,1996,Manual,Petrol,77 km,3rd,"45,000",kerala
+368,Kia,Others,,2021,Automatic,Petrol,0 km,1st,"4,00,000",kerala
+369,Tata,Indica V2,,2013,Manual,Diesel,"82,130 km",2nd,"1,20,000",kerala
+370,Maruti Suzuki,Alto 800,,2015,Manual,Petrol,"57,000 km",1st,"2,40,000",kerala
+371,Maruti Suzuki,Wagon R,,2010,Manual,Petrol,89 km,2nd,"2,45,000",kerala
+372,-,-,,-,-,-,-,-,-,kerala
+373,BMW,X5,,2017,Automatic,Diesel,"44,000 km",1st,"59,00,000",kerala
+374,Nissan,Sunny,,2016,Manual,Diesel,"100,000 km",1st,"2,90,000",kerala
+375,Maruti Suzuki,Alto 800,,2004,Manual,Petrol,"105,000 km",3rd,"80,000",kerala
+376,Maruti Suzuki,Alto,,2010,Manual,Petrol,"76,000 km",2nd,"1,55,000",kerala
+377,Hyundai,Venue,,2021,Manual,Petrol,0 km,-,"6,99,200",kerala
+378,BMW,5 Series Gt,,2018,-,-,55 km,-,"25,000",kerala
+379,Maruti Suzuki,Zen,,2003,Manual,Petrol,0 km,2nd,"1,10,000",kerala
+380,Hyundai,Creta,,2018,Automatic,Petrol,"60,000 km",1st,"13,50,000",kerala
+381,-,-,,-,-,-,-,-,-,kerala
+382,Mercedes-Benz,E-Class,,2018,Automatic,Diesel,"45,000 km",1st,"65,00,000",kerala
+383,Hyundai,Santro Xing,,2009,Manual,Petrol,"49,500 km",2nd,"1,55,000",kerala
+384,Maruti Suzuki,Swift,,2011,Manual,Diesel,"130,000 km",-,"3,35,000",kerala
+385,Maruti Suzuki,Swift,,2017,Manual,Petrol,"34,000 km",1st,"6,10,000",kerala
+386,Tata,Sumo Spacio,,2008,Manual,Diesel,"199,000 km",3rd,"1,25,000",kerala
+387,Maruti Suzuki,Swift,,2018,Manual,Petrol,"75,000 km",2nd,"5,30,000",kerala
+388,Maruti Suzuki,Wagon R,,2008,Manual,Petrol,"80,000 km",3rd,"1,50,000",kerala
+389,Other Brands,Others,,2014,Manual,Diesel,"50,000 km",1st,"64,000",kerala
+390,Ford,Figo,,2012,Manual,Diesel,"82,000 km",2nd,"1,83,000",kerala
+391,Jeep,Compass,,2019,-,Petrol,"27,000 km",-,"17,60,000",kerala
+392,Hyundai,i20,,2014,Manual,Diesel,"10,000 km",1st,"17,000",kerala
+393,Maruti Suzuki,800,,2003,Manual,Petrol,"68,000 km",2nd,"50,000",kerala
+394,Force Motors,Others,,2011,Manual,Diesel,"55,000 km",2nd,"4,50,000",kerala
+395,Jaguar,XJ,,2017,-,-,55 km,-,"20,000",kerala
+396,Maruti Suzuki,Wagon R,,2008,-,-,"47,413 km",1st,"2,15,000",kerala
+397,Mahindra,Bolero Power Plus,,2017,Manual,Diesel,"68,000 km",1st,"7,75,000",kerala
+398,Datsun,Redi Go,,2017,Manual,Petrol,"40,000 km",1st,"2,10,000",kerala
+399,Mercedes-Benz,E-Class,,2018,-,-,555 km,4+,"1,00,000",kerala
+400,Mercedes-Benz,GLE Class,,2017,Automatic,Diesel,"77,000 km",1st,"46,00,000",kerala
+401,Toyota,Innova Crysta,,2017,-,Diesel,"36,000 km",2nd,"17,50,000",kerala
+402,Datsun,GO,,2015,Manual,Petrol,"22,000 km",1st,"2,35,000",kerala
+403,Maruti Suzuki,800,,2008,Manual,Petrol,"68,000 km",2nd,"89,000",kerala
+404,Maruti Suzuki,Swift,,2010,Manual,Petrol,"75,000 km",2nd,"2,65,000",kerala
+405,Toyota,Etios,,2014,Manual,Diesel,"125,000 km",2nd,"3,75,000",kerala
+406,Maruti Suzuki,Wagon R,,2008,Manual,Petrol,"47,000 km",2nd,"1,95,000",kerala
+407,Chevrolet,Beat,,2012,Manual,Diesel,"78,000 km",4th,"1,18,000",kerala
+408,Maruti Suzuki,Omni,,2002,Manual,Petrol,0 km,2nd,"55,000",kerala
+409,Maruti Suzuki,Swift,,2011,Manual,Diesel,"112,529 km",1st,"3,40,000",kerala
+410,Hyundai,EON,,2014,Manual,Petrol,"56,000 km",1st,"2,65,000",kerala
+411,Toyota,Innova,,2012,Manual,Diesel,"75,000 km",1st,"7,35,000",kerala
+412,Maruti Suzuki,Wagon R,,2011,Manual,Petrol,"133,000 km",3rd,"2,40,000",kerala
+413,Hyundai,Elite i20,,2017,Manual,Diesel,"85,000 km",2nd,"6,50,000",kerala
+414,Tata,Indica V2 Xeta,,2008,Manual,Petrol,"49,906 km",1st,"90,000",kerala
+415,Maruti Suzuki,Wagon R,,2016,Manual,Petrol,"76,000 km",2nd,"3,45,000",kerala
+416,Maruti Suzuki,Alto,,2010,Manual,Petrol,"150,000 km",1st,"1,29,000",kerala
+417,Maruti Suzuki,800,,2002,Manual,Petrol,"60,000 km",2nd,"40,000",kerala
+418,-,-,,-,-,-,-,-,-,kerala
+419,Maruti Suzuki,Wagon R,,2008,Manual,Petrol,"78,000 km",2nd,"1,70,000",kerala
+420,Mahindra,Thar,,2017,Manual,Diesel,"30,000 km",-,"8,90,000",kerala
+421,BMW,3 Series,,2010,Automatic,Diesel,"89,000 km",2nd,"9,50,000",kerala
+422,BMW,X5,,2017,Automatic,Diesel,"45,000 km",1st,"62,00,000",kerala
+423,Ford,Fiesta,,2007,Manual,Diesel,"140,000 km",2nd,"1,50,000",kerala
+424,Maruti Suzuki,Wagon R 1.0,,2019,Manual,Petrol,"11,000 km",1st,"5,15,000",kerala
+425,Maruti Suzuki,800,,1997,Manual,Petrol,"69,644 km",3rd,"50,000",kerala
+426,Renault,Duster,,2019,Manual,Diesel,"28,000 km",1st,"8,40,000",kerala
+427,Chevrolet,Beat,,2011,Manual,Diesel,"75,000 km",2nd,"1,40,000",kerala
+428,Maruti Suzuki,Ritz,,2016,Manual,Diesel,"40,000 km",1st,"2,50,000",kerala
+429,Maruti Suzuki,Alto 800,,2013,Manual,Petrol,"14,000 km",1st,"2,10,000",kerala
+430,Maruti Suzuki,Swift,,2018,Automatic,Diesel,"10,000 km",1st,"3,75,000",kerala
+431,Maruti Suzuki,Wagon R,,2004,Manual,Petrol,"120,000 km",2nd,"1,15,000",kerala
+432,Hyundai,EON,,2011,Manual,Petrol,"81,339 km",2nd,"1,90,000",kerala
+433,Maruti Suzuki,Swift Dzire Tour,,2014,Manual,Diesel,"246,000 km",1st,"2,45,000",kerala
+434,Maruti Suzuki,800,,2016,Manual,Petrol,"49,000 km",2nd,"2,68,000",kerala
+435,Maruti Suzuki,800,,2004,Manual,Petrol,"36,500 km",1st,"45,000",kerala
+436,Datsun,GO,,2014,Manual,Petrol,"29,622 km",1st,"1,85,000",kerala
+437,Ashok Leyland,Stile,,2018,Manual,Diesel,"33,000 km",2nd,"6,75,000",kerala
+438,Maruti Suzuki,Swift,,2006,Manual,Petrol,"99,500 km",3rd,"2,00,000",kerala
+439,Tata,Indica,,2021,Manual,Diesel,0 km,1st,"15,000",kerala
+440,Tata,Harrier,,2019,Manual,Diesel,"8,600 km",1st,"16,75,000",kerala
+441,Maruti Suzuki,Swift,,2016,Manual,Petrol,"55,225 km",1st,"5,45,000",kerala
+442,Maruti Suzuki,Eeco,,2011,Manual,Petrol,"75,000 km",2nd,"1,98,000",kerala
+443,Maruti Suzuki,Swift Dzire,,2014,Manual,Diesel,"120,000 km",2nd,"4,00,000",kerala
+444,Mahindra,Xylo,,2010,Manual,Diesel,"120,000 km",2nd,"2,35,000",kerala
+445,Maruti Suzuki,800,,2015,Manual,Petrol,555 km,4th,"15,000",kerala
+446,Maruti Suzuki,Zen Estilo,,2013,Manual,Petrol,"92,345 km",2nd,"2,25,000",kerala
+447,Audi,Q5,,2015,Automatic,Diesel,"110,000 km",1st,"22,50,000",kerala
+448,Skoda,Octavia,,2011,Manual,Diesel,55 km,4th,"35,000",kerala
+449,Hyundai,Accent,,2013,Automatic,LPG,555 km,3rd,"15,000",kerala
+450,Maruti Suzuki,Alto K10,,2014,Automatic,-,"81,270 km",3rd,"2,90,000",kerala
+451,Ford,Classic,,2016,Automatic,Diesel,225 km,4th,"15,000",kerala
+452,Ford,Aspire,,2017,Manual,Diesel,"65,000 km",2nd,"4,68,000",kerala
+453,Ford,Ecosport,,2013,Manual,Diesel,"100,000 km",2nd,"5,25,000",kerala
+454,Renault,Pulse,,2012,Manual,Diesel,"110,000 km",1st,"2,55,000",kerala
+455,Hyundai,Creta,,2015,Manual,Diesel,"116,000 km",1st,"8,65,000",kerala
+456,Maruti Suzuki,Zen,,2000,Manual,Petrol,"95,000 km",3rd,"80,000",kerala
+457,Jeep,Compass,,2017,Manual,Diesel,"38,000 km",1st,"15,75,000",kerala
+458,-,-,,-,-,-,-,-,-,kerala
+459,Ford,Fiesta,,2008,Manual,Diesel,"120,000 km",1st,"1,48,000",kerala
+460,Volkswagen,Vento,,2014,Automatic,Diesel,"91,000 km",3rd,"5,45,000",kerala
+461,Audi,S5,,2018,Automatic,Petrol,"20,000 km",2nd,"58,00,000",kerala
+462,Volkswagen,Polo,,2019,Manual,Petrol,"44,080 km",1st,"6,40,000",kerala
+463,Nissan,Sunny,,2015,Manual,Diesel,"43,000 km",1st,"5,65,000",kerala
+464,Nissan,Micra Active,,2013,Manual,Petrol,"80,000 km",1st,"2,90,000",kerala
+465,Mahindra,Bolero Pik-Up,,2012,Automatic,Diesel,"150,000 km",2nd,"4,10,000",kerala
+466,Mahindra,Verito,,2013,Manual,Diesel,"260,000 km",2nd,"1,70,000",kerala
+467,Mahindra,Bolero,,2011,Manual,Diesel,"76,000 km",2nd,"4,55,000",kerala
+468,Maruti Suzuki,Alto,,2007,Manual,Petrol,"109,752 km",2nd,"1,05,000",kerala
+469,Hyundai,Santro Xing,,2010,Manual,Petrol,"95,000 km",2nd,"1,65,000",kerala
+470,Opel,Corsa,,2003,Manual,Petrol,"120,250 km",4th,"30,000",kerala
+471,Maruti Suzuki,Ritz,,2011,Manual,Diesel,"132,000 km",2nd,"2,85,000",kerala
+472,Chevrolet,Optra Magnum,,2010,Manual,Diesel,"110,000 km",1st,"3,00,000",kerala
+473,Maruti Suzuki,Swift,,2018,Manual,Diesel,"41,889 km",1st,"6,40,000",kerala
+474,Maruti Suzuki,Ertiga,,2016,Manual,Diesel,"50,000 km",1st,"7,50,000",kerala
+475,Toyota,Innova,,2012,Manual,Diesel,"110,000 km",2nd,"8,00,000",kerala
+476,Ford,Figo,,2015,Manual,Diesel,"25,086 km",2nd,"15,000",kerala
+477,Toyota,Innova,,2010,-,-,5 km,-,"1,00,000",kerala
+478,BMW,X5,,2016,-,Diesel,45 km,-,"45,55,555",kerala
+479,Maruti Suzuki,Swift Dzire,,2016,Manual,Diesel,"92,000 km",2nd,"4,15,000",kerala
+480,Maruti Suzuki,Baleno,,2018,Manual,Diesel,"13,000 km",1st,"7,75,000",kerala
+481,Hyundai,EON,,2017,Manual,Petrol,"14,958 km",1st,"3,10,000",kerala
+482,Skoda,Rapid,,2015,Automatic,Diesel,"122,000 km",1st,"4,85,000",kerala
+483,Maruti Suzuki,Alto 800,,2014,Manual,Petrol,"70,000 km",2nd,"2,10,000",kerala
+484,Maruti Suzuki,Swift,,2018,Manual,Petrol,"36,000 km",1st,"5,20,000",kerala
+485,Hyundai,Creta,,2015,Automatic,Diesel,82 km,1st,"9,75,000",kerala
+486,Maruti Suzuki,Eeco,,2020,Manual,Petrol,"6,600 km",1st,"4,50,000",kerala
+487,Maruti Suzuki,Swift,,2010,Manual,Diesel,"128,000 km",3rd,"2,35,000",kerala
+488,Maruti Suzuki,Zen,,2003,Manual,Petrol,0 km,4th,"60,000",kerala
+489,Tata,Indica Vista,,2011,Manual,Diesel,"75,000 km",2nd,"1,39,000",kerala
+490,Porsche,Cayenne,,2017,-,Diesel,123 km,-,"77,77,777",kerala
+491,Hyundai,i10,,2021,Manual,Petrol,"2,000 km",1st,"6,60,000",kerala
+492,Toyota,Etios Liva,,2015,Manual,Diesel,"75,000 km",2nd,"5,70,000",kerala
+493,Mahindra,TUV 300,,2016,-,Diesel,"68,000 km",1st,"6,50,000",kerala
+494,Maruti Suzuki,Swift,,2017,Manual,Diesel,"80,000 km",1st,"5,60,000",kerala
+495,Maruti Suzuki,Ritz,,2016,Manual,Petrol,"80,000 km",1st,"4,40,000",kerala
+496,Mahindra Renault,Logan,,2009,Manual,Diesel,"95,000 km",2nd,"1,09,000",kerala
+497,Ford,Figo,,2012,Manual,Diesel,"66,011 km",1st,"2,15,000",kerala
+498,Ford,Figo,,2010,Manual,Diesel,"118,000 km",3rd,"1,95,000",kerala
+499,Toyota,Etios Liva,,2017,Manual,Petrol,"21,000 km",2nd,"5,95,000",kerala
+500,Maruti Suzuki,Swift Dzire,,2018,Manual,Diesel,"8,900 km",1st,"7,25,000",kerala
+501,Hyundai,Verna,,2016,Manual,Petrol,"77,889 km",2nd,"6,30,000",kerala
+502,Maruti Suzuki,Swift Dzire,,2018,Manual,Diesel,"70,500 km",1st,"6,35,000",kerala
+503,Ford,Figo,,2011,-,Diesel,"117,000 km",1st,"1,83,000",kerala
+504,Maruti Suzuki,Baleno,,2017,Manual,Petrol,"42,042 km",1st,"5,75,000",kerala
+505,Maruti Suzuki,Wagon R,,2007,Manual,Petrol,"133,916 km",1st,"1,55,000",kerala
+506,Maruti Suzuki,Alto K10,,2014,Manual,Petrol,"35,000 km",1st,"2,70,000",kerala
+507,Maruti Suzuki,Alto,,2002,Manual,Petrol,"115,000 km",3rd,"1,45,000",kerala
+508,Mahindra,Marazzo,,2020,Manual,Diesel,"10,000 km",1st,"13,00,000",kerala
+509,Ford,Ecosport,,2020,Manual,Petrol,"12,100 km",1st,"8,20,000",kerala
+510,Maruti Suzuki,800,,2003,Manual,Petrol,"68,000 km",2nd,"60,000",kerala
+511,Maruti Suzuki,Swift,,2018,Automatic,Petrol,"50,000 km",1st,"7,25,000",kerala
+512,Maruti Suzuki,800,,2003,Manual,Petrol,"33,000 km",2nd,"1,30,000",kerala
+513,Maruti Suzuki,Swift,,2013,Manual,Diesel,"119,024 km",1st,"3,75,000",kerala
+514,Toyota,Innova,,2005,Manual,Diesel,"165,000 km",2nd,"4,15,000",kerala
+515,Maruti Suzuki,Celerio X,,2018,Manual,Petrol,"50,000 km",1st,"4,25,000",kerala
+516,Maruti Suzuki,Vitara Brezza,,2017,Manual,Diesel,"22,500 km",2nd,"7,50,000",kerala
+517,Hyundai,EON,,2014,Manual,Petrol,"66,000 km",2nd,"2,50,000",kerala
+518,Hyundai,Creta,,2017,Manual,Diesel,"52,000 km",2nd,"5,50,000",kerala
+519,Maruti Suzuki,Estilo,,2011,Manual,Petrol,"90,000 km",1st,"1,80,000",kerala
+520,Maruti Suzuki,Vitara Brezza,,2018,Manual,Diesel,"36,745 km",1st,"9,40,000",kerala
+521,Maruti Suzuki,Ertiga,,2020,Manual,Diesel,"58,000 km",1st,"9,50,000",kerala
+522,BMW,6 Series,,2012,Automatic,Diesel,"48,000 km",2nd,"40,00,000",kerala
+523,Maruti Suzuki,800,,2003,Manual,Petrol,"120,000 km",2nd,"50,000",kerala
+524,Mahindra,Scorpio,,2006,Manual,Diesel,"130,000 km",3rd,"1,95,000",kerala
+525,Bajaj,Others,,1993,Manual,Petrol,"111,111 km",2nd,"42,000",kerala
+526,Hyundai,i10,,2010,Manual,Petrol,"63,511 km",2nd,"2,15,000",kerala
+527,Jeep,Compass,,2018,Manual,Diesel,"49,000 km",1st,"16,00,000",kerala
+528,Hyundai,i10,,2011,Manual,Petrol,"72,446 km",1st,"2,65,000",kerala
+529,Maruti Suzuki,Swift,,2018,Manual,Diesel,"62,000 km",1st,"6,10,000",kerala
+530,Ford,Figo Aspire,,2017,Manual,Diesel,"52,000 km",1st,"4,50,000",kerala
+531,Hyundai,Santro Xing,,2008,Manual,Petrol,"54,986 km",1st,"1,38,000",kerala
+532,Maruti Suzuki,Omni,,2010,Manual,Petrol,"78,958 km",2nd,"1,58,000",kerala
+533,Maruti Suzuki,Eeco,,2013,Manual,Petrol,"65,000 km",1st,"2,75,000",kerala
+534,-,-,,-,-,-,-,-,-,kerala
+535,-,-,,-,-,-,-,-,-,kerala
+536,Tata,Indigo,,2003,Manual,Petrol,"74,586 km",3rd,"65,000",kerala
+537,Hyundai,i10,,2008,Manual,Petrol,"90,791 km",3rd,"1,65,000",kerala
+538,Maruti Suzuki,Alto K10,,2011,-,Petrol,"36,499 km",1st,"2,15,000",kerala
+539,Maruti Suzuki,800,,2003,Manual,Petrol,"50,751 km",4+,"69,000",kerala
+540,Jeep,Compass,,2019,Manual,Diesel,"36,860 km",1st,"14,50,000",kerala
+541,Chevrolet,Cruze,,2011,Manual,Diesel,"185,000 km",1st,"5,00,000",kerala
+542,Maruti Suzuki,Swift Dzire,,2018,Manual,Petrol,"27,000 km",1st,"6,45,000",kerala
+543,Hyundai,Grand i10,,2016,Manual,Petrol,"33,067 km",1st,"4,25,000",kerala
+544,Maruti Suzuki,800,,2007,Manual,Petrol,"50,000 km",1st,"90,000",kerala
+545,Mercedes-Benz,CLA,,2015,Automatic,Diesel,"35,000 km",1st,"29,00,000",kerala
+546,Maruti Suzuki,Swift,,2018,Manual,Diesel,"50,100 km",1st,"6,35,000",kerala
+547,Maruti Suzuki,Swift,,2019,Manual,Petrol,"35,000 km",1st,"5,60,000",kerala
+548,Hyundai,Santro Xing,,2007,Manual,Petrol,"56,000 km",2nd,"1,48,000",kerala
+549,Mahindra,XUV500,,2018,Manual,Diesel,"52,989 km",1st,"9,75,000",kerala
+550,Mercedes-Benz,A Class,,2013,Automatic,Diesel,"40,000 km",1st,"16,00,000",kerala
+551,Tata,Indigo Ecs,,2011,Manual,Diesel,"100,000 km",2nd,"85,000",kerala
+552,Maruti Suzuki,Ritz,,2009,Manual,Petrol,"131,288 km",3rd,"2,15,000",kerala
+553,Maruti Suzuki,Alto,,2009,Manual,Petrol,"70,000 km",2nd,"1,45,000",kerala
+554,Chevrolet,Spark,,2010,Manual,Petrol,"76,342 km",3rd,"1,00,000",kerala
+555,Maruti Suzuki,Alto 800,,2017,Manual,Petrol,"57,858 km",1st,"2,85,000",kerala
+556,Volkswagen,Vento,,2012,Manual,Diesel,"80,000 km",4+,"3,40,000",kerala
+557,Tata,Nano,,2014,Manual,Petrol,"64,585 km",1st,"1,35,000",kerala
+558,Ford,Fiesta,,2007,Manual,Petrol,"107,858 km",3rd,"1,05,000",kerala
+559,Chevrolet,Spark,,2008,Manual,Petrol,"85,858 km",2nd,"89,000",kerala
+560,Renault,Triber,,2019,Manual,Petrol,"2,650 km",1st,"6,75,000",kerala
+561,Hyundai,Xcent,,2017,Manual,Diesel,"35,266 km",1st,"4,85,000",kerala
+562,Volkswagen,Polo,,2017,Manual,Diesel,"52,486 km",2nd,"6,84,000",kerala
+563,Honda,BR-V,,2017,Manual,Diesel,"100,000 km",1st,"6,00,000",kerala
+564,Maruti Suzuki,Wagon R,,2014,Manual,Petrol,"72,000 km",2nd,"3,40,000",kerala
+565,Hyundai,Santro Xing,,2007,Manual,Petrol,"77,000 km",2nd,"1,40,000",kerala
+566,Maruti Suzuki,Swift,,2019,Manual,Diesel,"30,000 km",1st,"7,80,000",kerala
+567,Maruti Suzuki,800,,1996,Manual,Petrol,77 km,3rd,"45,000",kerala
+568,Kia,Others,,2021,Automatic,Petrol,0 km,1st,"4,00,000",kerala
+569,Tata,Indica V2,,2013,Manual,Diesel,"82,130 km",2nd,"1,20,000",kerala
+570,Maruti Suzuki,Alto 800,,2015,Manual,Petrol,"57,000 km",1st,"2,40,000",kerala
+571,Maruti Suzuki,Wagon R,,2010,Manual,Petrol,89 km,2nd,"2,45,000",kerala
+572,Hyundai,Santro Xing,,2006,Manual,Petrol,"110,265 km",4+,"95,000",kerala
+573,BMW,X5,,2017,Automatic,Diesel,"44,000 km",1st,"59,00,000",kerala
+574,Nissan,Sunny,,2016,Manual,Diesel,"100,000 km",1st,"2,90,000",kerala
+575,Maruti Suzuki,Alto 800,,2004,Manual,Petrol,"105,000 km",3rd,"80,000",kerala
+576,Maruti Suzuki,Alto,,2010,Manual,Petrol,"76,000 km",2nd,"1,55,000",kerala
+577,Hyundai,Venue,,2021,Manual,Petrol,0 km,-,"6,99,200",kerala
+578,BMW,5 Series Gt,,2018,-,-,55 km,-,"25,000",kerala
+579,Maruti Suzuki,Zen,,2003,Manual,Petrol,0 km,2nd,"1,10,000",kerala
+580,Hyundai,Creta,,2018,Automatic,Petrol,"60,000 km",1st,"13,50,000",kerala
+581,-,-,,-,-,-,-,-,-,kerala
+582,Mercedes-Benz,E-Class,,2018,Automatic,Diesel,"45,000 km",1st,"65,00,000",kerala
+583,Hyundai,Santro Xing,,2009,Manual,Petrol,"49,500 km",2nd,"1,55,000",kerala
+584,Maruti Suzuki,Swift,,2011,Manual,Diesel,"130,000 km",-,"3,35,000",kerala
+585,Maruti Suzuki,Swift,,2017,Manual,Petrol,"34,000 km",1st,"6,10,000",kerala
+586,Tata,Sumo Spacio,,2008,Manual,Diesel,"199,000 km",3rd,"1,25,000",kerala
+587,Maruti Suzuki,Swift,,2018,Manual,Petrol,"75,000 km",2nd,"5,30,000",kerala
+588,Maruti Suzuki,Wagon R,,2008,Manual,Petrol,"80,000 km",3rd,"1,50,000",kerala
+589,Other Brands,Others,,2014,Manual,Diesel,"50,000 km",1st,"64,000",kerala
+590,Ford,Figo,,2012,Manual,Diesel,"82,000 km",2nd,"1,83,000",kerala
+591,Jeep,Compass,,2019,-,Petrol,"27,000 km",-,"17,60,000",kerala
+592,Hyundai,i20,,2014,Manual,Diesel,"10,000 km",1st,"17,000",kerala
+593,Maruti Suzuki,800,,2003,Manual,Petrol,"68,000 km",2nd,"50,000",kerala
+594,Force Motors,Others,,2011,Manual,Diesel,"55,000 km",2nd,"4,50,000",kerala
+595,Jaguar,XJ,,2017,-,-,55 km,-,"20,000",kerala
+596,Maruti Suzuki,Wagon R,,2008,-,-,"47,413 km",1st,"2,15,000",kerala
+597,Mahindra,Bolero Power Plus,,2017,Manual,Diesel,"68,000 km",1st,"7,75,000",kerala
+598,Datsun,Redi Go,,2017,Manual,Petrol,"40,000 km",1st,"2,10,000",kerala
+599,Mercedes-Benz,E-Class,,2018,-,-,555 km,4+,"1,00,000",kerala
+600,Mercedes-Benz,GLE Class,,2017,Automatic,Diesel,"77,000 km",1st,"46,00,000",kerala
+601,Toyota,Innova Crysta,,2017,-,Diesel,"36,000 km",2nd,"17,50,000",kerala
+602,Datsun,GO,,2015,Manual,Petrol,"22,000 km",1st,"2,35,000",kerala
+603,Maruti Suzuki,800,,2008,Manual,Petrol,"68,000 km",2nd,"89,000",kerala
+604,Maruti Suzuki,Swift,,2010,Manual,Petrol,"75,000 km",2nd,"2,65,000",kerala
+605,Toyota,Etios,,2014,Manual,Diesel,"125,000 km",2nd,"3,75,000",kerala
+606,Maruti Suzuki,Wagon R,,2008,Manual,Petrol,"47,000 km",2nd,"1,95,000",kerala
+607,Chevrolet,Beat,,2012,Manual,Diesel,"78,000 km",4th,"1,18,000",kerala
+608,Maruti Suzuki,Omni,,2002,Manual,Petrol,0 km,2nd,"55,000",kerala
+609,Maruti Suzuki,Swift,,2011,Manual,Diesel,"112,529 km",1st,"3,40,000",kerala
+610,Hyundai,EON,,2014,Manual,Petrol,"56,000 km",1st,"2,65,000",kerala
+611,Toyota,Innova,,2012,Manual,Diesel,"75,000 km",1st,"7,35,000",kerala
+612,Maruti Suzuki,Wagon R,,2011,Manual,Petrol,"133,000 km",3rd,"2,40,000",kerala
+613,Hyundai,Elite i20,,2017,Manual,Diesel,"85,000 km",2nd,"6,50,000",kerala
+614,Tata,Indica V2 Xeta,,2008,Manual,Petrol,"49,906 km",1st,"90,000",kerala
+615,Maruti Suzuki,Wagon R,,2016,Manual,Petrol,"76,000 km",2nd,"3,45,000",kerala
+616,Maruti Suzuki,Alto,,2010,Manual,Petrol,"150,000 km",1st,"1,29,000",kerala
+617,Maruti Suzuki,800,,2002,Manual,Petrol,"60,000 km",2nd,"40,000",kerala
+618,-,-,,-,-,-,-,-,-,kerala
+619,Maruti Suzuki,Wagon R,,2008,Manual,Petrol,"78,000 km",2nd,"1,70,000",kerala
+620,Mahindra,Thar,,2017,Manual,Diesel,"30,000 km",-,"8,90,000",kerala
+621,BMW,3 Series,,2010,Automatic,Diesel,"89,000 km",2nd,"9,50,000",kerala
+622,BMW,X5,,2017,Automatic,Diesel,"45,000 km",1st,"62,00,000",kerala
+623,Ford,Fiesta,,2007,Manual,Diesel,"140,000 km",2nd,"1,50,000",kerala
+624,Maruti Suzuki,Wagon R 1.0,,2019,Manual,Petrol,"11,000 km",1st,"5,15,000",kerala
+625,Maruti Suzuki,800,,1997,Manual,Petrol,"69,644 km",3rd,"50,000",kerala
+626,Renault,Duster,,2019,Manual,Diesel,"28,000 km",1st,"8,40,000",kerala
+627,Chevrolet,Beat,,2011,Manual,Diesel,"75,000 km",2nd,"1,40,000",kerala
+628,Maruti Suzuki,Ritz,,2016,Manual,Diesel,"40,000 km",1st,"2,50,000",kerala
+629,Maruti Suzuki,Alto 800,,2013,Manual,Petrol,"14,000 km",1st,"2,10,000",kerala
+630,Maruti Suzuki,Swift,,2018,Automatic,Diesel,"10,000 km",1st,"3,75,000",kerala
+631,Maruti Suzuki,Wagon R,,2004,Manual,Petrol,"120,000 km",2nd,"1,15,000",kerala
+632,Hyundai,EON,,2011,Manual,Petrol,"81,339 km",2nd,"1,90,000",kerala
+633,Maruti Suzuki,Swift Dzire Tour,,2014,Manual,Diesel,"246,000 km",1st,"2,45,000",kerala
+634,Maruti Suzuki,800,,2016,Manual,Petrol,"49,000 km",2nd,"2,68,000",kerala
+635,Maruti Suzuki,800,,2004,Manual,Petrol,"36,500 km",1st,"45,000",kerala
+636,Datsun,GO,,2014,Manual,Petrol,"29,622 km",1st,"1,85,000",kerala
+637,Ashok Leyland,Stile,,2018,Manual,Diesel,"33,000 km",2nd,"6,75,000",kerala
+638,Maruti Suzuki,Swift,,2006,Manual,Petrol,"99,500 km",3rd,"2,00,000",kerala
+639,Tata,Indica,,2021,Manual,Diesel,0 km,1st,"15,000",kerala
+640,Maruti Suzuki,Alto 800,,2017,Manual,Petrol,"16,852 km",1st,"3,35,000",kerala
+641,Jaguar,XF,,2015,Automatic,Diesel,"53,000 km",2nd,"28,00,000",kerala
+642,Maruti Suzuki,Alto 800,,2014,Manual,Petrol,"41,000 km",2nd,"2,40,000",kerala
+643,Maruti Suzuki,A-Star,,2009,Manual,Petrol,"95,000 km",2nd,"1,52,000",kerala
+644,Maruti Suzuki,Alto,,2005,Manual,Petrol,"90,000 km",3rd,"90,000",kerala
+645,Maruti Suzuki,Swift Dzire,,2017,Manual,Petrol,"86,000 km",1st,"5,85,000",kerala
+646,Maruti Suzuki,800,,2003,Manual,Petrol,1 km,3rd,"65,000",kerala
+647,Ford,Figo,,2016,Manual,Diesel,"29,000 km",1st,"5,10,000",kerala
+648,Maruti Suzuki,Wagon R,,2007,Manual,Petrol,"75,109 km",2nd,"1,35,000",kerala
+649,Maruti Suzuki,Swift Dzire Tour,,2016,-,-,"100,000 km",1st,"3,60,000",kerala
+650,Jeep,Compass,,2019,Manual,Petrol,"23,000 km",1st,"18,00,000",kerala
+651,Hyundai,Xcent,,2014,Manual,Diesel,"114,000 km",1st,"3,60,000",kerala
+652,Maruti Suzuki,Omni,,2000,Manual,Petrol,85 km,4th,"62,000",kerala
+653,Hyundai,Accent,,2006,Manual,Petrol,"91,000 km",1st,"1,00,000",kerala
+654,Mahindra,Bolero Power Plus,,2015,Manual,Diesel,"73,254 km",2nd,"6,77,000",kerala
+655,Mahindra,Scorpio,,2009,Manual,Diesel,"110,000 km",1st,"4,00,000",kerala
+656,Maruti Suzuki,Alto,,2001,Manual,Petrol,"87,000 km",1st,"70,000",kerala
+657,Volkswagen,Polo,,2015,Manual,Diesel,"89,468 km",2nd,"6,30,000",kerala
+658,Mahindra,XUV500,,2018,Automatic,Diesel,"81,000 km",1st,"16,50,000",kerala
+659,Maruti Suzuki,Alto,,2002,Manual,Petrol,"160,000 km",3rd,"75,000",kerala
+660,Ambassador,Ambassador,,2007,Manual,Diesel,"80,000 km",1st,"75,000",kerala
+661,Hyundai,i20,,2020,Manual,Petrol,"3,500 km",1st,"7,85,000",kerala
+662,Chevrolet,Beat,,2013,Manual,Diesel,"85,895 km",3rd,"1,38,000",kerala
+663,Maruti Suzuki,Stingray,,2015,Manual,Petrol,"74,500 km",2nd,"3,30,000",kerala
+664,Toyota,Corolla,,2009,Manual,Petrol,"74,000 km",2nd,"3,11,000",kerala
+665,Honda,Jazz,,2018,Manual,Petrol,"20,000 km",1st,"7,00,000",kerala
+666,Maruti Suzuki,800,,2001,Manual,Petrol,"97,500 km",2nd,"47,000",kerala
+667,Mitsubishi,Lancer,,2005,Manual,Diesel,1 km,1st,"1,25,000",kerala
+668,Maruti Suzuki,800,,2001,Manual,Petrol,"67,000 km",2nd,"46,000",kerala
+669,Other Brands,Others,,2021,Manual,CNG & Hybrids,0 km,2nd,"6,00,000",kerala
+670,Volkswagen,Polo,,2018,Manual,Petrol,"18,678 km",2nd,"6,50,000",kerala
+671,Mahindra,Scorpio,,2008,Manual,Diesel,"185,000 km",1st,"3,50,000",kerala
+672,Ford,Figo,,2020,Manual,Diesel,"12,000 km",1st,"7,25,000",kerala
+673,Maruti Suzuki,Zen,,1998,Manual,Petrol,"54,000 km",3rd,"52,000",kerala
+674,Mahindra,Jeep,,2004,Manual,Diesel,"110,000 km",2nd,"2,99,999",kerala
+675,Maruti Suzuki,Alto 800,,2017,Manual,Petrol,"9,500 km",2nd,"2,35,000",kerala
+676,Renault,KWID,,2016,Manual,Petrol,"56,324 km",2nd,"2,75,000",kerala
+677,Hyundai,i10,,2011,Manual,Petrol,82 km,2nd,"2,80,000",kerala
+678,Maruti Suzuki,Wagon R,,2003,Manual,Petrol,"10,000 km",2nd,"1,05,000",kerala
+679,Maruti Suzuki,Alto,,2006,Manual,Petrol,"73,000 km",1st,"85,000",kerala
+680,Maruti Suzuki,Ertiga,,2013,Manual,Diesel,"116,320 km",2nd,"4,75,000",kerala
+681,Maruti Suzuki,Vitara Brezza,,2017,Manual,Diesel,"16,500 km",1st,"8,25,000",kerala
+682,Maruti Suzuki,Alto 800,,2018,Manual,Petrol,"38,650 km",1st,"3,15,000",kerala
+683,Hyundai,Santro Xing,,2010,Manual,Petrol,"76,656 km",3rd,"1,99,000",kerala
+684,Maruti Suzuki,Wagon R,,2004,Manual,Petrol,"74,600 km",3rd,"1,00,000",kerala
+685,Mahindra,Scorpio,,2007,Manual,Diesel,"144,000 km",2nd,"2,40,000",kerala
+686,Chevrolet,Aveo,,2006,Automatic,Petrol,"88,000 km",1st,"1,10,000",kerala
+687,Volkswagen,Ameo,,2017,Automatic,Diesel,"45,000 km",1st,"7,50,000",kerala
+688,Maruti Suzuki,Wagon R,,2009,Manual,Petrol,0 km,-,"1,50,000",kerala
+689,Maruti Suzuki,Ignis,,2019,Automatic,Petrol,"17,000 km",1st,"6,00,000",kerala
+690,Ford,Ecosport,,2014,Manual,Diesel,"90,000 km",1st,"5,10,000",kerala
+691,Audi,A6,,2016,Automatic,Diesel,"55,555 km",-,"25,000",kerala
+692,Toyota,Fortuner,,2011,Manual,Diesel,"250,000 km",2nd,"11,50,000",kerala
+693,Toyota,Fortuner,,2012,Automatic,Diesel,"65,000 km",2nd,"16,50,000",kerala
+694,Maruti Suzuki,Zen,,1997,Manual,Petrol,"92,545 km",3rd,"43,000",kerala
+695,Maruti Suzuki,Swift,,2015,Manual,Petrol,"92,000 km",1st,"4,90,000",kerala
+696,Maruti Suzuki,Zen,,2002,Automatic,Petrol,"59,639 km",2nd,"68,500",kerala
+697,Maruti Suzuki,Alto 800,,2014,Manual,Petrol,"79,000 km",2nd,"2,20,000",kerala
+698,Maruti Suzuki,800,,2003,Manual,Petrol,0 km,2nd,"80,000",kerala
+699,Maruti Suzuki,Ertiga,,2017,Manual,Diesel,"38,000 km",2nd,"8,25,000",kerala
+700,Kia,Seltos,,2019,Manual,Petrol,"20,000 km",1st,"13,75,000",kerala
+701,Maruti Suzuki,Swift Dzire,,2015,Manual,Petrol,"29,000 km",2nd,"4,80,000",kerala
+702,Honda,BR-V,,2018,Manual,Diesel,"72,500 km",1st,"5,75,000",kerala
+703,Maruti Suzuki,Alto,,2006,Manual,Petrol,"86,000 km",1st,"1,05,000",kerala
+704,Hyundai,Grand i10,,2008,Manual,Petrol,"79,000 km",-,"1,72,000",kerala
+705,Maruti Suzuki,Estilo,,2007,Manual,Petrol,"71,651 km",2nd,"1,30,000",kerala
+706,Mercedes-Benz,E-Class,,2013,-,-,"50,000 km",2nd,"25,00,000",kerala
+707,Hyundai,EON,,2016,Manual,Petrol,57 km,1st,"2,57,000",kerala
+708,Ashok Leyland,Others,,2018,-,-,"5,555 km",-,"20,00,000",kerala
+709,Maruti Suzuki,Swift,,2014,Manual,Diesel,"83,000 km",1st,"4,50,000",kerala
+710,Maruti Suzuki,Zen,,1998,Manual,Petrol,0 km,4+,"62,000",kerala
+711,Hyundai,EON,,2012,Manual,Petrol,"62,347 km",3rd,"1,85,000",kerala
+712,Mahindra,Scorpio,,2005,Manual,Petrol,"181,000 km",3rd,"1,50,000",kerala
+713,Tata,Indica,,2008,Manual,Diesel,"102,000 km",2nd,"60,000",kerala
+714,Mahindra,Jeep,,1996,Manual,Diesel,"34,000 km",3rd,"2,65,000",kerala
+715,Maruti Suzuki,Eeco,,2017,Manual,Petrol,"35,000 km",2nd,"3,35,000",kerala
+716,Maruti Suzuki,800,,2005,Manual,Petrol,"180,000 km",2nd,"40,000",kerala
+717,Maruti Suzuki,Eeco,,2010,Manual,Petrol,"75,000 km",4th,"1,75,000",kerala
+718,Maruti Suzuki,Zen,,1996,Manual,Petrol,"37,939 km",3rd,"40,000",kerala
+719,Maruti Suzuki,Wagon R,,2009,Manual,LPG,"95,000 km",2nd,"1,70,000",kerala
+720,-,-,,-,-,-,-,-,-,kerala
+721,Renault,Pulse,,2014,Manual,Diesel,"75,000 km",1st,"3,15,000",kerala
+722,Volkswagen,Jetta,,2016,Automatic,Diesel,"89,179 km",3rd,"11,50,000",kerala
+723,Maruti Suzuki,Eeco,,2010,Manual,Petrol,"112,000 km",2nd,"2,10,000",kerala
+724,Tata,Xenon XT,,2014,Manual,Diesel,"62,400 km",2nd,"6,00,000",kerala
+725,Honda,Civic,,2007,Manual,Petrol,85 km,3rd,"1,90,000",kerala
+726,Hyundai,Santro Xing,,2009,Manual,Petrol,"68,000 km",2nd,"1,90,000",kerala
+727,Hyundai,Santro Xing,,2007,Manual,Petrol,"100,000 km",2nd,"1,35,000",kerala
+728,Hyundai,EON,,2015,Manual,Petrol,"28,000 km",2nd,"2,65,000",kerala
+729,Honda,City,,2017,Manual,Diesel,"82,000 km",1st,"8,75,000",kerala
+730,Renault,Duster,,2012,Manual,Diesel,"70,000 km",1st,"6,50,000",kerala
+731,Maruti Suzuki,Swift,,2009,Manual,Petrol,"150,000 km",3rd,"2,20,000",kerala
+732,Honda,Others,,1996,Manual,Petrol,"210,000 km",3rd,"16,500",kerala
+733,Maruti Suzuki,Ciaz,,2014,Manual,Diesel,"119,000 km",2nd,"6,25,000",kerala
+734,Ford,Figo,,2013,Manual,Diesel,"86,032 km",2nd,"2,00,000",kerala
+735,Maruti Suzuki,Zen,,1999,Manual,Petrol,"5,975 km",2nd,"65,000",kerala
+736,Toyota,Innova,,2010,Manual,Diesel,"110,000 km",3rd,"7,50,000",kerala
+737,Hyundai,EON,,2015,Manual,Petrol,"51,000 km",1st,"2,55,000",kerala
+738,Maruti Suzuki,Alto,,2005,Manual,Petrol,"65,000 km",2nd,"1,10,000",kerala
+739,Mahindra,Xylo,,2010,Automatic,Diesel,"98,000 km",2nd,"2,10,000",kerala
+740,Toyota,Glanza,,2020,Manual,Petrol,"8,500 km",1st,"7,50,000",kerala
+741,Volkswagen,Polo,,2015,Automatic,Petrol,"80,000 km",2nd,"5,85,000",kerala
+742,Hyundai,Creta,,2015,Manual,Diesel,"106,000 km",1st,"8,45,000",kerala
+743,Chevrolet,Tavera Neo,,2012,Manual,Diesel,"90,000 km",2nd,"3,90,000",kerala
+744,Toyota,Fortuner,,2011,Manual,Diesel,"75,000 km",1st,"12,00,000",kerala
+745,Maruti Suzuki,Wagon R 1.0,,2013,Manual,Petrol,"54,947 km",2nd,"3,33,000",kerala
+746,Toyota,Etios Liva,,2018,-,Petrol,"37,000 km",1st,"6,75,000",kerala
+747,Maruti Suzuki,Swift,,2016,Manual,Diesel,"50,000 km",1st,"5,85,000",kerala
+748,Volkswagen,Polo,,2014,-,Petrol,"57,000 km",1st,"5,15,000",kerala
+749,Maruti Suzuki,Omni,,2006,Manual,Petrol,"98,000 km",4+,"98,000",kerala
+750,Tata,Indica Vista,,2012,Manual,Diesel,"264,000 km",1st,"1,15,000",kerala
+751,Maruti Suzuki,Ritz,,2011,Manual,Diesel,"122,000 km",3rd,"2,75,000",kerala
+752,Toyota,Fortuner,,2010,Manual,Diesel,"140,000 km",2nd,"10,85,000",kerala
+753,Ambassador,Ambassador,,1999,Manual,Diesel,"79,000 km",3rd,"57,000",kerala
+754,Mahindra,Bolero Pik-Up,,2009,Manual,Diesel,"110,000 km",2nd,"2,20,000",kerala
+755,Toyota,Etios,,2012,Manual,Diesel,"128,000 km",2nd,"2,95,000",kerala
+756,Maruti Suzuki,Zen,,2005,Manual,Petrol,"76,000 km",3rd,"1,15,000",kerala
+757,Maruti Suzuki,Baleno,,2018,Automatic,Petrol,"37,000 km",1st,"7,40,000",kerala
+758,Honda,Brio,,2012,Manual,Petrol,"55,500 km",1st,"3,35,000",kerala
+759,Tata,Others,,2021,Manual,Diesel,"4,000 km",1st,"2,50,000",kerala
+760,Tata,Harrier,,2019,Manual,Diesel,"8,600 km",1st,"16,75,000",kerala
+761,Maruti Suzuki,Swift,,2016,Manual,Petrol,"55,225 km",1st,"5,45,000",kerala
+762,Maruti Suzuki,Eeco,,2011,Manual,Petrol,"75,000 km",2nd,"1,98,000",kerala
+763,Maruti Suzuki,Swift Dzire,,2014,Manual,Diesel,"120,000 km",2nd,"4,00,000",kerala
+764,Mahindra,Xylo,,2010,Manual,Diesel,"120,000 km",2nd,"2,35,000",kerala
+765,Maruti Suzuki,800,,2015,Manual,Petrol,555 km,4th,"15,000",kerala
+766,Maruti Suzuki,Zen Estilo,,2013,Manual,Petrol,"92,345 km",2nd,"2,25,000",kerala
+767,Audi,Q5,,2015,Automatic,Diesel,"110,000 km",1st,"22,50,000",kerala
+768,Skoda,Octavia,,2011,Manual,Diesel,55 km,4th,"35,000",kerala
+769,Hyundai,Accent,,2013,Automatic,LPG,555 km,3rd,"15,000",kerala
+770,Maruti Suzuki,Alto K10,,2014,Automatic,-,"81,270 km",3rd,"2,90,000",kerala
+771,Ford,Classic,,2016,Automatic,Diesel,225 km,4th,"15,000",kerala
+772,Ford,Aspire,,2017,Manual,Diesel,"65,000 km",2nd,"4,68,000",kerala
+773,Ford,Ecosport,,2013,Manual,Diesel,"100,000 km",2nd,"5,25,000",kerala
+774,Renault,Pulse,,2012,Manual,Diesel,"110,000 km",1st,"2,55,000",kerala
+775,Hyundai,Creta,,2015,Manual,Diesel,"116,000 km",1st,"8,65,000",kerala
+776,Maruti Suzuki,Zen,,2000,Manual,Petrol,"95,000 km",3rd,"80,000",kerala
+777,Jeep,Compass,,2017,Manual,Diesel,"38,000 km",1st,"15,75,000",kerala
+778,-,-,,-,-,-,-,-,-,kerala
+779,Ford,Fiesta,,2008,Manual,Diesel,"120,000 km",1st,"1,48,000",kerala
+780,Volkswagen,Vento,,2014,Automatic,Diesel,"91,000 km",3rd,"5,45,000",kerala
+781,Audi,S5,,2018,Automatic,Petrol,"20,000 km",2nd,"58,00,000",kerala
+782,Volkswagen,Polo,,2019,Manual,Petrol,"44,080 km",1st,"6,40,000",kerala
+783,Nissan,Sunny,,2015,Manual,Diesel,"43,000 km",1st,"5,65,000",kerala
+784,Nissan,Micra Active,,2013,Manual,Petrol,"80,000 km",1st,"2,90,000",kerala
+785,Mahindra,Bolero Pik-Up,,2012,Automatic,Diesel,"150,000 km",2nd,"4,10,000",kerala
+786,Mahindra,Verito,,2013,Manual,Diesel,"260,000 km",2nd,"1,70,000",kerala
+787,Mahindra,Bolero,,2011,Manual,Diesel,"76,000 km",2nd,"4,55,000",kerala
+788,Maruti Suzuki,Alto,,2007,Manual,Petrol,"109,752 km",2nd,"1,05,000",kerala
+789,Hyundai,Santro Xing,,2010,Manual,Petrol,"95,000 km",2nd,"1,65,000",kerala
+790,Opel,Corsa,,2003,Manual,Petrol,"120,250 km",4th,"30,000",kerala
+791,Maruti Suzuki,Ritz,,2011,Manual,Diesel,"132,000 km",2nd,"2,85,000",kerala
+792,Chevrolet,Optra Magnum,,2010,Manual,Diesel,"110,000 km",1st,"3,00,000",kerala
+793,Maruti Suzuki,Swift,,2018,Manual,Diesel,"41,889 km",1st,"6,40,000",kerala
+794,Maruti Suzuki,Ertiga,,2016,Manual,Diesel,"50,000 km",1st,"7,50,000",kerala
+795,Toyota,Innova,,2012,Manual,Diesel,"110,000 km",2nd,"8,00,000",kerala
+796,Ford,Figo,,2015,Manual,Diesel,"25,086 km",2nd,"15,000",kerala
+797,Toyota,Innova,,2010,-,-,5 km,-,"1,00,000",kerala
+798,BMW,X5,,2016,-,Diesel,45 km,-,"45,55,555",kerala
+799,Maruti Suzuki,Swift Dzire,,2016,Manual,Diesel,"92,000 km",2nd,"4,15,000",kerala
+800,Maruti Suzuki,Baleno,,2018,Manual,Diesel,"13,000 km",1st,"7,75,000",kerala
+801,Hyundai,EON,,2017,Manual,Petrol,"14,958 km",1st,"3,10,000",kerala
+802,Skoda,Rapid,,2015,Automatic,Diesel,"122,000 km",1st,"4,85,000",kerala
+803,Maruti Suzuki,Alto 800,,2014,Manual,Petrol,"70,000 km",2nd,"2,10,000",kerala
+804,Maruti Suzuki,Swift,,2018,Manual,Petrol,"36,000 km",1st,"5,20,000",kerala
+805,Hyundai,Creta,,2015,Automatic,Diesel,82 km,1st,"9,75,000",kerala
+806,Maruti Suzuki,Eeco,,2020,Manual,Petrol,"6,600 km",1st,"4,50,000",kerala
+807,Maruti Suzuki,Swift,,2010,Manual,Diesel,"128,000 km",3rd,"2,35,000",kerala
+808,Maruti Suzuki,Zen,,2003,Manual,Petrol,0 km,4th,"60,000",kerala
+809,Tata,Indica Vista,,2011,Manual,Diesel,"75,000 km",2nd,"1,39,000",kerala
+810,Porsche,Cayenne,,2017,-,Diesel,123 km,-,"77,77,777",kerala
+811,Hyundai,i10,,2021,Manual,Petrol,"2,000 km",1st,"6,60,000",kerala
+812,Toyota,Etios Liva,,2015,Manual,Diesel,"75,000 km",2nd,"5,70,000",kerala
+813,Mahindra,TUV 300,,2016,-,Diesel,"68,000 km",1st,"6,50,000",kerala
+814,Maruti Suzuki,Swift,,2017,Manual,Diesel,"80,000 km",1st,"5,60,000",kerala
+815,Maruti Suzuki,Ritz,,2016,Manual,Petrol,"80,000 km",1st,"4,40,000",kerala
+816,Mahindra Renault,Logan,,2009,Manual,Diesel,"95,000 km",2nd,"1,09,000",kerala
+817,Ford,Figo,,2012,Manual,Diesel,"66,011 km",1st,"2,15,000",kerala
+818,Ford,Figo,,2010,Manual,Diesel,"118,000 km",3rd,"1,95,000",kerala
+819,Toyota,Etios Liva,,2017,Manual,Petrol,"21,000 km",2nd,"5,95,000",kerala
+820,Maruti Suzuki,Swift Dzire,,2018,Manual,Diesel,"8,900 km",1st,"7,25,000",kerala
+821,Hyundai,Verna,,2016,Manual,Petrol,"77,889 km",2nd,"6,30,000",kerala
+822,Maruti Suzuki,Swift Dzire,,2018,Manual,Diesel,"70,500 km",1st,"6,35,000",kerala
+823,Ford,Figo,,2011,-,Diesel,"117,000 km",1st,"1,83,000",kerala
+824,Maruti Suzuki,Baleno,,2017,Manual,Petrol,"42,042 km",1st,"5,75,000",kerala
+825,Maruti Suzuki,Wagon R,,2007,Manual,Petrol,"133,916 km",1st,"1,55,000",kerala
+826,Maruti Suzuki,Alto K10,,2014,Manual,Petrol,"35,000 km",1st,"2,70,000",kerala
+827,Maruti Suzuki,Alto,,2002,Manual,Petrol,"115,000 km",3rd,"1,45,000",kerala
+828,Mahindra,Marazzo,,2020,Manual,Diesel,"10,000 km",1st,"13,00,000",kerala
+829,Ford,Ecosport,,2020,Manual,Petrol,"12,100 km",1st,"8,20,000",kerala
+830,Maruti Suzuki,800,,2003,Manual,Petrol,"68,000 km",2nd,"60,000",kerala
+831,Maruti Suzuki,Swift,,2018,Automatic,Petrol,"50,000 km",1st,"7,25,000",kerala
+832,Maruti Suzuki,800,,2003,Manual,Petrol,"33,000 km",2nd,"1,30,000",kerala
+833,Maruti Suzuki,Swift,,2013,Manual,Diesel,"119,024 km",1st,"3,75,000",kerala
+834,Toyota,Innova,,2005,Manual,Diesel,"165,000 km",2nd,"4,15,000",kerala
+835,Maruti Suzuki,Celerio X,,2018,Manual,Petrol,"50,000 km",1st,"4,25,000",kerala
+836,Maruti Suzuki,Vitara Brezza,,2017,Manual,Diesel,"22,500 km",2nd,"7,50,000",kerala
+837,Hyundai,EON,,2014,Manual,Petrol,"66,000 km",2nd,"2,50,000",kerala
+838,-,-,,-,-,-,-,-,-,kerala
+839,Maruti Suzuki,Estilo,,2011,Manual,Petrol,"90,000 km",1st,"1,80,000",kerala
+840,Maruti Suzuki,Vitara Brezza,,2018,Manual,Diesel,"36,745 km",1st,"9,40,000",kerala
+841,Maruti Suzuki,Ertiga,,2020,Manual,Diesel,"58,000 km",1st,"9,50,000",kerala
+842,BMW,6 Series,,2012,Automatic,Diesel,"48,000 km",2nd,"40,00,000",kerala
+843,Maruti Suzuki,800,,2003,Manual,Petrol,"120,000 km",2nd,"50,000",kerala
+844,Mahindra,Scorpio,,2006,Manual,Diesel,"130,000 km",3rd,"1,95,000",kerala
+845,Bajaj,Others,,1993,Manual,Petrol,"111,111 km",2nd,"42,000",kerala
+846,Hyundai,i10,,2010,Manual,Petrol,"63,511 km",2nd,"2,15,000",kerala
+847,Jeep,Compass,,2018,Manual,Diesel,"49,000 km",1st,"16,00,000",kerala
+848,Hyundai,i10,,2011,Manual,Petrol,"72,446 km",1st,"2,65,000",kerala
+849,Maruti Suzuki,Swift,,2018,Manual,Diesel,"62,000 km",1st,"6,10,000",kerala
+850,Ford,Figo Aspire,,2017,Manual,Diesel,"52,000 km",1st,"4,50,000",kerala
+851,Hyundai,Santro Xing,,2008,Manual,Petrol,"54,986 km",1st,"1,38,000",kerala
+852,Maruti Suzuki,Omni,,2010,Manual,Petrol,"78,958 km",2nd,"1,58,000",kerala
+853,Maruti Suzuki,Eeco,,2013,Manual,Petrol,"65,000 km",1st,"2,75,000",kerala
+854,Maruti Suzuki,A-Star,,2012,Manual,Petrol,"80,000 km",1st,"2,48,000",kerala
+855,Tata,Nexon,,2018,Manual,Petrol,"70,000 km",1st,"7,70,000",kerala
+856,Tata,Indigo,,2003,Manual,Petrol,"74,586 km",3rd,"65,000",kerala
+857,Hyundai,i10,,2008,Manual,Petrol,"90,791 km",3rd,"1,65,000",kerala
+858,Maruti Suzuki,Alto K10,,2011,-,Petrol,"36,499 km",1st,"2,15,000",kerala
+859,Maruti Suzuki,800,,2003,Manual,Petrol,"50,751 km",4+,"69,000",kerala
+860,Jeep,Compass,,2019,Manual,Diesel,"36,860 km",1st,"14,50,000",kerala
+861,Chevrolet,Cruze,,2011,Manual,Diesel,"185,000 km",1st,"5,00,000",kerala
+862,Maruti Suzuki,Swift Dzire,,2018,Manual,Petrol,"27,000 km",1st,"6,45,000",kerala
+863,Hyundai,Grand i10,,2016,Manual,Petrol,"33,067 km",1st,"4,25,000",kerala
+864,Maruti Suzuki,800,,2007,Manual,Petrol,"50,000 km",1st,"90,000",kerala
+865,Mercedes-Benz,CLA,,2015,Automatic,Diesel,"35,000 km",1st,"29,00,000",kerala
+866,Maruti Suzuki,Swift,,2018,Manual,Diesel,"50,100 km",1st,"6,35,000",kerala
+867,Maruti Suzuki,Swift,,2019,Manual,Petrol,"35,000 km",1st,"5,60,000",kerala
+868,Hyundai,Santro Xing,,2007,Manual,Petrol,"56,000 km",2nd,"1,48,000",kerala
+869,Mahindra,XUV500,,2018,Manual,Diesel,"52,989 km",1st,"9,75,000",kerala
+870,Mercedes-Benz,A Class,,2013,Automatic,Diesel,"40,000 km",1st,"16,00,000",kerala
+871,Tata,Indigo Ecs,,2011,Manual,Diesel,"100,000 km",2nd,"85,000",kerala
+872,Maruti Suzuki,Ritz,,2009,Manual,Petrol,"131,288 km",3rd,"2,15,000",kerala
+873,Maruti Suzuki,Alto,,2009,Manual,Petrol,"70,000 km",2nd,"1,45,000",kerala
+874,Chevrolet,Spark,,2010,Manual,Petrol,"76,342 km",3rd,"1,00,000",kerala
+875,Maruti Suzuki,Alto 800,,2017,Manual,Petrol,"57,858 km",1st,"2,85,000",kerala
+876,Volkswagen,Vento,,2012,Manual,Diesel,"80,000 km",4+,"3,40,000",kerala
+877,Tata,Nano,,2014,Manual,Petrol,"64,585 km",1st,"1,35,000",kerala
+878,Ford,Fiesta,,2007,Manual,Petrol,"107,858 km",3rd,"1,05,000",kerala
+879,Chevrolet,Spark,,2008,Manual,Petrol,"85,858 km",2nd,"89,000",kerala
+880,Renault,Triber,,2019,Manual,Petrol,"2,650 km",1st,"6,75,000",kerala
+881,Hyundai,Xcent,,2017,Manual,Diesel,"35,266 km",1st,"4,85,000",kerala
+882,Volkswagen,Polo,,2017,Manual,Diesel,"52,486 km",2nd,"6,84,000",kerala
+883,Honda,BR-V,,2017,Manual,Diesel,"100,000 km",1st,"6,00,000",kerala
+884,Maruti Suzuki,Wagon R,,2014,Manual,Petrol,"72,000 km",2nd,"3,40,000",kerala
+885,Hyundai,Santro Xing,,2007,Manual,Petrol,"77,000 km",2nd,"1,40,000",kerala
+886,Maruti Suzuki,Swift,,2019,Manual,Diesel,"30,000 km",1st,"7,80,000",kerala
+887,Maruti Suzuki,800,,1996,Manual,Petrol,77 km,3rd,"45,000",kerala
+888,Kia,Others,,2021,Automatic,Petrol,0 km,1st,"4,00,000",kerala
+889,-,-,,-,-,-,-,-,-,kerala
+890,Maruti Suzuki,Alto 800,,2015,Manual,Petrol,"57,000 km",1st,"2,40,000",kerala
+891,Maruti Suzuki,Wagon R,,2010,Manual,Petrol,89 km,2nd,"2,45,000",kerala
+892,Hyundai,Santro Xing,,2006,Manual,Petrol,"110,265 km",4+,"95,000",kerala
+893,BMW,X5,,2017,Automatic,Diesel,"44,000 km",1st,"59,00,000",kerala
+894,Nissan,Sunny,,2016,Manual,Diesel,"100,000 km",1st,"2,90,000",kerala
+895,Maruti Suzuki,Alto 800,,2004,Manual,Petrol,"105,000 km",3rd,"80,000",kerala
+896,Maruti Suzuki,Alto,,2010,Manual,Petrol,"76,000 km",2nd,"1,55,000",kerala
+897,Hyundai,Venue,,2021,Manual,Petrol,0 km,-,"6,99,200",kerala
+898,BMW,5 Series Gt,,2018,-,-,55 km,-,"25,000",kerala
+899,Maruti Suzuki,Zen,,2003,Manual,Petrol,0 km,2nd,"1,10,000",kerala
+900,Hyundai,Creta,,2018,Automatic,Petrol,"60,000 km",1st,"13,50,000",kerala
+901,-,-,,-,-,-,-,-,-,kerala
+902,Mercedes-Benz,E-Class,,2018,Automatic,Diesel,"45,000 km",1st,"65,00,000",kerala
+903,Hyundai,Santro Xing,,2009,Manual,Petrol,"49,500 km",2nd,"1,55,000",kerala
+904,Maruti Suzuki,Swift,,2011,Manual,Diesel,"130,000 km",-,"3,35,000",kerala
+905,Maruti Suzuki,Swift,,2017,Manual,Petrol,"34,000 km",1st,"6,10,000",kerala
+906,Tata,Sumo Spacio,,2008,Manual,Diesel,"199,000 km",3rd,"1,25,000",kerala
+907,Maruti Suzuki,Swift,,2018,Manual,Petrol,"75,000 km",2nd,"5,30,000",kerala
+908,Maruti Suzuki,Wagon R,,2008,Manual,Petrol,"80,000 km",3rd,"1,50,000",kerala
+909,Other Brands,Others,,2014,Manual,Diesel,"50,000 km",1st,"64,000",kerala
+910,Ford,Figo,,2012,Manual,Diesel,"82,000 km",2nd,"1,83,000",kerala
+911,Jeep,Compass,,2019,-,Petrol,"27,000 km",-,"17,60,000",kerala
+912,Hyundai,i20,,2014,Manual,Diesel,"10,000 km",1st,"17,000",kerala
+913,Maruti Suzuki,800,,2003,Manual,Petrol,"68,000 km",2nd,"50,000",kerala
+914,Force Motors,Others,,2011,Manual,Diesel,"55,000 km",2nd,"4,50,000",kerala
+915,Jaguar,XJ,,2017,-,-,55 km,-,"20,000",kerala
+916,Maruti Suzuki,Wagon R,,2008,-,-,"47,413 km",1st,"2,15,000",kerala
+917,Mahindra,Bolero Power Plus,,2017,Manual,Diesel,"68,000 km",1st,"7,75,000",kerala
+918,Datsun,Redi Go,,2017,Manual,Petrol,"40,000 km",1st,"2,10,000",kerala
+919,Mercedes-Benz,E-Class,,2018,-,-,555 km,4+,"1,00,000",kerala
+920,Mercedes-Benz,GLE Class,,2017,Automatic,Diesel,"77,000 km",1st,"46,00,000",kerala
+921,Toyota,Innova Crysta,,2017,-,Diesel,"36,000 km",2nd,"17,50,000",kerala
+922,Datsun,GO,,2015,Manual,Petrol,"22,000 km",1st,"2,35,000",kerala
+923,Maruti Suzuki,800,,2008,Manual,Petrol,"68,000 km",2nd,"89,000",kerala
+924,Maruti Suzuki,Swift,,2010,Manual,Petrol,"75,000 km",2nd,"2,65,000",kerala
+925,Toyota,Etios,,2014,Manual,Diesel,"125,000 km",2nd,"3,75,000",kerala
+926,Maruti Suzuki,Wagon R,,2008,Manual,Petrol,"47,000 km",2nd,"1,95,000",kerala
+927,Chevrolet,Beat,,2012,Manual,Diesel,"78,000 km",4th,"1,18,000",kerala
+928,Maruti Suzuki,Omni,,2002,Manual,Petrol,0 km,2nd,"55,000",kerala
+929,Maruti Suzuki,Swift,,2011,Manual,Diesel,"112,529 km",1st,"3,40,000",kerala
+930,Hyundai,EON,,2014,Manual,Petrol,"56,000 km",1st,"2,65,000",kerala
+931,Toyota,Innova,,2012,Manual,Diesel,"75,000 km",1st,"7,35,000",kerala
+932,Maruti Suzuki,Wagon R,,2011,Manual,Petrol,"133,000 km",3rd,"2,40,000",kerala
+933,Hyundai,Elite i20,,2017,Manual,Diesel,"85,000 km",2nd,"6,50,000",kerala
+934,Tata,Indica V2 Xeta,,2008,Manual,Petrol,"49,906 km",1st,"90,000",kerala
+935,Maruti Suzuki,Wagon R,,2016,Manual,Petrol,"76,000 km",2nd,"3,45,000",kerala
+936,Maruti Suzuki,Alto,,2010,Manual,Petrol,"150,000 km",1st,"1,29,000",kerala
+937,-,-,,-,-,-,-,-,-,kerala
+938,-,-,,-,-,-,-,-,-,kerala
+939,Maruti Suzuki,Wagon R,,2008,Manual,Petrol,"78,000 km",2nd,"1,70,000",kerala
+940,Mahindra,Thar,,2017,Manual,Diesel,"30,000 km",-,"8,90,000",kerala
+941,BMW,3 Series,,2010,Automatic,Diesel,"89,000 km",2nd,"9,50,000",kerala
+942,BMW,X5,,2017,Automatic,Diesel,"45,000 km",1st,"62,00,000",kerala
+943,Ford,Fiesta,,2007,Manual,Diesel,"140,000 km",2nd,"1,50,000",kerala
+944,Maruti Suzuki,Wagon R 1.0,,2019,Manual,Petrol,"11,000 km",1st,"5,15,000",kerala
+945,Maruti Suzuki,800,,1997,Manual,Petrol,"69,644 km",3rd,"50,000",kerala
+946,Renault,Duster,,2019,Manual,Diesel,"28,000 km",1st,"8,40,000",kerala
+947,Chevrolet,Beat,,2011,Manual,Diesel,"75,000 km",2nd,"1,40,000",kerala
+948,Maruti Suzuki,Ritz,,2016,Manual,Diesel,"40,000 km",1st,"2,50,000",kerala
+949,Maruti Suzuki,Alto 800,,2013,Manual,Petrol,"14,000 km",1st,"2,10,000",kerala
+950,Maruti Suzuki,Swift,,2018,Automatic,Diesel,"10,000 km",1st,"3,75,000",kerala
+951,Maruti Suzuki,Wagon R,,2004,Manual,Petrol,"120,000 km",2nd,"1,15,000",kerala
+952,Hyundai,EON,,2011,Manual,Petrol,"81,339 km",2nd,"1,90,000",kerala
+953,Maruti Suzuki,Swift Dzire Tour,,2014,Manual,Diesel,"246,000 km",1st,"2,45,000",kerala
+954,Maruti Suzuki,800,,2016,Manual,Petrol,"49,000 km",2nd,"2,62,500",kerala
+955,Maruti Suzuki,800,,2004,Manual,Petrol,"36,500 km",1st,"45,000",kerala
+956,Datsun,GO,,2014,Manual,Petrol,"29,622 km",1st,"1,85,000",kerala
+957,Ashok Leyland,Stile,,2018,Manual,Diesel,"33,000 km",2nd,"6,75,000",kerala
+958,Maruti Suzuki,Swift,,2006,Manual,Petrol,"99,500 km",3rd,"2,00,000",kerala
+959,Tata,Indica,,2021,Manual,Diesel,0 km,1st,"15,000",kerala
+960,Maruti Suzuki,Alto 800,,2017,Manual,Petrol,"16,852 km",1st,"3,35,000",kerala
+961,Jaguar,XF,,2015,Automatic,Diesel,"53,000 km",2nd,"28,00,000",kerala
+962,Maruti Suzuki,Alto 800,,2014,Manual,Petrol,"41,000 km",2nd,"2,40,000",kerala
+963,Maruti Suzuki,A-Star,,2009,Manual,Petrol,"95,000 km",2nd,"1,52,000",kerala
+964,Maruti Suzuki,Alto,,2005,Manual,Petrol,"90,000 km",3rd,"90,000",kerala
+965,Maruti Suzuki,Swift Dzire,,2017,Manual,Petrol,"86,000 km",1st,"5,85,000",kerala
+966,Maruti Suzuki,800,,2003,Manual,Petrol,1 km,3rd,"65,000",kerala
+967,Ford,Figo,,2016,Manual,Diesel,"29,000 km",1st,"5,10,000",kerala
+968,Maruti Suzuki,Wagon R,,2007,Manual,Petrol,"75,109 km",2nd,"1,35,000",kerala
+969,Maruti Suzuki,Swift Dzire Tour,,2016,-,-,"100,000 km",1st,"3,60,000",kerala
+970,Jeep,Compass,,2019,Manual,Petrol,"23,000 km",1st,"18,00,000",kerala
+971,Hyundai,Xcent,,2014,Manual,Diesel,"114,000 km",1st,"3,60,000",kerala
+972,Maruti Suzuki,Omni,,2000,Manual,Petrol,85 km,4th,"62,000",kerala
+973,Hyundai,Accent,,2006,Manual,Petrol,"91,000 km",1st,"1,00,000",kerala
+974,Mahindra,Bolero Power Plus,,2015,Manual,Diesel,"73,254 km",2nd,"6,77,000",kerala
+975,Mahindra,Scorpio,,2009,Manual,Diesel,"110,000 km",1st,"4,00,000",kerala
+976,Maruti Suzuki,Alto,,2001,Manual,Petrol,"87,000 km",1st,"70,000",kerala
+977,Volkswagen,Polo,,2015,Manual,Diesel,"89,468 km",2nd,"6,30,000",kerala
+978,Mahindra,XUV500,,2018,Automatic,Diesel,"81,000 km",1st,"16,50,000",kerala
+979,Maruti Suzuki,Alto,,2002,Manual,Petrol,"160,000 km",3rd,"75,000",kerala
+980,Ambassador,Ambassador,,2007,Manual,Diesel,"80,000 km",1st,"75,000",kerala
+981,Hyundai,i20,,2020,Manual,Petrol,"3,500 km",1st,"7,85,000",kerala
+982,Chevrolet,Beat,,2013,Manual,Diesel,"85,895 km",3rd,"1,38,000",kerala
+983,Maruti Suzuki,Stingray,,2015,Manual,Petrol,"74,500 km",2nd,"3,30,000",kerala
+984,Toyota,Corolla,,2009,Manual,Petrol,"74,000 km",2nd,"3,11,000",kerala
+985,Honda,Jazz,,2018,Manual,Petrol,"20,000 km",1st,"7,00,000",kerala
+986,Maruti Suzuki,800,,2001,Manual,Petrol,"97,500 km",2nd,"47,000",kerala
+987,Mitsubishi,Lancer,,2005,Manual,Diesel,1 km,1st,"1,25,000",kerala
+988,Maruti Suzuki,800,,2001,Manual,Petrol,"67,000 km",2nd,"46,000",kerala
+989,Other Brands,Others,,2021,Manual,CNG & Hybrids,0 km,2nd,"6,00,000",kerala
+990,Volkswagen,Polo,,2018,Manual,Petrol,"18,678 km",2nd,"6,50,000",kerala
+991,Mahindra,Scorpio,,2008,Manual,Diesel,"185,000 km",1st,"3,50,000",kerala
+992,Ford,Figo,,2020,Manual,Diesel,"12,000 km",1st,"7,25,000",kerala
+993,Maruti Suzuki,Zen,,1998,Manual,Petrol,"54,000 km",3rd,"52,000",kerala
+994,Mahindra,Jeep,,2004,Manual,Diesel,"110,000 km",2nd,"2,99,999",kerala
+995,Maruti Suzuki,Alto 800,,2017,Manual,Petrol,"9,500 km",2nd,"2,35,000",kerala
+996,Renault,KWID,,2016,Manual,Petrol,"56,324 km",2nd,"2,75,000",kerala
+997,Hyundai,i10,,2011,Manual,Petrol,82 km,2nd,"2,80,000",kerala
+998,Maruti Suzuki,Wagon R,,2003,Manual,Petrol,"10,000 km",2nd,"1,05,000",kerala
+999,Maruti Suzuki,Alto,,2006,Manual,Petrol,"73,000 km",1st,"85,000",kerala
+1000,Maruti Suzuki,Ertiga,,2013,Manual,Diesel,"116,320 km",2nd,"4,75,000",kerala
+1001,Maruti Suzuki,Vitara Brezza,,2017,Manual,Diesel,"16,500 km",1st,"8,25,000",kerala
+1002,Maruti Suzuki,Alto 800,,2018,Manual,Petrol,"38,650 km",1st,"3,15,000",kerala
+1003,Hyundai,Santro Xing,,2010,Manual,Petrol,"76,656 km",3rd,"1,99,000",kerala
+1004,Maruti Suzuki,Wagon R,,2004,Manual,Petrol,"74,600 km",3rd,"1,00,000",kerala
+1005,Mahindra,Scorpio,,2007,Manual,Diesel,"144,000 km",2nd,"2,40,000",kerala
+1006,Chevrolet,Aveo,,2006,Automatic,Petrol,"88,000 km",1st,"1,10,000",kerala
+1007,Volkswagen,Ameo,,2017,Automatic,Diesel,"45,000 km",1st,"7,50,000",kerala
+1008,Maruti Suzuki,Wagon R,,2009,Manual,Petrol,0 km,-,"1,50,000",kerala
+1009,Maruti Suzuki,Ignis,,2019,Automatic,Petrol,"17,000 km",1st,"6,00,000",kerala
+1010,Ford,Ecosport,,2014,Manual,Diesel,"90,000 km",1st,"5,10,000",kerala
+1011,Audi,A6,,2016,Automatic,Diesel,"55,555 km",-,"25,000",kerala
+1012,Toyota,Fortuner,,2011,Manual,Diesel,"250,000 km",2nd,"11,50,000",kerala
+1013,Toyota,Fortuner,,2012,Automatic,Diesel,"65,000 km",2nd,"16,50,000",kerala
+1014,Maruti Suzuki,Zen,,1997,Manual,Petrol,"92,545 km",3rd,"43,000",kerala
+1015,Maruti Suzuki,Swift,,2015,Manual,Petrol,"92,000 km",1st,"4,90,000",kerala
+1016,Maruti Suzuki,Zen,,2002,Automatic,Petrol,"59,639 km",2nd,"68,500",kerala
+1017,Maruti Suzuki,Alto 800,,2014,Manual,Petrol,"79,000 km",2nd,"2,20,000",kerala
+1018,Maruti Suzuki,800,,2003,Manual,Petrol,0 km,2nd,"80,000",kerala
+1019,Maruti Suzuki,Ertiga,,2017,Manual,Diesel,"38,000 km",2nd,"8,25,000",kerala
+1020,Kia,Seltos,,2019,Manual,Petrol,"20,000 km",1st,"13,75,000",kerala
+1021,Maruti Suzuki,Swift Dzire,,2015,Manual,Petrol,"29,000 km",2nd,"4,80,000",kerala
+1022,Honda,BR-V,,2018,Manual,Diesel,"72,500 km",1st,"5,75,000",kerala
+1023,Maruti Suzuki,Alto,,2006,Manual,Petrol,"86,000 km",1st,"1,05,000",kerala
+1024,Hyundai,Grand i10,,2008,Manual,Petrol,"79,000 km",-,"1,72,000",kerala
+1025,Maruti Suzuki,Estilo,,2007,Manual,Petrol,"71,651 km",2nd,"1,30,000",kerala
+1026,Mercedes-Benz,E-Class,,2013,-,-,"50,000 km",2nd,"25,00,000",kerala
+1027,Hyundai,EON,,2016,Manual,Petrol,57 km,1st,"2,57,000",kerala
+1028,Ashok Leyland,Others,,2018,-,-,"5,555 km",-,"20,00,000",kerala
+1029,Maruti Suzuki,Swift,,2014,Manual,Diesel,"83,000 km",1st,"4,50,000",kerala
+1030,Maruti Suzuki,Zen,,1998,Manual,Petrol,0 km,4+,"62,000",kerala
+1031,Hyundai,EON,,2012,Manual,Petrol,"62,347 km",3rd,"1,85,000",kerala
+1032,Mahindra,Scorpio,,2005,Manual,Diesel,"181,000 km",3rd,"1,50,000",kerala
+1033,Tata,Indica,,2008,Manual,Diesel,"102,000 km",2nd,"60,000",kerala
+1034,Mahindra,Jeep,,1996,Manual,Diesel,"34,000 km",3rd,"2,65,000",kerala
+1035,Maruti Suzuki,Eeco,,2017,Manual,Petrol,"35,000 km",2nd,"3,35,000",kerala
+1036,Maruti Suzuki,800,,2005,Manual,Petrol,"180,000 km",2nd,"40,000",kerala
+1037,Maruti Suzuki,Eeco,,2010,Manual,Petrol,"75,000 km",4th,"1,75,000",kerala
+1038,Maruti Suzuki,Zen,,1996,Manual,Petrol,"37,939 km",3rd,"40,000",kerala
+1039,Maruti Suzuki,Wagon R,,2009,Manual,LPG,"95,000 km",2nd,"1,70,000",kerala
+1040,-,-,,-,-,-,-,-,-,kerala
+1041,Renault,Pulse,,2014,Manual,Diesel,"75,000 km",1st,"3,15,000",kerala
+1042,Volkswagen,Jetta,,2016,Automatic,Diesel,"89,179 km",3rd,"11,50,000",kerala
+1043,Maruti Suzuki,Eeco,,2010,Manual,Petrol,"112,000 km",2nd,"2,10,000",kerala
+1044,Tata,Xenon XT,,2014,Manual,Diesel,"62,400 km",2nd,"6,00,000",kerala
+1045,Honda,Civic,,2007,Manual,Petrol,85 km,3rd,"1,90,000",kerala
+1046,Hyundai,Santro Xing,,2009,Manual,Petrol,"68,000 km",2nd,"1,90,000",kerala
+1047,Hyundai,Santro Xing,,2007,Manual,Petrol,"100,000 km",2nd,"1,35,000",kerala
+1048,Hyundai,EON,,2015,Manual,Petrol,"28,000 km",2nd,"2,65,000",kerala
+1049,Honda,City,,2017,Manual,Diesel,"82,000 km",1st,"8,75,000",kerala
+1050,Renault,Duster,,2012,Manual,Diesel,"70,000 km",1st,"6,50,000",kerala
+1051,Maruti Suzuki,Swift,,2009,Manual,Petrol,"150,000 km",3rd,"2,20,000",kerala
+1052,Honda,Others,,1996,Manual,Petrol,"210,000 km",3rd,"16,500",kerala
+1053,Maruti Suzuki,Ciaz,,2014,Manual,Diesel,"119,000 km",2nd,"6,25,000",kerala
+1054,Ford,Figo,,2013,Manual,Diesel,"86,032 km",2nd,"2,00,000",kerala
+1055,Maruti Suzuki,Zen,,1999,Manual,Petrol,"5,975 km",2nd,"65,000",kerala
+1056,Toyota,Innova,,2010,Manual,Diesel,"110,000 km",3rd,"7,50,000",kerala
+1057,Hyundai,EON,,2015,Manual,Petrol,"51,000 km",1st,"2,55,000",kerala
+1058,Maruti Suzuki,Alto,,2005,Manual,Petrol,"65,000 km",2nd,"1,10,000",kerala
+1059,Mahindra,Xylo,,2010,Automatic,Diesel,"98,000 km",2nd,"2,10,000",kerala
+1060,Toyota,Glanza,,2020,Manual,Petrol,"8,500 km",1st,"7,50,000",kerala
+1061,Volkswagen,Polo,,2015,Automatic,Petrol,"80,000 km",2nd,"5,85,000",kerala
+1062,Hyundai,Creta,,2015,Manual,Diesel,"106,000 km",1st,"8,45,000",kerala
+1063,Chevrolet,Tavera Neo,,2012,Manual,Diesel,"90,000 km",2nd,"3,90,000",kerala
+1064,Toyota,Fortuner,,2011,Manual,Diesel,"75,000 km",1st,"12,00,000",kerala
+1065,Maruti Suzuki,Wagon R 1.0,,2013,Manual,Petrol,"54,947 km",2nd,"3,33,000",kerala
+1066,Toyota,Etios Liva,,2018,-,Petrol,"37,000 km",1st,"6,75,000",kerala
+1067,Maruti Suzuki,Swift,,2016,Manual,Diesel,"50,000 km",1st,"5,85,000",kerala
+1068,Volkswagen,Polo,,2014,-,Petrol,"57,000 km",1st,"5,15,000",kerala
+1069,Maruti Suzuki,Omni,,2006,Manual,Petrol,"98,000 km",4+,"98,000",kerala
+1070,Tata,Indica Vista,,2012,Manual,Diesel,"264,000 km",1st,"1,15,000",kerala
+1071,Maruti Suzuki,Ritz,,2011,Manual,Diesel,"122,000 km",3rd,"2,75,000",kerala
+1072,Toyota,Fortuner,,2010,Manual,Diesel,"140,000 km",2nd,"10,85,000",kerala
+1073,Ambassador,Ambassador,,1999,Manual,Diesel,"79,000 km",3rd,"57,000",kerala
+1074,Mahindra,Bolero Pik-Up,,2009,Manual,Diesel,"110,000 km",2nd,"2,20,000",kerala
+1075,Toyota,Etios,,2012,Manual,Diesel,"128,000 km",2nd,"2,95,000",kerala
+1076,Maruti Suzuki,Zen,,2005,Manual,Petrol,"76,000 km",3rd,"1,15,000",kerala
+1077,Maruti Suzuki,Baleno,,2018,Automatic,Petrol,"37,000 km",1st,"7,40,000",kerala
+1078,Honda,Brio,,2012,Manual,Petrol,"55,500 km",1st,"3,35,000",kerala
+1079,Tata,Others,,2021,Manual,Diesel,"4,000 km",1st,"2,50,000",kerala
+1080,Mahindra,Jeep,,1980,Manual,Diesel,"123,000 km",3rd,"2,70,000",kerala
+1081,Hyundai,i10,,2011,Manual,Petrol,"48,000 km",1st,"2,47,000",kerala
+1082,Toyota,Corolla Altis,,2009,Manual,Petrol,"98,360 km",2nd,"4,35,000",kerala
+1083,Hyundai,EON,,2011,Manual,Petrol,"53,347 km",1st,"2,55,000",kerala
+1084,Honda,City,,2016,Manual,Petrol,"28,000 km",1st,"6,50,000",kerala
+1085,Mahindra,Jeep,,1991,Manual,Diesel,0 km,2nd,"1,40,000",kerala
+1086,Maruti Suzuki,Wagon R,,2007,Manual,Petrol,"100,712 km",2nd,"1,65,000",kerala
+1087,Tata,Indigo,,2016,Manual,Diesel,"99,000 km",3rd,"1,75,000",kerala
+1088,Toyota,Etios,,2011,Manual,Petrol,"83,000 km",2nd,"3,19,000",kerala
+1089,Maruti Suzuki,Alto,,2008,Manual,Petrol,"87,100 km",3rd,"1,15,000",kerala
+1090,Maruti Suzuki,S Cross,,2015,Manual,Diesel,"110,000 km",1st,"5,85,000",kerala
+1091,Tata,Indigo,,2003,Manual,Petrol,"62,000 km",2nd,"42,000",kerala
+1092,Volkswagen,Polo,,2017,Manual,Diesel,"75,000 km",2nd,"7,25,000",kerala
+1093,Hyundai,i10,,2010,-,-,"55,900 km",1st,"2,85,000",kerala
+1094,Isuzu,D-Max V-Cross,,2017,Manual,Diesel,"100,000 km",1st,"13,60,000",kerala
+1095,Maruti Suzuki,Ritz,,2013,Manual,Diesel,"83,000 km",2nd,"3,40,000",kerala
+1096,Datsun,Redi Go,,2018,Automatic,Petrol,"21,000 km",2nd,"3,15,000",kerala
+1097,Maruti Suzuki,Swift,,2019,Manual,Petrol,"18,000 km",1st,"6,25,000",kerala
+1098,Mahindra,Verito,,2011,Manual,Diesel,"188,257 km",2nd,"1,50,000",kerala
+1099,Nissan,Micra,,2014,Manual,Diesel,"90,000 km",2nd,"3,19,000",kerala
+1100,Mahindra,Thar,,2020,Manual,Diesel,"4,000 km",1st,"16,50,000",kerala
+1101,Toyota,Innova,,2016,Manual,Diesel,"126,000 km",1st,"12,20,000",kerala
+1102,Maruti Suzuki,Swift,,2016,Manual,Petrol,"55,225 km",1st,"5,45,000",kerala
+1103,Hyundai,EON,,2016,Manual,Petrol,"51,000 km",1st,"2,70,000",kerala
+1104,Maruti Suzuki,S-Presso,,2020,Automatic,Petrol,"9,500 km",1st,"5,25,000",kerala
+1105,Tata,Tiago,,2018,Manual,Petrol,"7,000 km",1st,"5,00,000",kerala
+1106,Tata,Indica Vista,,2010,Manual,Diesel,"112,500 km",2nd,"97,000",kerala
+1107,Toyota,Innova,,2015,Manual,Diesel,"140,000 km",2nd,"9,00,000",kerala
+1108,Maruti Suzuki,Alto,,2001,Automatic,Petrol,"100,000 km",3rd,"75,000",kerala
+1109,Toyota,Etios,,2016,Manual,Petrol,"61,000 km",2nd,"5,95,000",kerala
+1110,Maruti Suzuki,Swift Dzire,,2015,Manual,Diesel,"120,000 km",2nd,"37,50,000",kerala
+1111,Maruti Suzuki,Swift,,2013,Manual,Diesel,"118,000 km",3rd,"3,75,000",kerala
+1112,Tata,Indica,,2005,Manual,Diesel,"200,000 km",2nd,"49,000",kerala
+1113,Mahindra,Xylo,,2017,Manual,Diesel,"91,000 km",2nd,"5,20,000",kerala
+1114,Maruti Suzuki,Swift,,2011,Manual,Petrol,"70,000 km",2nd,"2,95,000",kerala
+1115,Maruti Suzuki,Swift,,2020,Automatic,Petrol,"16,000 km",1st,"7,20,000",kerala
+1116,Maruti Suzuki,Wagon R 1.0,,2005,Manual,Petrol,"53,417 km",2nd,"1,10,000",kerala
+1117,Volkswagen,Polo,,2018,Manual,Petrol,"23,000 km",1st,"7,00,000",kerala
+1118,Hyundai,EON,,2014,Manual,Petrol,"50,000 km",2nd,"2,35,000",kerala
+1119,Tata,Sumo Grande,,2010,Manual,Diesel,"950,000 km",1st,"1,85,000",kerala
+1120,Tata,Harrier,,2019,Manual,Diesel,"8,600 km",1st,"16,75,000",kerala
+1121,Maruti Suzuki,Swift,,2016,Manual,Petrol,"55,225 km",1st,"5,45,000",kerala
+1122,Maruti Suzuki,Eeco,,2011,Manual,Petrol,"75,000 km",2nd,"1,98,000",kerala
+1123,Maruti Suzuki,Swift Dzire,,2014,Manual,Diesel,"120,000 km",2nd,"4,00,000",kerala
+1124,Mahindra,Xylo,,2010,Manual,Diesel,"120,000 km",2nd,"2,35,000",kerala
+1125,Maruti Suzuki,800,,2015,Manual,Petrol,555 km,4th,"15,000",kerala
+1126,Maruti Suzuki,Zen Estilo,,2013,Manual,Petrol,"92,345 km",2nd,"2,25,000",kerala
+1127,Audi,Q5,,2015,Automatic,Diesel,"110,000 km",1st,"22,50,000",kerala
+1128,Skoda,Octavia,,2011,Manual,Diesel,55 km,4th,"35,000",kerala
+1129,Hyundai,Accent,,2013,Automatic,LPG,555 km,3rd,"15,000",kerala
+1130,Maruti Suzuki,Alto K10,,2014,Automatic,-,"81,270 km",3rd,"2,90,000",kerala
+1131,Ford,Classic,,2016,Automatic,Diesel,225 km,4th,"15,000",kerala
+1132,Ford,Aspire,,2017,Manual,Diesel,"65,000 km",2nd,"4,68,000",kerala
+1133,Ford,Ecosport,,2013,Manual,Diesel,"100,000 km",2nd,"5,25,000",kerala
+1134,Renault,Pulse,,2012,Manual,Diesel,"110,000 km",1st,"2,55,000",kerala
+1135,Hyundai,Creta,,2015,Manual,Diesel,"116,000 km",1st,"8,65,000",kerala
+1136,-,-,,-,-,-,-,-,-,kerala
+1137,Jeep,Compass,,2017,Manual,Diesel,"38,000 km",1st,"15,75,000",kerala
+1138,-,-,,-,-,-,-,-,-,kerala
+1139,Ford,Fiesta,,2008,Manual,Diesel,"120,000 km",1st,"1,48,000",kerala
+1140,Volkswagen,Vento,,2014,Automatic,Diesel,"91,000 km",3rd,"5,45,000",kerala
+1141,Audi,S5,,2018,Automatic,Petrol,"20,000 km",2nd,"58,00,000",kerala
+1142,Volkswagen,Polo,,2019,Manual,Petrol,"44,080 km",1st,"6,40,000",kerala
+1143,Nissan,Sunny,,2015,Manual,Diesel,"43,000 km",1st,"5,65,000",kerala
+1144,Nissan,Micra Active,,2013,Manual,Petrol,"80,000 km",1st,"2,90,000",kerala
+1145,Mahindra,Bolero Pik-Up,,2012,Automatic,Diesel,"150,000 km",2nd,"4,10,000",kerala
+1146,Mahindra,Verito,,2013,Manual,Diesel,"260,000 km",2nd,"1,70,000",kerala
+1147,Mahindra,Bolero,,2011,Manual,Diesel,"76,000 km",2nd,"4,55,000",kerala
+1148,Maruti Suzuki,Alto,,2007,Manual,Petrol,"109,752 km",2nd,"1,05,000",kerala
+1149,Hyundai,Santro Xing,,2010,Manual,Petrol,"95,000 km",2nd,"1,65,000",kerala
+1150,Opel,Corsa,,2003,Manual,Petrol,"120,250 km",4th,"30,000",kerala
+1151,Maruti Suzuki,Ritz,,2011,Manual,Diesel,"132,000 km",2nd,"2,85,000",kerala
+1152,Chevrolet,Optra Magnum,,2010,Manual,Diesel,"110,000 km",1st,"3,00,000",kerala
+1153,Maruti Suzuki,Swift,,2018,Manual,Diesel,"41,889 km",1st,"6,40,000",kerala
+1154,Maruti Suzuki,Ertiga,,2016,Manual,Diesel,"50,000 km",1st,"7,50,000",kerala
+1155,Toyota,Innova,,2012,Manual,Diesel,"110,000 km",2nd,"8,00,000",kerala
+1156,Ford,Figo,,2015,Manual,Diesel,"25,086 km",2nd,"15,000",kerala
+1157,Toyota,Innova,,2010,-,-,5 km,-,"1,00,000",kerala
+1158,BMW,X5,,2016,-,Diesel,45 km,-,"45,55,555",kerala
+1159,Maruti Suzuki,Swift Dzire,,2016,Manual,Diesel,"92,000 km",2nd,"4,15,000",kerala
+1160,Maruti Suzuki,Baleno,,2018,Manual,Diesel,"13,000 km",1st,"7,75,000",kerala
+1161,Hyundai,EON,,2017,Manual,Petrol,"14,958 km",1st,"3,10,000",kerala
+1162,Skoda,Rapid,,2015,Automatic,Diesel,"122,000 km",1st,"4,85,000",kerala
+1163,Maruti Suzuki,Alto 800,,2014,Manual,Petrol,"70,000 km",2nd,"2,10,000",kerala
+1164,Maruti Suzuki,Swift,,2018,Manual,Petrol,"36,000 km",1st,"5,20,000",kerala
+1165,Hyundai,Creta,,2015,Automatic,Diesel,82 km,1st,"9,75,000",kerala
+1166,Maruti Suzuki,Eeco,,2020,Manual,Petrol,"6,600 km",1st,"4,50,000",kerala
+1167,Maruti Suzuki,Swift,,2010,Manual,Diesel,"128,000 km",3rd,"2,35,000",kerala
+1168,Maruti Suzuki,Zen,,2003,Manual,Petrol,0 km,4th,"60,000",kerala
+1169,Tata,Indica Vista,,2011,Manual,Diesel,"75,000 km",2nd,"1,39,000",kerala
+1170,Porsche,Cayenne,,2017,-,Diesel,123 km,-,"77,77,777",kerala
+1171,Hyundai,i10,,2021,Manual,Petrol,"2,000 km",1st,"6,60,000",kerala
+1172,Toyota,Etios Liva,,2015,Manual,Diesel,"75,000 km",2nd,"5,70,000",kerala
+1173,Mahindra,TUV 300,,2016,-,Diesel,"68,000 km",1st,"6,50,000",kerala
+1174,Maruti Suzuki,Swift,,2017,Manual,Diesel,"80,000 km",1st,"5,60,000",kerala
+1175,Maruti Suzuki,Ritz,,2016,Manual,Petrol,"80,000 km",1st,"4,40,000",kerala
+1176,Mahindra Renault,Logan,,2009,Manual,Diesel,"95,000 km",2nd,"1,09,000",kerala
+1177,Ford,Figo,,2012,Manual,Diesel,"66,011 km",1st,"2,15,000",kerala
+1178,Ford,Figo,,2010,Manual,Diesel,"118,000 km",3rd,"1,95,000",kerala
+1179,Toyota,Etios Liva,,2017,Manual,Petrol,"21,000 km",2nd,"5,95,000",kerala
+1180,Maruti Suzuki,Swift Dzire,,2018,Manual,Diesel,"8,900 km",1st,"7,25,000",kerala
+1181,Hyundai,Verna,,2016,Manual,Petrol,"77,889 km",2nd,"6,30,000",kerala
+1182,Maruti Suzuki,Swift Dzire,,2018,Manual,Diesel,"70,500 km",1st,"6,35,000",kerala
+1183,Ford,Figo,,2011,-,Diesel,"117,000 km",1st,"1,83,000",kerala
+1184,Maruti Suzuki,Baleno,,2017,Manual,Petrol,"42,042 km",1st,"5,75,000",kerala
+1185,Maruti Suzuki,Wagon R,,2007,Manual,Petrol,"133,916 km",1st,"1,55,000",kerala
+1186,Maruti Suzuki,Alto K10,,2014,Manual,Petrol,"35,000 km",1st,"2,70,000",kerala
+1187,Maruti Suzuki,Alto,,2002,Manual,Petrol,"115,000 km",3rd,"1,45,000",kerala
+1188,Mahindra,Marazzo,,2020,Manual,Diesel,"10,000 km",1st,"13,00,000",kerala
+1189,Ford,Ecosport,,2020,Manual,Petrol,"12,100 km",1st,"8,20,000",kerala
+1190,Maruti Suzuki,800,,2003,Manual,Petrol,"68,000 km",2nd,"60,000",kerala
+1191,Maruti Suzuki,Swift,,2018,Automatic,Petrol,"50,000 km",1st,"7,25,000",kerala
+1192,Maruti Suzuki,800,,2003,Manual,Petrol,"33,000 km",2nd,"1,30,000",kerala
+1193,Maruti Suzuki,Swift,,2013,Manual,Diesel,"119,024 km",1st,"3,75,000",kerala
+1194,Toyota,Innova,,2005,Manual,Diesel,"165,000 km",2nd,"4,15,000",kerala
+1195,Maruti Suzuki,Celerio X,,2018,Manual,Petrol,"50,000 km",1st,"4,25,000",kerala
+1196,Maruti Suzuki,Vitara Brezza,,2017,Manual,Diesel,"22,500 km",2nd,"7,50,000",kerala
+1197,Hyundai,EON,,2014,Manual,Petrol,"66,000 km",2nd,"2,50,000",kerala
+1198,-,-,,-,-,-,-,-,-,kerala
+1199,Maruti Suzuki,Estilo,,2011,Manual,Petrol,"90,000 km",1st,"1,80,000",kerala
+1200,Maruti Suzuki,Vitara Brezza,,2018,Manual,Diesel,"36,745 km",1st,"9,40,000",kerala
+1201,Maruti Suzuki,Ertiga,,2020,Manual,Diesel,"58,000 km",1st,"9,50,000",kerala
+1202,BMW,6 Series,,2012,Automatic,Diesel,"48,000 km",2nd,"40,00,000",kerala
+1203,Maruti Suzuki,800,,2003,Manual,Petrol,"120,000 km",2nd,"50,000",kerala
+1204,Mahindra,Scorpio,,2006,Manual,Diesel,"130,000 km",3rd,"1,95,000",kerala
+1205,Bajaj,Others,,1993,Manual,Petrol,"111,111 km",2nd,"42,000",kerala
+1206,Hyundai,i10,,2010,Manual,Petrol,"63,511 km",2nd,"2,15,000",kerala
+1207,Jeep,Compass,,2018,Manual,Diesel,"49,000 km",1st,"16,00,000",kerala
+1208,Hyundai,i10,,2011,Manual,Petrol,"72,446 km",1st,"2,65,000",kerala
+1209,-,-,,-,-,-,-,-,-,kerala
+1210,Ford,Figo Aspire,,2017,Manual,Diesel,"52,000 km",1st,"4,50,000",kerala
+1211,Hyundai,Santro Xing,,2008,Manual,Petrol,"54,986 km",1st,"1,38,000",kerala
+1212,Maruti Suzuki,Omni,,2010,Manual,Petrol,"78,958 km",2nd,"1,58,000",kerala
+1213,Maruti Suzuki,Eeco,,2013,Manual,Petrol,"65,000 km",1st,"2,75,000",kerala
+1214,Maruti Suzuki,A-Star,,2012,Manual,Petrol,"80,000 km",1st,"2,48,000",kerala
+1215,Tata,Nexon,,2018,Manual,Petrol,"70,000 km",1st,"7,70,000",kerala
+1216,Tata,Indigo,,2003,Manual,Petrol,"74,586 km",3rd,"65,000",kerala
+1217,Hyundai,i10,,2008,Manual,Petrol,"90,791 km",3rd,"1,65,000",kerala
+1218,Maruti Suzuki,Alto K10,,2011,-,Petrol,"36,499 km",1st,"2,15,000",kerala
+1219,Maruti Suzuki,800,,2003,Manual,Petrol,"50,751 km",4+,"69,000",kerala
+1220,Jeep,Compass,,2019,Manual,Diesel,"36,860 km",1st,"14,50,000",kerala
+1221,Chevrolet,Cruze,,2011,Manual,Diesel,"185,000 km",1st,"5,00,000",kerala
+1222,Maruti Suzuki,Swift Dzire,,2018,Manual,Petrol,"27,000 km",1st,"6,45,000",kerala
+1223,Hyundai,Grand i10,,2016,Manual,Petrol,"33,067 km",1st,"4,25,000",kerala
+1224,Maruti Suzuki,800,,2007,Manual,Petrol,"50,000 km",1st,"90,000",kerala
+1225,Mercedes-Benz,CLA,,2015,Automatic,Diesel,"35,000 km",1st,"29,00,000",kerala
+1226,Maruti Suzuki,Swift,,2018,Manual,Diesel,"50,100 km",1st,"6,35,000",kerala
+1227,Maruti Suzuki,Swift,,2019,Manual,Petrol,"35,000 km",1st,"5,60,000",kerala
+1228,Hyundai,Santro Xing,,2007,Manual,Petrol,"56,000 km",2nd,"1,48,000",kerala
+1229,Mahindra,XUV500,,2018,Manual,Diesel,"52,989 km",1st,"9,75,000",kerala
+1230,Mercedes-Benz,A Class,,2013,Automatic,Diesel,"40,000 km",1st,"16,00,000",kerala
+1231,Tata,Indigo Ecs,,2011,Manual,Diesel,"100,000 km",2nd,"85,000",kerala
+1232,Maruti Suzuki,Ritz,,2009,Manual,Petrol,"131,288 km",3rd,"2,15,000",kerala
+1233,Maruti Suzuki,Alto,,2009,Manual,Petrol,"70,000 km",2nd,"1,45,000",kerala
+1234,Chevrolet,Spark,,2010,Manual,Petrol,"76,342 km",3rd,"1,00,000",kerala
+1235,Maruti Suzuki,Alto 800,,2017,Manual,Petrol,"57,858 km",1st,"2,85,000",kerala
+1236,Volkswagen,Vento,,2012,Manual,Diesel,"80,000 km",4+,"3,40,000",kerala
+1237,Tata,Nano,,2014,Manual,Petrol,"64,585 km",1st,"1,35,000",kerala
+1238,Ford,Fiesta,,2007,Manual,Petrol,"107,858 km",3rd,"1,05,000",kerala
+1239,Chevrolet,Spark,,2008,Manual,Petrol,"85,858 km",2nd,"89,000",kerala
+1240,Renault,Triber,,2019,Manual,Petrol,"2,650 km",1st,"6,75,000",kerala
+1241,Hyundai,Xcent,,2017,Manual,Diesel,"35,266 km",1st,"4,85,000",kerala
+1242,Volkswagen,Polo,,2017,Manual,Diesel,"52,486 km",2nd,"6,84,000",kerala
+1243,Honda,BR-V,,2017,Manual,Diesel,"100,000 km",1st,"6,00,000",kerala
+1244,Maruti Suzuki,Wagon R,,2014,Manual,Petrol,"72,000 km",2nd,"3,40,000",kerala
+1245,Hyundai,Santro Xing,,2007,Manual,Petrol,"77,000 km",2nd,"1,40,000",kerala
+1246,Maruti Suzuki,Swift,,2019,Manual,Diesel,"30,000 km",1st,"7,80,000",kerala
+1247,Maruti Suzuki,800,,1996,Manual,Petrol,77 km,3rd,"45,000",kerala
+1248,Kia,Others,,2021,Automatic,Petrol,0 km,1st,"4,00,000",kerala
+1249,Tata,Indica V2,,2013,Manual,Diesel,"82,130 km",2nd,"1,20,000",kerala
+1250,Maruti Suzuki,Alto 800,,2015,Manual,Petrol,"57,000 km",1st,"2,40,000",kerala
+1251,Maruti Suzuki,Wagon R,,2010,Manual,Petrol,89 km,2nd,"2,45,000",kerala
+1252,Hyundai,Santro Xing,,2006,Manual,Petrol,"110,265 km",4+,"95,000",kerala
+1253,BMW,X5,,2017,Automatic,Diesel,"44,000 km",1st,"59,00,000",kerala
+1254,Nissan,Sunny,,2016,Manual,Diesel,"100,000 km",1st,"2,90,000",kerala
+1255,Maruti Suzuki,Alto 800,,2004,Manual,Petrol,"105,000 km",3rd,"80,000",kerala
+1256,Maruti Suzuki,Alto,,2010,Manual,Petrol,"76,000 km",2nd,"1,55,000",kerala
+1257,Hyundai,Venue,,2021,Manual,Petrol,0 km,-,"6,99,200",kerala
+1258,BMW,5 Series Gt,,2018,-,-,55 km,-,"25,000",kerala
+1259,Maruti Suzuki,Zen,,2003,Manual,Petrol,0 km,2nd,"1,10,000",kerala
+1260,Hyundai,Creta,,2018,Automatic,Petrol,"60,000 km",1st,"13,50,000",kerala
+1261,-,-,,-,-,-,-,-,-,kerala
+1262,Mercedes-Benz,E-Class,,2018,Automatic,Diesel,"45,000 km",1st,"65,00,000",kerala
+1263,Hyundai,Santro Xing,,2009,Manual,Petrol,"49,500 km",2nd,"1,55,000",kerala
+1264,Maruti Suzuki,Swift,,2011,Manual,Diesel,"130,000 km",-,"3,35,000",kerala
+1265,Maruti Suzuki,Swift,,2017,Manual,Petrol,"34,000 km",1st,"6,10,000",kerala
+1266,Tata,Sumo Spacio,,2008,Manual,Diesel,"199,000 km",3rd,"1,25,000",kerala
+1267,Maruti Suzuki,Swift,,2018,Manual,Petrol,"75,000 km",2nd,"5,30,000",kerala
+1268,Maruti Suzuki,Wagon R,,2008,Manual,Petrol,"80,000 km",3rd,"1,50,000",kerala
+1269,Other Brands,Others,,2014,Manual,Diesel,"50,000 km",1st,"64,000",kerala
+1270,Ford,Figo,,2012,Manual,Diesel,"82,000 km",2nd,"1,83,000",kerala
+1271,-,-,,-,-,-,-,-,-,kerala
+1272,Hyundai,i20,,2014,Manual,Diesel,"10,000 km",1st,"17,000",kerala
+1273,Maruti Suzuki,800,,2003,Manual,Petrol,"68,000 km",2nd,"50,000",kerala
+1274,Force Motors,Others,,2011,Manual,Diesel,"55,000 km",2nd,"4,50,000",kerala
+1275,Jaguar,XJ,,2017,-,-,55 km,-,"20,000",kerala
+1276,Maruti Suzuki,Wagon R,,2008,-,-,"47,413 km",1st,"2,15,000",kerala
+1277,Mahindra,Bolero Power Plus,,2017,Manual,Diesel,"68,000 km",1st,"7,75,000",kerala
+1278,Datsun,Redi Go,,2017,Manual,Petrol,"40,000 km",1st,"2,10,000",kerala
+1279,Mercedes-Benz,E-Class,,2018,-,-,555 km,4+,"1,00,000",kerala
+1280,Mercedes-Benz,GLE Class,,2017,Automatic,Diesel,"77,000 km",1st,"46,00,000",kerala
+1281,Toyota,Innova Crysta,,2017,-,Diesel,"36,000 km",2nd,"17,50,000",kerala
+1282,Datsun,GO,,2015,Manual,Petrol,"22,000 km",1st,"2,35,000",kerala
+1283,Maruti Suzuki,800,,2008,Manual,Petrol,"68,000 km",2nd,"89,000",kerala
+1284,Maruti Suzuki,Swift,,2010,Manual,Petrol,"75,000 km",2nd,"2,65,000",kerala
+1285,Toyota,Etios,,2014,Manual,Diesel,"125,000 km",2nd,"3,75,000",kerala
+1286,Maruti Suzuki,Wagon R,,2008,Manual,Petrol,"47,000 km",2nd,"1,95,000",kerala
+1287,Chevrolet,Beat,,2012,Manual,Diesel,"78,000 km",4th,"1,18,000",kerala
+1288,Maruti Suzuki,Omni,,2002,Manual,Petrol,0 km,2nd,"55,000",kerala
+1289,Maruti Suzuki,Swift,,2011,Manual,Diesel,"112,529 km",1st,"3,40,000",kerala
+1290,Hyundai,EON,,2014,Manual,Petrol,"56,000 km",1st,"2,65,000",kerala
+1291,Toyota,Innova,,2012,Manual,Diesel,"75,000 km",1st,"7,35,000",kerala
+1292,Maruti Suzuki,Wagon R,,2011,Manual,Petrol,"133,000 km",3rd,"2,40,000",kerala
+1293,Hyundai,Elite i20,,2017,Manual,Diesel,"85,000 km",2nd,"6,50,000",kerala
+1294,Tata,Indica V2 Xeta,,2008,Manual,Petrol,"49,906 km",1st,"90,000",kerala
+1295,Maruti Suzuki,Wagon R,,2016,Manual,Petrol,"76,000 km",2nd,"3,45,000",kerala
+1296,Maruti Suzuki,Alto,,2010,Manual,Petrol,"150,000 km",1st,"1,29,000",kerala
+1297,Maruti Suzuki,800,,2002,Manual,Petrol,"60,000 km",2nd,"40,000",kerala
+1298,-,-,,-,-,-,-,-,-,kerala
+1299,Maruti Suzuki,Wagon R,,2008,Manual,Petrol,"78,000 km",2nd,"1,70,000",kerala
+1300,Mahindra,Thar,,2017,Manual,Diesel,"30,000 km",-,"8,90,000",kerala
+1301,BMW,3 Series,,2010,Automatic,Diesel,"89,000 km",2nd,"9,50,000",kerala
+1302,BMW,X5,,2017,Automatic,Diesel,"45,000 km",1st,"62,00,000",kerala
+1303,Ford,Fiesta,,2007,Manual,Diesel,"140,000 km",2nd,"1,50,000",kerala
+1304,Maruti Suzuki,Wagon R 1.0,,2019,Manual,Petrol,"11,000 km",1st,"5,15,000",kerala
+1305,Maruti Suzuki,800,,1997,Manual,Petrol,"69,644 km",3rd,"50,000",kerala
+1306,Renault,Duster,,2019,Manual,Diesel,"28,000 km",1st,"8,40,000",kerala
+1307,Chevrolet,Beat,,2011,Manual,Diesel,"75,000 km",2nd,"1,40,000",kerala
+1308,Maruti Suzuki,Ritz,,2016,Manual,Diesel,"40,000 km",1st,"2,50,000",kerala
+1309,Maruti Suzuki,Alto 800,,2013,Manual,Petrol,"14,000 km",1st,"2,10,000",kerala
+1310,Maruti Suzuki,Swift,,2018,Automatic,Diesel,"10,000 km",1st,"3,75,000",kerala
+1311,Maruti Suzuki,Wagon R,,2004,Manual,Petrol,"120,000 km",2nd,"1,15,000",kerala
+1312,Hyundai,EON,,2011,Manual,Petrol,"81,339 km",2nd,"1,90,000",kerala
+1313,Maruti Suzuki,Swift Dzire Tour,,2014,Manual,Diesel,"246,000 km",1st,"2,45,000",kerala
+1314,Maruti Suzuki,800,,2016,Manual,Petrol,"49,000 km",2nd,"2,62,500",kerala
+1315,Maruti Suzuki,800,,2004,Manual,Petrol,"36,500 km",1st,"45,000",kerala
+1316,Datsun,GO,,2014,Manual,Petrol,"29,622 km",1st,"1,85,000",kerala
+1317,Ashok Leyland,Stile,,2018,Manual,Diesel,"33,000 km",2nd,"6,75,000",kerala
+1318,Maruti Suzuki,Swift,,2006,Manual,Petrol,"99,500 km",3rd,"2,00,000",kerala
+1319,Tata,Indica,,2021,Manual,Diesel,0 km,1st,"15,000",kerala
+1320,Maruti Suzuki,Alto 800,,2017,Manual,Petrol,"16,852 km",1st,"3,35,000",kerala
+1321,Jaguar,XF,,2015,Automatic,Diesel,"53,000 km",2nd,"28,00,000",kerala
+1322,Maruti Suzuki,Alto 800,,2014,Manual,Petrol,"41,000 km",2nd,"2,40,000",kerala
+1323,Maruti Suzuki,A-Star,,2009,Manual,Petrol,"95,000 km",2nd,"1,52,000",kerala
+1324,Maruti Suzuki,Alto,,2005,Manual,Petrol,"90,000 km",3rd,"90,000",kerala
+1325,Maruti Suzuki,Swift Dzire,,2017,Manual,Petrol,"86,000 km",1st,"5,85,000",kerala
+1326,Maruti Suzuki,800,,2003,Manual,Petrol,1 km,3rd,"65,000",kerala
+1327,Ford,Figo,,2016,Manual,Diesel,"29,000 km",1st,"5,10,000",kerala
+1328,-,-,,-,-,-,-,-,-,kerala
+1329,Maruti Suzuki,Swift Dzire Tour,,2016,-,-,"100,000 km",1st,"3,60,000",kerala
+1330,Jeep,Compass,,2019,Manual,Petrol,"23,000 km",1st,"18,00,000",kerala
+1331,Hyundai,Xcent,,2014,Manual,Diesel,"114,000 km",1st,"3,60,000",kerala
+1332,Maruti Suzuki,Omni,,2000,Manual,Petrol,85 km,4th,"62,000",kerala
+1333,Hyundai,Accent,,2006,Manual,Petrol,"91,000 km",1st,"1,00,000",kerala
+1334,Mahindra,Bolero Power Plus,,2015,Manual,Diesel,"73,254 km",2nd,"6,77,000",kerala
+1335,Mahindra,Scorpio,,2009,Manual,Diesel,"110,000 km",1st,"4,00,000",kerala
+1336,Maruti Suzuki,Alto,,2001,Manual,Petrol,"87,000 km",1st,"70,000",kerala
+1337,Volkswagen,Polo,,2015,Manual,Diesel,"89,468 km",2nd,"6,30,000",kerala
+1338,Mahindra,XUV500,,2018,Automatic,Diesel,"81,000 km",1st,"16,50,000",kerala
+1339,Maruti Suzuki,Alto,,2002,Manual,Petrol,"160,000 km",3rd,"75,000",kerala
+1340,Ambassador,Ambassador,,2007,Manual,Diesel,"80,000 km",1st,"75,000",kerala
+1341,Hyundai,i20,,2020,Manual,Petrol,"3,500 km",1st,"7,85,000",kerala
+1342,Chevrolet,Beat,,2013,Manual,Diesel,"85,895 km",3rd,"1,38,000",kerala
+1343,Maruti Suzuki,Stingray,,2015,Manual,Petrol,"74,500 km",2nd,"3,30,000",kerala
+1344,Toyota,Corolla,,2009,Manual,Petrol,"74,000 km",2nd,"3,11,000",kerala
+1345,Honda,Jazz,,2018,Manual,Petrol,"20,000 km",1st,"7,00,000",kerala
+1346,Maruti Suzuki,800,,2001,Manual,Petrol,"97,500 km",2nd,"47,000",kerala
+1347,Mitsubishi,Lancer,,2005,Manual,Diesel,1 km,1st,"1,25,000",kerala
+1348,Maruti Suzuki,800,,2001,Manual,Petrol,"67,000 km",2nd,"46,000",kerala
+1349,Other Brands,Others,,2021,Manual,CNG & Hybrids,0 km,2nd,"6,00,000",kerala
+1350,Volkswagen,Polo,,2018,Manual,Petrol,"18,678 km",2nd,"6,50,000",kerala
+1351,Mahindra,Scorpio,,2008,Manual,Diesel,"185,000 km",1st,"3,50,000",kerala
+1352,Ford,Figo,,2020,Manual,Diesel,"12,000 km",1st,"7,25,000",kerala
+1353,Maruti Suzuki,Zen,,1998,Manual,Petrol,"54,000 km",3rd,"52,000",kerala
+1354,Mahindra,Jeep,,2004,Manual,Diesel,"110,000 km",2nd,"2,99,999",kerala
+1355,Maruti Suzuki,Alto 800,,2017,Manual,Petrol,"9,500 km",2nd,"2,35,000",kerala
+1356,Renault,KWID,,2016,Manual,Petrol,"56,324 km",2nd,"2,75,000",kerala
+1357,Hyundai,i10,,2011,Manual,Petrol,82 km,2nd,"2,80,000",kerala
+1358,Maruti Suzuki,Wagon R,,2003,Manual,Petrol,"10,000 km",2nd,"1,05,000",kerala
+1359,Maruti Suzuki,Alto,,2006,Manual,Petrol,"73,000 km",1st,"85,000",kerala
+1360,Maruti Suzuki,Ertiga,,2013,Manual,Diesel,"116,320 km",2nd,"4,75,000",kerala
+1361,Maruti Suzuki,Vitara Brezza,,2017,Manual,Diesel,"16,500 km",1st,"8,25,000",kerala
+1362,Maruti Suzuki,Alto 800,,2018,Manual,Petrol,"38,650 km",1st,"3,15,000",kerala
+1363,Hyundai,Santro Xing,,2010,Manual,Petrol,"76,656 km",3rd,"1,99,000",kerala
+1364,Maruti Suzuki,Wagon R,,2004,Manual,Petrol,"74,600 km",3rd,"1,00,000",kerala
+1365,Mahindra,Scorpio,,2007,Manual,Diesel,"144,000 km",2nd,"2,40,000",kerala
+1366,Chevrolet,Aveo,,2006,Automatic,Petrol,"88,000 km",1st,"1,10,000",kerala
+1367,Volkswagen,Ameo,,2017,Automatic,Diesel,"45,000 km",1st,"7,50,000",kerala
+1368,Maruti Suzuki,Wagon R,,2009,Manual,Petrol,0 km,-,"1,50,000",kerala
+1369,Maruti Suzuki,Ignis,,2019,Automatic,Petrol,"17,000 km",1st,"6,00,000",kerala
+1370,Ford,Ecosport,,2014,Manual,Diesel,"90,000 km",1st,"5,10,000",kerala
+1371,Audi,A6,,2016,Automatic,Diesel,"55,555 km",-,"25,000",kerala
+1372,Toyota,Fortuner,,2011,Manual,Diesel,"250,000 km",2nd,"11,50,000",kerala
+1373,Toyota,Fortuner,,2012,Automatic,Diesel,"65,000 km",2nd,"16,50,000",kerala
+1374,Maruti Suzuki,Zen,,1997,Manual,Petrol,"92,545 km",3rd,"43,000",kerala
+1375,Maruti Suzuki,Swift,,2015,Manual,Petrol,"92,000 km",1st,"4,90,000",kerala
+1376,Maruti Suzuki,Zen,,2002,Automatic,Petrol,"59,639 km",2nd,"68,500",kerala
+1377,Maruti Suzuki,Alto 800,,2014,Manual,Petrol,"79,000 km",2nd,"2,20,000",kerala
+1378,Maruti Suzuki,800,,2003,Manual,Petrol,0 km,2nd,"80,000",kerala
+1379,Maruti Suzuki,Ertiga,,2017,Manual,Diesel,"38,000 km",2nd,"8,25,000",kerala
+1380,Kia,Seltos,,2019,Manual,Petrol,"20,000 km",1st,"13,75,000",kerala
+1381,Maruti Suzuki,Swift Dzire,,2015,Manual,Petrol,"29,000 km",2nd,"4,80,000",kerala
+1382,Honda,BR-V,,2018,Manual,Diesel,"72,500 km",1st,"5,75,000",kerala
+1383,Maruti Suzuki,Alto,,2006,Manual,Petrol,"86,000 km",1st,"1,05,000",kerala
+1384,Hyundai,Grand i10,,2008,Manual,Petrol,"79,000 km",-,"1,72,000",kerala
+1385,Maruti Suzuki,Estilo,,2007,Manual,Petrol,"71,651 km",2nd,"1,30,000",kerala
+1386,Mercedes-Benz,E-Class,,2013,-,-,"50,000 km",2nd,"25,00,000",kerala
+1387,Hyundai,EON,,2016,Manual,Petrol,57 km,1st,"2,57,000",kerala
+1388,Ashok Leyland,Others,,2018,-,-,"5,555 km",-,"20,00,000",kerala
+1389,Maruti Suzuki,Swift,,2014,Manual,Diesel,"83,000 km",1st,"4,50,000",kerala
+1390,Maruti Suzuki,Zen,,1998,Manual,Petrol,0 km,4+,"62,000",kerala
+1391,Hyundai,EON,,2012,Manual,Petrol,"62,347 km",3rd,"1,85,000",kerala
+1392,Mahindra,Scorpio,,2005,Manual,Diesel,"181,000 km",3rd,"1,50,000",kerala
+1393,Tata,Indica,,2008,Manual,Diesel,"102,000 km",2nd,"60,000",kerala
+1394,Mahindra,Jeep,,1996,Manual,Diesel,"34,000 km",3rd,"2,65,000",kerala
+1395,Maruti Suzuki,Eeco,,2017,Manual,Petrol,"35,000 km",2nd,"3,35,000",kerala
+1396,Maruti Suzuki,800,,2005,Manual,Petrol,"180,000 km",2nd,"40,000",kerala
+1397,Maruti Suzuki,Eeco,,2010,Manual,Petrol,"75,000 km",4th,"1,75,000",kerala
+1398,Maruti Suzuki,Zen,,1996,Manual,Petrol,"37,939 km",3rd,"40,000",kerala
+1399,Maruti Suzuki,Wagon R,,2009,Manual,LPG,"95,000 km",2nd,"1,70,000",kerala
+1400,-,-,,-,-,-,-,-,-,kerala
+1401,Renault,Pulse,,2014,Manual,Diesel,"75,000 km",1st,"3,15,000",kerala
+1402,Volkswagen,Jetta,,2016,Automatic,Diesel,"89,179 km",3rd,"11,50,000",kerala
+1403,Maruti Suzuki,Eeco,,2010,Manual,Petrol,"112,000 km",2nd,"2,10,000",kerala
+1404,Tata,Xenon XT,,2014,Manual,Diesel,"62,400 km",2nd,"6,00,000",kerala
+1405,Honda,Civic,,2007,Manual,Petrol,85 km,3rd,"1,90,000",kerala
+1406,Hyundai,Santro Xing,,2009,Manual,Petrol,"68,000 km",2nd,"1,90,000",kerala
+1407,Hyundai,Santro Xing,,2007,Manual,Petrol,"100,000 km",2nd,"1,35,000",kerala
+1408,Hyundai,EON,,2015,Manual,Petrol,"28,000 km",2nd,"2,65,000",kerala
+1409,Honda,City,,2017,Manual,Diesel,"82,000 km",1st,"8,75,000",kerala
+1410,Renault,Duster,,2012,Manual,Diesel,"70,000 km",1st,"6,50,000",kerala
+1411,Maruti Suzuki,Swift,,2009,Manual,Petrol,"150,000 km",3rd,"2,20,000",kerala
+1412,Honda,Others,,1996,Manual,Petrol,"210,000 km",3rd,"16,500",kerala
+1413,Maruti Suzuki,Ciaz,,2014,Manual,Diesel,"119,000 km",2nd,"6,25,000",kerala
+1414,Ford,Figo,,2013,Manual,Diesel,"86,032 km",2nd,"2,00,000",kerala
+1415,Maruti Suzuki,Zen,,1999,Manual,Petrol,"5,975 km",2nd,"65,000",kerala
+1416,Toyota,Innova,,2010,Manual,Diesel,"110,000 km",3rd,"7,50,000",kerala
+1417,Hyundai,EON,,2015,Manual,Petrol,"51,000 km",1st,"2,55,000",kerala
+1418,Maruti Suzuki,Alto,,2005,Manual,Petrol,"65,000 km",2nd,"1,10,000",kerala
+1419,Mahindra,Xylo,,2010,Automatic,Diesel,"98,000 km",2nd,"2,10,000",kerala
+1420,Toyota,Glanza,,2020,Manual,Petrol,"8,500 km",1st,"7,50,000",kerala
+1421,Volkswagen,Polo,,2015,Automatic,Petrol,"80,000 km",2nd,"5,85,000",kerala
+1422,Hyundai,Creta,,2015,Manual,Diesel,"106,000 km",1st,"8,45,000",kerala
+1423,Chevrolet,Tavera Neo,,2012,Manual,Diesel,"90,000 km",2nd,"3,90,000",kerala
+1424,Toyota,Fortuner,,2011,Manual,Diesel,"75,000 km",1st,"12,00,000",kerala
+1425,Maruti Suzuki,Wagon R 1.0,,2013,Manual,Petrol,"54,947 km",2nd,"3,33,000",kerala
+1426,Toyota,Etios Liva,,2018,-,Petrol,"37,000 km",1st,"6,75,000",kerala
+1427,Maruti Suzuki,Swift,,2016,Manual,Diesel,"50,000 km",1st,"5,85,000",kerala
+1428,Volkswagen,Polo,,2014,-,Petrol,"57,000 km",1st,"5,15,000",kerala
+1429,Maruti Suzuki,Omni,,2006,Manual,Petrol,"98,000 km",4+,"98,000",kerala
+1430,Tata,Indica Vista,,2012,Manual,Diesel,"264,000 km",1st,"1,15,000",kerala
+1431,Maruti Suzuki,Ritz,,2011,Manual,Diesel,"122,000 km",3rd,"2,75,000",kerala
+1432,Toyota,Fortuner,,2010,Manual,Diesel,"140,000 km",2nd,"10,85,000",kerala
+1433,Ambassador,Ambassador,,1999,Manual,Diesel,"79,000 km",3rd,"57,000",kerala
+1434,Mahindra,Bolero Pik-Up,,2009,Manual,Diesel,"110,000 km",2nd,"2,20,000",kerala
+1435,Toyota,Etios,,2012,Manual,Diesel,"128,000 km",2nd,"2,95,000",kerala
+1436,Maruti Suzuki,Zen,,2005,Manual,Petrol,"76,000 km",3rd,"1,15,000",kerala
+1437,Maruti Suzuki,Baleno,,2018,Automatic,Petrol,"37,000 km",1st,"7,40,000",kerala
+1438,Honda,Brio,,2012,Manual,Petrol,"55,500 km",1st,"3,35,000",kerala
+1439,Tata,Others,,2021,Manual,Diesel,"4,000 km",1st,"2,50,000",kerala
+1440,Mahindra,Jeep,,1980,Manual,Diesel,"123,000 km",3rd,"2,70,000",kerala
+1441,Hyundai,i10,,2011,Manual,Petrol,"48,000 km",1st,"2,47,000",kerala
+1442,Toyota,Corolla Altis,,2009,Manual,Petrol,"98,360 km",2nd,"4,35,000",kerala
+1443,Hyundai,EON,,2011,Manual,Petrol,"53,347 km",1st,"2,55,000",kerala
+1444,Honda,City,,2016,Manual,Petrol,"28,000 km",1st,"6,50,000",kerala
+1445,Mahindra,Jeep,,1991,Manual,Diesel,0 km,2nd,"1,40,000",kerala
+1446,Maruti Suzuki,Wagon R,,2007,Manual,Petrol,"100,712 km",2nd,"1,65,000",kerala
+1447,Tata,Indigo,,2016,Manual,Diesel,"99,000 km",3rd,"1,75,000",kerala
+1448,Toyota,Etios,,2011,Manual,Petrol,"83,000 km",2nd,"3,19,000",kerala
+1449,Maruti Suzuki,Alto,,2008,Manual,Petrol,"87,100 km",3rd,"1,15,000",kerala
+1450,Maruti Suzuki,S Cross,,2015,Manual,Diesel,"110,000 km",1st,"5,85,000",kerala
+1451,Tata,Indigo,,2003,Manual,Petrol,"62,000 km",2nd,"42,000",kerala
+1452,Volkswagen,Polo,,2017,Manual,Diesel,"75,000 km",2nd,"7,25,000",kerala
+1453,Hyundai,i10,,2010,-,-,"55,900 km",1st,"2,85,000",kerala
+1454,Isuzu,D-Max V-Cross,,2017,Manual,Diesel,"100,000 km",1st,"13,60,000",kerala
+1455,Maruti Suzuki,Ritz,,2013,Manual,Diesel,"83,000 km",2nd,"3,40,000",kerala
+1456,Datsun,Redi Go,,2018,Automatic,Petrol,"21,000 km",2nd,"3,15,000",kerala
+1457,Maruti Suzuki,Swift,,2019,Manual,Petrol,"18,000 km",1st,"6,25,000",kerala
+1458,Mahindra,Verito,,2011,Manual,Diesel,"188,257 km",2nd,"1,50,000",kerala
+1459,Nissan,Micra,,2014,Manual,Diesel,"90,000 km",2nd,"3,19,000",kerala
+1460,Mahindra,Thar,,2020,Manual,Diesel,"4,000 km",1st,"16,50,000",kerala
+1461,Toyota,Innova,,2016,Manual,Diesel,"126,000 km",1st,"12,20,000",kerala
+1462,Maruti Suzuki,Swift,,2016,Manual,Petrol,"55,225 km",1st,"5,45,000",kerala
+1463,Hyundai,EON,,2016,Manual,Petrol,"51,000 km",1st,"2,70,000",kerala
+1464,Maruti Suzuki,S-Presso,,2020,Automatic,Petrol,"9,500 km",1st,"5,25,000",kerala
+1465,Tata,Tiago,,2018,Manual,Petrol,"7,000 km",1st,"5,00,000",kerala
+1466,Tata,Indica Vista,,2010,Manual,Diesel,"112,500 km",2nd,"97,000",kerala
+1467,Toyota,Innova,,2015,Manual,Diesel,"140,000 km",2nd,"9,00,000",kerala
+1468,Maruti Suzuki,Alto,,2001,Automatic,Petrol,"100,000 km",3rd,"75,000",kerala
+1469,Toyota,Etios,,2016,Manual,Petrol,"61,000 km",2nd,"5,95,000",kerala
+1470,Maruti Suzuki,Swift Dzire,,2015,Manual,Diesel,"120,000 km",2nd,"37,50,000",kerala
+1471,Maruti Suzuki,Swift,,2013,Manual,Diesel,"118,000 km",3rd,"3,75,000",kerala
+1472,Tata,Indica,,2005,Manual,Diesel,"200,000 km",2nd,"49,000",kerala
+1473,Mahindra,Xylo,,2017,Manual,Diesel,"91,000 km",2nd,"5,20,000",kerala
+1474,Maruti Suzuki,Swift,,2011,Manual,Petrol,"70,000 km",2nd,"2,95,000",kerala
+1475,Maruti Suzuki,Swift,,2020,Automatic,Petrol,"16,000 km",1st,"7,20,000",kerala
+1476,Maruti Suzuki,Wagon R 1.0,,2005,Manual,Petrol,"53,417 km",2nd,"1,10,000",kerala
+1477,Volkswagen,Polo,,2018,Manual,Petrol,"23,000 km",1st,"7,00,000",kerala
+1478,Hyundai,EON,,2014,Manual,Petrol,"50,000 km",2nd,"2,35,000",kerala
+1479,Tata,Sumo Grande,,2010,Manual,Diesel,"950,000 km",1st,"1,85,000",kerala
+1480,Volkswagen,Vento,,2014,Manual,Diesel,"47,000 km",2nd,"4,35,000",kerala
+1481,Hyundai,EON,,2012,Manual,Petrol,"63,000 km",2nd,"2,10,000",kerala
+1482,Hyundai,EON,,2018,Manual,Petrol,"36,324 km",1st,"2,98,000",kerala
+1483,Maruti Suzuki,Others,,2013,Manual,Petrol,"90,000 km",2nd,"3,25,000",kerala
+1484,Maruti Suzuki,Others,,2018,Manual,Diesel,"400,000 km",1st,"72,00,000",kerala
+1485,Maruti Suzuki,A-Star,,2010,Manual,Petrol,"66,500 km",4th,"1,70,000",kerala
+1486,Toyota,Corolla Altis,,2014,Manual,Diesel,"159,000 km",2nd,"11,25,000",kerala
+1487,Volkswagen,Polo,,2019,Manual,Petrol,"33,000 km",1st,"6,20,000",kerala
+1488,Mahindra,XUV500,,2015,Manual,Diesel,"79,300 km",1st,"7,80,000",kerala
+1489,Maruti Suzuki,Ritz,,2011,Manual,Petrol,"89,855 km",1st,"2,75,000",kerala
+1490,Maruti Suzuki,Zen,,1998,Manual,Petrol,"76,921 km",3rd,"60,000",kerala
+1491,Mercedes-Benz,E-Class,,2004,-,-,666 km,4+,"70,000",kerala
+1492,Hyundai,Grand i10 Nios,,2020,Manual,Petrol,"12,500 km",1st,"6,50,000",kerala
+1493,Hyundai,i10,,2012,Manual,Petrol,"43,000 km",1st,"2,90,000",kerala
+1494,Mercedes-Benz,New C-Class,,2012,Automatic,Diesel,"90,000 km",2nd,"13,00,000",kerala
+1495,Mahindra,Thar,,2017,Manual,Diesel,"37,000 km",2nd,"8,95,000",kerala
+1496,Tata,Others,,2015,Manual,Diesel,"80,000 km",4th,"1,85,000",kerala
+1497,Maruti Suzuki,800,,1999,Manual,Petrol,"31,000 km",1st,"38,500",kerala
+1498,Maruti Suzuki,Alto 800,,2016,Manual,Petrol,"33,000 km",1st,"2,50,000",kerala
+1499,Maruti Suzuki,Wagon R,,2008,Manual,Petrol,"65,500 km",2nd,"1,50,000",kerala
+1500,Maruti Suzuki,Ertiga,,2014,Manual,Diesel,"155,000 km",1st,"4,75,000",kerala
+1501,Maruti Suzuki,Swift,,2016,Manual,Petrol,"55,225 km",1st,"5,45,000",kerala
+1502,BMW,3 Series,,2008,Automatic,Petrol,"35,000 km",2nd,"5,50,000",kerala
+1503,Maruti Suzuki,Alto,,2007,Manual,Petrol,"95,000 km",2nd,"77,500",kerala
+1504,Maruti Suzuki,Swift Dzire,,2009,Manual,Petrol,"64,000 km",2nd,"2,20,000",kerala
+1505,Tata,Nano,,2014,Manual,Petrol,"22,000 km",2nd,"1,90,000",kerala
+1506,Bajaj,Others,,2012,Manual,Diesel,"80,000 km",1st,"92,000",kerala
+1507,Mahindra,Others,,2012,Manual,Diesel,"117,000 km",2nd,"1,30,000",kerala
+1508,Maruti Suzuki,Swift,,2011,Manual,Diesel,"140,000 km",3rd,"3,40,000",kerala
+1509,Mahindra,Others,,2011,Manual,Diesel,"100,000 km",2nd,"5,10,000",kerala
+1510,Maruti Suzuki,Ritz,,2009,Manual,Petrol,"44,000 km",1st,"2,95,000",kerala
+1511,Toyota,Etios,,2018,Manual,Diesel,"28,600 km",1st,"8,80,000",kerala
+1512,Maruti Suzuki,Ertiga,,2018,Manual,Diesel,"44,200 km",1st,"8,39,000",kerala
+1513,Maruti Suzuki,Swift,,2015,Manual,Diesel,"78,000 km",2nd,"4,15,000",kerala
+1514,Hyundai,Grand i10,,2013,Manual,Petrol,"17,000 km",1st,"3,95,000",kerala
+1515,Maruti Suzuki,Wagon R,,2017,Manual,Petrol,"35,000 km",1st,"4,25,000",kerala
+1516,BMW,Z4,,2012,Automatic,Petrol,"60,000 km",3rd,"32,00,000",kerala
+1517,Fiat,Avventura,,2017,Manual,Diesel,"55,000 km",1st,"5,10,000",kerala
+1518,Maruti Suzuki,Alto 800,,2016,Manual,Petrol,"24,200 km",1st,"3,00,000",kerala
+1519,Maruti Suzuki,Baleno,,2019,Manual,Petrol,"16,000 km",2nd,"7,05,000",kerala
+1520,Maruti Suzuki,Wagon R,,2014,Manual,Petrol,"61,000 km",1st,"3,80,000",kerala
+1521,Mercedes-Benz,GLE Class,,2017,Automatic,Diesel,"77,000 km",1st,"46,00,000",kerala
+1522,Toyota,Fortuner,,2013,Manual,Diesel,2 km,2nd,"13,00,000",kerala
+1523,Maruti Suzuki,Wagon R 1.0,,2019,Manual,Petrol,"11,000 km",1st,"5,15,000",kerala
+1524,Other Brands,Others,,2014,Manual,Diesel,"50,000 km",1st,"64,000",kerala
+1525,Maruti Suzuki,800,,1997,Manual,Petrol,"69,644 km",3rd,"50,000",kerala
+1526,Maruti Suzuki,800,,2004,-,-,"181,039 km",4th,"70,000",kerala
+1527,Datsun,GO,,2014,Manual,Petrol,"29,622 km",1st,"1,85,000",kerala
+1528,Ashok Leyland,Stile,,2018,Manual,Diesel,"33,000 km",2nd,"6,75,000",kerala
+1529,Renault,Duster,,2019,Manual,Diesel,"28,000 km",1st,"8,40,000",kerala
+1530,Chevrolet,Beat,,2011,Manual,Diesel,"75,000 km",2nd,"1,40,000",kerala
+1531,Maruti Suzuki,Swift Dzire Tour,,2014,Manual,Diesel,"246,000 km",1st,"2,45,000",kerala
+1532,Maruti Suzuki,800,,2003,Manual,Petrol,1 km,3rd,"65,000",kerala
+1533,Ford,Figo,,2016,Manual,Diesel,"29,000 km",1st,"5,10,000",kerala
+1534,Mahindra,Bolero Power Plus,,2015,Manual,Diesel,"73,254 km",2nd,"6,77,000",kerala
+1535,Maruti Suzuki,Omni,,2000,Manual,Petrol,85 km,4th,"62,000",kerala
+1536,Hyundai,Accent,,2006,Manual,Petrol,"91,000 km",1st,"1,00,000",kerala
+1537,Mahindra,Scorpio,,2009,Manual,Diesel,"110,000 km",1st,"4,00,000",kerala
+1538,Volkswagen,Polo,,2015,Manual,Diesel,"89,468 km",2nd,"6,30,000",kerala
+1539,Hyundai,EON,,2015,Manual,Petrol,"51,000 km",1st,"2,55,000",kerala
+1540,Toyota,Fortuner,,2019,Automatic,Diesel,"23,000 km",2nd,"37,50,000",kerala
+1541,Nissan,Micra,,2016,Manual,Petrol,"47,000 km",1st,"4,00,000",kerala
+1542,Ford,Figo,,2010,Manual,Diesel,"86,000 km",3rd,"2,00,000",kerala
+1543,Mahindra,Jeep,,2000,Manual,Diesel,"150,000 km",2nd,"1,90,000",kerala
+1544,Mahindra,XUV500,,2018,Automatic,Diesel,"81,000 km",1st,"16,50,000",kerala
+1545,Force Motors,Others,,2016,Manual,Diesel,"80,000 km",1st,"11,00,000",kerala
+1546,Maruti Suzuki,Alto 800,,2014,Manual,Petrol,"79,000 km",2nd,"2,20,000",kerala
+1547,Maruti Suzuki,800,,2003,Manual,Petrol,0 km,2nd,"80,000",kerala
+1548,Ford,Figo,,2010,Manual,Diesel,"118,000 km",3rd,"1,95,000",kerala
+1549,Mahindra,Scorpio,,2005,Manual,Diesel,"181,000 km",3rd,"1,50,000",kerala
+1550,Hyundai,Santro,,2003,Manual,Petrol,"78,000 km",2nd,"80,000",kerala
+1551,Nissan,Micra Active,,2017,Manual,Petrol,"23,500 km",1st,"4,25,000",kerala
+1552,Maruti Suzuki,Swift,,2016,-,Diesel,14 km,-,"4,44,444",kerala
+1553,Maruti Suzuki,Alto 800,,2016,Manual,Petrol,"42,280 km",1st,"2,70,000",kerala
+1554,Honda,City,,2007,-,-,"128,199 km",1st,"2,00,000",kerala
+1555,Ford,Figo,,2012,Manual,Diesel,"82,000 km",2nd,"1,83,000",kerala
+1556,Hyundai,Elite i20,,2015,Manual,Petrol,"48,000 km",1st,"5,20,000",kerala
+1557,Maruti Suzuki,Alto,,2009,Manual,Petrol,"100,000 km",2nd,"1,35,000",kerala
+1558,Maruti Suzuki,Wagon R,,2009,Manual,Petrol,"88,000 km",3rd,"1,58,500",kerala
+1559,Mahindra,Bolero,,2016,Manual,Diesel,"63,000 km",1st,"6,75,000",kerala
+1560,Tata,Harrier,,2019,Manual,Diesel,"8,600 km",1st,"16,75,000",kerala
+1561,Maruti Suzuki,Swift,,2016,Manual,Petrol,"55,225 km",1st,"5,45,000",kerala
+1562,Maruti Suzuki,Eeco,,2011,Manual,Petrol,"75,000 km",2nd,"1,98,000",kerala
+1563,Maruti Suzuki,Swift Dzire,,2014,Manual,Diesel,"120,000 km",2nd,"4,00,000",kerala
+1564,Mahindra,Xylo,,2010,Manual,Diesel,"120,000 km",2nd,"2,35,000",kerala
+1565,Maruti Suzuki,800,,2015,Manual,Petrol,555 km,4th,"15,000",kerala
+1566,Maruti Suzuki,Zen Estilo,,2013,Manual,Petrol,"92,345 km",2nd,"2,25,000",kerala
+1567,Audi,Q5,,2015,Automatic,Diesel,"110,000 km",1st,"22,50,000",kerala
+1568,Skoda,Octavia,,2011,Manual,Diesel,55 km,4th,"35,000",kerala
+1569,Hyundai,Accent,,2013,Automatic,LPG,555 km,3rd,"15,000",kerala
+1570,Maruti Suzuki,Alto K10,,2014,Automatic,-,"81,270 km",3rd,"2,90,000",kerala
+1571,Ford,Classic,,2016,Automatic,Diesel,225 km,4th,"15,000",kerala
+1572,Ford,Aspire,,2017,Manual,Diesel,"65,000 km",2nd,"4,68,000",kerala
+1573,Ford,Ecosport,,2013,Manual,Diesel,"100,000 km",2nd,"5,25,000",kerala
+1574,Renault,Pulse,,2012,Manual,Diesel,"110,000 km",1st,"2,55,000",kerala
+1575,Hyundai,Creta,,2015,Manual,Diesel,"116,000 km",1st,"8,65,000",kerala
+1576,Maruti Suzuki,Zen,,2000,Manual,Petrol,"95,000 km",3rd,"80,000",kerala
+1577,Jeep,Compass,,2017,Manual,Diesel,"38,000 km",1st,"15,75,000",kerala
+1578,-,-,,-,-,-,-,-,-,kerala
+1579,Ford,Fiesta,,2008,Manual,Diesel,"120,000 km",1st,"1,48,000",kerala
+1580,Volkswagen,Vento,,2014,Automatic,Diesel,"91,000 km",3rd,"5,45,000",kerala
+1581,Audi,S5,,2018,Automatic,Petrol,"20,000 km",2nd,"58,00,000",kerala
+1582,Volkswagen,Polo,,2019,Manual,Petrol,"44,080 km",1st,"6,40,000",kerala
+1583,Nissan,Sunny,,2015,Manual,Diesel,"43,000 km",1st,"5,65,000",kerala
+1584,Nissan,Micra Active,,2013,Manual,Petrol,"80,000 km",1st,"2,90,000",kerala
+1585,Mahindra,Bolero Pik-Up,,2012,Automatic,Diesel,"150,000 km",2nd,"4,10,000",kerala
+1586,Mahindra,Verito,,2013,Manual,Diesel,"260,000 km",2nd,"1,70,000",kerala
+1587,Mahindra,Bolero,,2011,Manual,Diesel,"76,000 km",2nd,"4,55,000",kerala
+1588,Maruti Suzuki,Alto,,2007,Manual,Petrol,"109,752 km",2nd,"1,05,000",kerala
+1589,Hyundai,Santro Xing,,2010,Manual,Petrol,"95,000 km",2nd,"1,65,000",kerala
+1590,Opel,Corsa,,2003,Manual,Petrol,"120,250 km",4th,"30,000",kerala
+1591,Maruti Suzuki,Ritz,,2011,Manual,Diesel,"132,000 km",2nd,"2,85,000",kerala
+1592,Chevrolet,Optra Magnum,,2010,Manual,Diesel,"110,000 km",1st,"3,00,000",kerala
+1593,Maruti Suzuki,Swift,,2018,Manual,Diesel,"41,889 km",1st,"6,40,000",kerala
+1594,Maruti Suzuki,Ertiga,,2016,Manual,Diesel,"50,000 km",1st,"7,50,000",kerala
+1595,Toyota,Innova,,2012,Manual,Diesel,"110,000 km",2nd,"8,00,000",kerala
+1596,Ford,Figo,,2015,Manual,Diesel,"25,086 km",2nd,"15,000",kerala
+1597,Toyota,Innova,,2010,-,-,5 km,-,"1,00,000",kerala
+1598,BMW,X5,,2016,-,Diesel,45 km,-,"45,55,555",kerala
+1599,Maruti Suzuki,Swift Dzire,,2016,Manual,Diesel,"92,000 km",2nd,"4,15,000",kerala
+1600,Maruti Suzuki,Baleno,,2018,Manual,Diesel,"13,000 km",1st,"7,75,000",kerala
+1601,Hyundai,EON,,2017,Manual,Petrol,"14,958 km",1st,"3,10,000",kerala
+1602,Skoda,Rapid,,2015,Automatic,Diesel,"122,000 km",1st,"4,85,000",kerala
+1603,Maruti Suzuki,Alto 800,,2014,Manual,Petrol,"70,000 km",2nd,"2,10,000",kerala
+1604,Maruti Suzuki,Swift,,2018,Manual,Petrol,"36,000 km",1st,"5,20,000",kerala
+1605,Hyundai,Creta,,2015,Automatic,Diesel,82 km,1st,"9,75,000",kerala
+1606,Maruti Suzuki,Eeco,,2020,Manual,Petrol,"6,600 km",1st,"4,50,000",kerala
+1607,Maruti Suzuki,Swift,,2010,Manual,Diesel,"128,000 km",3rd,"2,35,000",kerala
+1608,Maruti Suzuki,Zen,,2003,Manual,Petrol,0 km,4th,"60,000",kerala
+1609,Tata,Indica Vista,,2011,Manual,Diesel,"75,000 km",2nd,"1,39,000",kerala
+1610,Porsche,Cayenne,,2017,-,Diesel,123 km,-,"77,77,777",kerala
+1611,Hyundai,i10,,2021,Manual,Petrol,"2,000 km",1st,"6,60,000",kerala
+1612,Toyota,Etios Liva,,2015,Manual,Diesel,"75,000 km",2nd,"5,70,000",kerala
+1613,Mahindra,TUV 300,,2016,-,Diesel,"68,000 km",1st,"6,50,000",kerala
+1614,Maruti Suzuki,Swift,,2017,Manual,Diesel,"80,000 km",1st,"5,60,000",kerala
+1615,Maruti Suzuki,Ritz,,2016,Manual,Petrol,"80,000 km",1st,"4,40,000",kerala
+1616,Mahindra Renault,Logan,,2009,Manual,Diesel,"95,000 km",2nd,"1,09,000",kerala
+1617,Ford,Figo,,2012,Manual,Diesel,"66,011 km",1st,"2,15,000",kerala
+1618,Ford,Figo,,2010,Manual,Diesel,"118,000 km",3rd,"1,95,000",kerala
+1619,Toyota,Etios Liva,,2017,Manual,Petrol,"21,000 km",2nd,"5,95,000",kerala
+1620,Maruti Suzuki,Swift Dzire,,2018,Manual,Diesel,"8,900 km",1st,"7,25,000",kerala
+1621,Hyundai,Verna,,2016,Manual,Petrol,"77,889 km",2nd,"6,30,000",kerala
+1622,Maruti Suzuki,Swift Dzire,,2018,Manual,Diesel,"70,500 km",1st,"6,35,000",kerala
+1623,Ford,Figo,,2011,-,Diesel,"117,000 km",1st,"1,83,000",kerala
+1624,Maruti Suzuki,Baleno,,2017,Manual,Petrol,"42,042 km",1st,"5,75,000",kerala
+1625,Maruti Suzuki,Wagon R,,2007,Manual,Petrol,"133,916 km",1st,"1,55,000",kerala
+1626,Maruti Suzuki,Alto K10,,2014,Manual,Petrol,"35,000 km",1st,"2,70,000",kerala
+1627,Maruti Suzuki,Alto,,2002,Manual,Petrol,"115,000 km",3rd,"1,45,000",kerala
+1628,Mahindra,Marazzo,,2020,Manual,Diesel,"10,000 km",1st,"13,00,000",kerala
+1629,Ford,Ecosport,,2020,Manual,Petrol,"12,100 km",1st,"8,20,000",kerala
+1630,Maruti Suzuki,800,,2003,Manual,Petrol,"68,000 km",2nd,"60,000",kerala
+1631,Maruti Suzuki,Swift,,2018,Automatic,Petrol,"50,000 km",1st,"7,25,000",kerala
+1632,Maruti Suzuki,800,,2003,Manual,Petrol,"33,000 km",2nd,"1,30,000",kerala
+1633,Maruti Suzuki,Swift,,2013,Manual,Diesel,"119,024 km",1st,"3,75,000",kerala
+1634,Toyota,Innova,,2005,Manual,Diesel,"165,000 km",2nd,"4,15,000",kerala
+1635,Maruti Suzuki,Celerio X,,2018,Manual,Petrol,"50,000 km",1st,"4,25,000",kerala
+1636,Maruti Suzuki,Vitara Brezza,,2017,Manual,Diesel,"22,500 km",2nd,"7,50,000",kerala
+1637,Hyundai,EON,,2014,Manual,Petrol,"66,000 km",2nd,"2,50,000",kerala
+1638,-,-,,-,-,-,-,-,-,kerala
+1639,Maruti Suzuki,Estilo,,2011,Manual,Petrol,"90,000 km",1st,"1,80,000",kerala
+1640,Maruti Suzuki,Vitara Brezza,,2018,Manual,Diesel,"36,745 km",1st,"9,40,000",kerala
+1641,Maruti Suzuki,Ertiga,,2020,Manual,Diesel,"58,000 km",1st,"9,50,000",kerala
+1642,BMW,6 Series,,2012,Automatic,Diesel,"48,000 km",2nd,"40,00,000",kerala
+1643,Maruti Suzuki,800,,2003,Manual,Petrol,"120,000 km",2nd,"50,000",kerala
+1644,Mahindra,Scorpio,,2006,Manual,Diesel,"130,000 km",3rd,"1,95,000",kerala
+1645,Bajaj,Others,,1993,Manual,Petrol,"111,111 km",2nd,"42,000",kerala
+1646,Hyundai,i10,,2010,Manual,Petrol,"63,511 km",2nd,"2,15,000",kerala
+1647,Jeep,Compass,,2018,Manual,Diesel,"49,000 km",1st,"16,00,000",kerala
+1648,Hyundai,i10,,2011,Manual,Petrol,"72,446 km",1st,"2,65,000",kerala
+1649,Maruti Suzuki,Swift,,2018,Manual,Diesel,"62,000 km",1st,"6,10,000",kerala
+1650,-,-,,-,-,-,-,-,-,kerala
+1651,Hyundai,Santro Xing,,2008,Manual,Petrol,"54,986 km",1st,"1,38,000",kerala
+1652,Maruti Suzuki,Omni,,2010,Manual,Petrol,"78,958 km",2nd,"1,58,000",kerala
+1653,Maruti Suzuki,Eeco,,2013,Manual,Petrol,"65,000 km",1st,"2,75,000",kerala
+1654,Maruti Suzuki,A-Star,,2012,Manual,Petrol,"80,000 km",1st,"2,48,000",kerala
+1655,Tata,Nexon,,2018,Manual,Petrol,"70,000 km",1st,"7,70,000",kerala
+1656,Tata,Indigo,,2003,Manual,Petrol,"74,586 km",3rd,"65,000",kerala
+1657,Hyundai,i10,,2008,Manual,Petrol,"90,791 km",3rd,"1,65,000",kerala
+1658,Maruti Suzuki,Alto K10,,2011,-,Petrol,"36,499 km",1st,"2,15,000",kerala
+1659,Maruti Suzuki,800,,2003,Manual,Petrol,"50,751 km",4+,"69,000",kerala
+1660,Jeep,Compass,,2019,Manual,Diesel,"36,860 km",1st,"14,50,000",kerala
+1661,Chevrolet,Cruze,,2011,Manual,Diesel,"185,000 km",1st,"5,00,000",kerala
+1662,-,-,,-,-,-,-,-,-,kerala
+1663,Hyundai,Grand i10,,2016,Manual,Petrol,"33,067 km",1st,"4,25,000",kerala
+1664,Maruti Suzuki,800,,2007,Manual,Petrol,"50,000 km",1st,"90,000",kerala
+1665,Mercedes-Benz,CLA,,2015,Automatic,Diesel,"35,000 km",1st,"29,00,000",kerala
+1666,Maruti Suzuki,Swift,,2018,Manual,Diesel,"50,100 km",1st,"6,35,000",kerala
+1667,Maruti Suzuki,Swift,,2019,Manual,Petrol,"35,000 km",1st,"5,60,000",kerala
+1668,Hyundai,Santro Xing,,2007,Manual,Petrol,"56,000 km",2nd,"1,48,000",kerala
+1669,Mahindra,XUV500,,2018,Manual,Diesel,"52,989 km",1st,"9,75,000",kerala
+1670,Mercedes-Benz,A Class,,2013,Automatic,Diesel,"40,000 km",1st,"16,00,000",kerala
+1671,Tata,Indigo Ecs,,2011,Manual,Diesel,"100,000 km",2nd,"85,000",kerala
+1672,Maruti Suzuki,Ritz,,2009,Manual,Petrol,"131,288 km",3rd,"2,15,000",kerala
+1673,Maruti Suzuki,Alto,,2009,Manual,Petrol,"70,000 km",2nd,"1,45,000",kerala
+1674,Chevrolet,Spark,,2010,Manual,Petrol,"76,342 km",3rd,"1,00,000",kerala
+1675,Maruti Suzuki,Alto 800,,2017,Manual,Petrol,"57,858 km",1st,"2,85,000",kerala
+1676,Volkswagen,Vento,,2012,Manual,Diesel,"80,000 km",4+,"3,40,000",kerala
+1677,Tata,Nano,,2014,Manual,Petrol,"64,585 km",1st,"1,35,000",kerala
+1678,Ford,Fiesta,,2007,Manual,Petrol,"107,858 km",3rd,"1,05,000",kerala
+1679,Chevrolet,Spark,,2008,Manual,Petrol,"85,858 km",2nd,"89,000",kerala
+1680,Renault,Triber,,2019,Manual,Petrol,"2,650 km",1st,"6,75,000",kerala
+1681,Hyundai,Xcent,,2017,Manual,Diesel,"35,266 km",1st,"4,85,000",kerala
+1682,Volkswagen,Polo,,2017,Manual,Diesel,"52,486 km",2nd,"6,84,000",kerala
+1683,Honda,BR-V,,2017,Manual,Diesel,"100,000 km",1st,"6,00,000",kerala
+1684,Maruti Suzuki,Wagon R,,2014,Manual,Petrol,"72,000 km",2nd,"3,40,000",kerala
+1685,Hyundai,Santro Xing,,2007,Manual,Petrol,"77,000 km",2nd,"1,40,000",kerala
+1686,Maruti Suzuki,Swift,,2019,Manual,Diesel,"30,000 km",1st,"7,80,000",kerala
+1687,Maruti Suzuki,800,,1996,Manual,Petrol,77 km,3rd,"45,000",kerala
+1688,Kia,Others,,2021,Automatic,Petrol,0 km,1st,"4,00,000",kerala
+1689,Tata,Indica V2,,2013,Manual,Diesel,"82,130 km",2nd,"1,20,000",kerala
+1690,Maruti Suzuki,Alto 800,,2015,Manual,Petrol,"57,000 km",1st,"2,40,000",kerala
+1691,Maruti Suzuki,Wagon R,,2010,Manual,Petrol,89 km,2nd,"2,45,000",kerala
+1692,Hyundai,Santro Xing,,2006,Manual,Petrol,"110,265 km",4+,"95,000",kerala
+1693,BMW,X5,,2017,Automatic,Diesel,"44,000 km",1st,"59,00,000",kerala
+1694,Nissan,Sunny,,2016,Manual,Diesel,"100,000 km",1st,"2,90,000",kerala
+1695,Maruti Suzuki,Alto 800,,2004,Manual,Petrol,"105,000 km",3rd,"80,000",kerala
+1696,Maruti Suzuki,Alto,,2010,Manual,Petrol,"76,000 km",2nd,"1,55,000",kerala
+1697,Hyundai,Venue,,2021,Manual,Petrol,0 km,-,"6,99,200",kerala
+1698,BMW,5 Series Gt,,2018,-,-,55 km,-,"25,000",kerala
+1699,Maruti Suzuki,Zen,,2003,Manual,Petrol,0 km,2nd,"1,10,000",kerala
+1700,Hyundai,Creta,,2018,Automatic,Petrol,"60,000 km",1st,"13,50,000",kerala
+1701,-,-,,-,-,-,-,-,-,kerala
+1702,Mercedes-Benz,E-Class,,2018,Automatic,Diesel,"45,000 km",1st,"65,00,000",kerala
+1703,Hyundai,Santro Xing,,2009,Manual,Petrol,"49,500 km",2nd,"1,55,000",kerala
+1704,Maruti Suzuki,Swift,,2011,Manual,Diesel,"130,000 km",-,"3,35,000",kerala
+1705,Maruti Suzuki,Swift,,2017,Manual,Petrol,"34,000 km",1st,"6,10,000",kerala
+1706,Tata,Sumo Spacio,,2008,Manual,Diesel,"199,000 km",3rd,"1,25,000",kerala
+1707,Maruti Suzuki,Swift,,2018,Manual,Petrol,"75,000 km",2nd,"5,30,000",kerala
+1708,Maruti Suzuki,Wagon R,,2008,Manual,Petrol,"80,000 km",3rd,"1,50,000",kerala
+1709,Other Brands,Others,,2014,Manual,Diesel,"50,000 km",1st,"64,000",kerala
+1710,Ford,Figo,,2012,Manual,Diesel,"82,000 km",2nd,"1,83,000",kerala
+1711,Jeep,Compass,,2019,-,Petrol,"27,000 km",-,"17,60,000",kerala
+1712,Hyundai,i20,,2014,Manual,Diesel,"10,000 km",1st,"17,000",kerala
+1713,Maruti Suzuki,800,,2003,Manual,Petrol,"68,000 km",2nd,"50,000",kerala
+1714,Force Motors,Others,,2011,Manual,Diesel,"55,000 km",2nd,"4,50,000",kerala
+1715,Jaguar,XJ,,2017,-,-,55 km,-,"20,000",kerala
+1716,Maruti Suzuki,Wagon R,,2008,-,-,"47,413 km",1st,"2,15,000",kerala
+1717,Mahindra,Bolero Power Plus,,2017,Manual,Diesel,"68,000 km",1st,"7,75,000",kerala
+1718,Datsun,Redi Go,,2017,Manual,Petrol,"40,000 km",1st,"2,10,000",kerala
+1719,Mercedes-Benz,E-Class,,2018,-,-,555 km,4+,"1,00,000",kerala
+1720,Mercedes-Benz,GLE Class,,2017,Automatic,Diesel,"77,000 km",1st,"46,00,000",kerala
+1721,Toyota,Innova Crysta,,2017,-,Diesel,"36,000 km",2nd,"17,50,000",kerala
+1722,Datsun,GO,,2015,Manual,Petrol,"22,000 km",1st,"2,35,000",kerala
+1723,Maruti Suzuki,800,,2008,Manual,Petrol,"68,000 km",2nd,"89,000",kerala
+1724,Maruti Suzuki,Swift,,2010,Manual,Petrol,"75,000 km",2nd,"2,65,000",kerala
+1725,Toyota,Etios,,2014,Manual,Diesel,"125,000 km",2nd,"3,75,000",kerala
+1726,Maruti Suzuki,Wagon R,,2008,Manual,Petrol,"47,000 km",2nd,"1,95,000",kerala
+1727,Chevrolet,Beat,,2012,Manual,Diesel,"78,000 km",4th,"1,18,000",kerala
+1728,Maruti Suzuki,Omni,,2002,Manual,Petrol,0 km,2nd,"55,000",kerala
+1729,Maruti Suzuki,Swift,,2011,Manual,Diesel,"112,529 km",1st,"3,40,000",kerala
+1730,Hyundai,EON,,2014,Manual,Petrol,"56,000 km",1st,"2,65,000",kerala
+1731,Toyota,Innova,,2012,Manual,Diesel,"75,000 km",1st,"7,35,000",kerala
+1732,Maruti Suzuki,Wagon R,,2011,Manual,Petrol,"133,000 km",3rd,"2,40,000",kerala
+1733,Hyundai,Elite i20,,2017,Manual,Diesel,"85,000 km",2nd,"6,50,000",kerala
+1734,Tata,Indica V2 Xeta,,2008,Manual,Petrol,"49,906 km",1st,"90,000",kerala
+1735,Maruti Suzuki,Wagon R,,2016,Manual,Petrol,"76,000 km",2nd,"3,45,000",kerala
+1736,Maruti Suzuki,Alto,,2010,Manual,Petrol,"150,000 km",1st,"1,29,000",kerala
+1737,Maruti Suzuki,800,,2002,Manual,Petrol,"60,000 km",2nd,"40,000",kerala
+1738,-,-,,-,-,-,-,-,-,kerala
+1739,Maruti Suzuki,Wagon R,,2008,Manual,Petrol,"78,000 km",2nd,"1,70,000",kerala
+1740,Mahindra,Thar,,2017,Manual,Diesel,"30,000 km",-,"8,90,000",kerala
+1741,BMW,3 Series,,2010,Automatic,Diesel,"89,000 km",2nd,"9,50,000",kerala
+1742,BMW,X5,,2017,Automatic,Diesel,"45,000 km",1st,"62,00,000",kerala
+1743,Ford,Fiesta,,2007,Manual,Diesel,"140,000 km",2nd,"1,50,000",kerala
+1744,Maruti Suzuki,Wagon R 1.0,,2019,Manual,Petrol,"11,000 km",1st,"5,15,000",kerala
+1745,Maruti Suzuki,800,,1997,Manual,Petrol,"69,644 km",3rd,"50,000",kerala
+1746,Renault,Duster,,2019,Manual,Diesel,"28,000 km",1st,"8,40,000",kerala
+1747,Chevrolet,Beat,,2011,Manual,Diesel,"75,000 km",2nd,"1,40,000",kerala
+1748,Maruti Suzuki,Ritz,,2016,Manual,Diesel,"40,000 km",1st,"2,50,000",kerala
+1749,Maruti Suzuki,Alto 800,,2013,Manual,Petrol,"14,000 km",1st,"2,10,000",kerala
+1750,Maruti Suzuki,Swift,,2018,Automatic,Diesel,"10,000 km",1st,"3,75,000",kerala
+1751,Maruti Suzuki,Wagon R,,2004,Manual,Petrol,"120,000 km",2nd,"1,15,000",kerala
+1752,Hyundai,EON,,2011,Manual,Petrol,"81,339 km",2nd,"1,90,000",kerala
+1753,Maruti Suzuki,Swift Dzire Tour,,2014,Manual,Diesel,"246,000 km",1st,"2,45,000",kerala
+1754,Maruti Suzuki,800,,2016,Manual,Petrol,"49,000 km",2nd,"2,62,500",kerala
+1755,Maruti Suzuki,800,,2004,Manual,Petrol,"36,500 km",1st,"45,000",kerala
+1756,Datsun,GO,,2014,Manual,Petrol,"29,622 km",1st,"1,85,000",kerala
+1757,Ashok Leyland,Stile,,2018,Manual,Diesel,"33,000 km",2nd,"6,75,000",kerala
+1758,Maruti Suzuki,Swift,,2006,Manual,Petrol,"99,500 km",3rd,"2,00,000",kerala
+1759,Tata,Indica,,2021,Manual,Diesel,0 km,1st,"15,000",kerala
+1760,Maruti Suzuki,Alto 800,,2017,Manual,Petrol,"16,852 km",1st,"3,35,000",kerala
+1761,Jaguar,XF,,2015,Automatic,Diesel,"53,000 km",2nd,"28,00,000",kerala
+1762,Maruti Suzuki,Alto 800,,2014,Manual,Petrol,"41,000 km",2nd,"2,40,000",kerala
+1763,Maruti Suzuki,A-Star,,2009,Manual,Petrol,"95,000 km",2nd,"1,52,000",kerala
+1764,Maruti Suzuki,Alto,,2005,Manual,Petrol,"90,000 km",3rd,"90,000",kerala
+1765,Maruti Suzuki,Swift Dzire,,2017,Manual,Petrol,"86,000 km",1st,"5,85,000",kerala
+1766,Maruti Suzuki,800,,2003,Manual,Petrol,1 km,3rd,"65,000",kerala
+1767,Ford,Figo,,2016,Manual,Diesel,"29,000 km",1st,"5,10,000",kerala
+1768,Maruti Suzuki,Wagon R,,2007,Manual,Petrol,"75,109 km",2nd,"1,35,000",kerala
+1769,Maruti Suzuki,Swift Dzire Tour,,2016,-,-,"100,000 km",1st,"3,60,000",kerala
+1770,Jeep,Compass,,2019,Manual,Petrol,"23,000 km",1st,"18,00,000",kerala
+1771,Hyundai,Xcent,,2014,Manual,Diesel,"114,000 km",1st,"3,60,000",kerala
+1772,Maruti Suzuki,Omni,,2000,Manual,Petrol,85 km,4th,"62,000",kerala
+1773,Hyundai,Accent,,2006,Manual,Petrol,"91,000 km",1st,"1,00,000",kerala
+1774,Mahindra,Bolero Power Plus,,2015,Manual,Diesel,"73,254 km",2nd,"6,77,000",kerala
+1775,Mahindra,Scorpio,,2009,Manual,Diesel,"110,000 km",1st,"4,00,000",kerala
+1776,Maruti Suzuki,Alto,,2001,Manual,Petrol,"87,000 km",1st,"70,000",kerala
+1777,Volkswagen,Polo,,2015,Manual,Diesel,"89,468 km",2nd,"6,30,000",kerala
+1778,Mahindra,XUV500,,2018,Automatic,Diesel,"81,000 km",1st,"16,50,000",kerala
+1779,Maruti Suzuki,Alto,,2002,Manual,Petrol,"160,000 km",3rd,"75,000",kerala
+1780,Ambassador,Ambassador,,2007,Manual,Diesel,"80,000 km",1st,"75,000",kerala
+1781,Hyundai,i20,,2020,Manual,Petrol,"3,500 km",1st,"7,85,000",kerala
+1782,Chevrolet,Beat,,2013,Manual,Diesel,"85,895 km",3rd,"1,38,000",kerala
+1783,Maruti Suzuki,Stingray,,2015,Manual,Petrol,"74,500 km",2nd,"3,30,000",kerala
+1784,Toyota,Corolla,,2009,Manual,Petrol,"74,000 km",2nd,"3,11,000",kerala
+1785,Honda,Jazz,,2018,Manual,Petrol,"20,000 km",1st,"7,00,000",kerala
+1786,Maruti Suzuki,800,,2001,Manual,Petrol,"97,500 km",2nd,"47,000",kerala
+1787,Mitsubishi,Lancer,,2005,Manual,Diesel,1 km,1st,"1,25,000",kerala
+1788,Maruti Suzuki,800,,2001,Manual,Petrol,"67,000 km",2nd,"46,000",kerala
+1789,Other Brands,Others,,2021,Manual,CNG & Hybrids,0 km,2nd,"6,00,000",kerala
+1790,Volkswagen,Polo,,2018,Manual,Petrol,"18,678 km",2nd,"6,50,000",kerala
+1791,Mahindra,Scorpio,,2008,Manual,Diesel,"185,000 km",1st,"3,50,000",kerala
+1792,Ford,Figo,,2020,Manual,Diesel,"12,000 km",1st,"7,25,000",kerala
+1793,Maruti Suzuki,Zen,,1998,Manual,Petrol,"54,000 km",3rd,"52,000",kerala
+1794,Mahindra,Jeep,,2004,Manual,Diesel,"110,000 km",2nd,"2,99,999",kerala
+1795,Maruti Suzuki,Alto 800,,2017,Manual,Petrol,"9,500 km",2nd,"2,35,000",kerala
+1796,Renault,KWID,,2016,Manual,Petrol,"56,324 km",2nd,"2,75,000",kerala
+1797,Hyundai,i10,,2011,Manual,Petrol,82 km,2nd,"2,80,000",kerala
+1798,Maruti Suzuki,Wagon R,,2003,Manual,Petrol,"10,000 km",2nd,"1,05,000",kerala
+1799,Maruti Suzuki,Alto,,2006,Manual,Petrol,"73,000 km",1st,"85,000",kerala
+1800,Maruti Suzuki,Ertiga,,2013,Manual,Diesel,"116,320 km",2nd,"4,75,000",kerala
+1801,Maruti Suzuki,Vitara Brezza,,2017,Manual,Diesel,"16,500 km",1st,"8,25,000",kerala
+1802,Maruti Suzuki,Alto 800,,2018,Manual,Petrol,"38,650 km",1st,"3,15,000",kerala
+1803,Hyundai,Santro Xing,,2010,Manual,Petrol,"76,656 km",3rd,"1,99,000",kerala
+1804,Maruti Suzuki,Wagon R,,2004,Manual,Petrol,"74,600 km",3rd,"1,00,000",kerala
+1805,Mahindra,Scorpio,,2007,Manual,Diesel,"144,000 km",2nd,"2,40,000",kerala
+1806,Chevrolet,Aveo,,2006,Automatic,Petrol,"88,000 km",1st,"1,10,000",kerala
+1807,Volkswagen,Ameo,,2017,Automatic,Diesel,"45,000 km",1st,"7,50,000",kerala
+1808,Maruti Suzuki,Wagon R,,2009,Manual,Petrol,0 km,-,"1,50,000",kerala
+1809,Maruti Suzuki,Ignis,,2019,Automatic,Petrol,"17,000 km",1st,"6,00,000",kerala
+1810,Ford,Ecosport,,2014,Manual,Diesel,"90,000 km",1st,"5,10,000",kerala
+1811,Audi,A6,,2016,Automatic,Diesel,"55,555 km",-,"25,000",kerala
+1812,Toyota,Fortuner,,2011,Manual,Diesel,"250,000 km",2nd,"11,50,000",kerala
+1813,Toyota,Fortuner,,2012,Automatic,Diesel,"65,000 km",2nd,"16,50,000",kerala
+1814,Maruti Suzuki,Zen,,1997,Manual,Petrol,"92,545 km",3rd,"43,000",kerala
+1815,Maruti Suzuki,Swift,,2015,Manual,Petrol,"92,000 km",1st,"4,90,000",kerala
+1816,Maruti Suzuki,Zen,,2002,Automatic,Petrol,"59,639 km",2nd,"68,500",kerala
+1817,Maruti Suzuki,Alto 800,,2014,Manual,Petrol,"79,000 km",2nd,"2,20,000",kerala
+1818,Maruti Suzuki,800,,2003,Manual,Petrol,0 km,2nd,"80,000",kerala
+1819,Maruti Suzuki,Ertiga,,2017,Manual,Diesel,"38,000 km",2nd,"8,25,000",kerala
+1820,Kia,Seltos,,2019,Manual,Petrol,"20,000 km",1st,"13,75,000",kerala
+1821,Maruti Suzuki,Swift Dzire,,2015,Manual,Petrol,"29,000 km",2nd,"4,80,000",kerala
+1822,Honda,BR-V,,2018,Manual,Diesel,"72,500 km",1st,"5,75,000",kerala
+1823,Maruti Suzuki,Alto,,2006,Manual,Petrol,"86,000 km",1st,"1,05,000",kerala
+1824,Hyundai,Grand i10,,2008,Manual,Petrol,"79,000 km",-,"1,72,000",kerala
+1825,Maruti Suzuki,Estilo,,2007,Manual,Petrol,"71,651 km",2nd,"1,30,000",kerala
+1826,Mercedes-Benz,E-Class,,2013,-,-,"50,000 km",2nd,"25,00,000",kerala
+1827,Hyundai,EON,,2016,Manual,Petrol,57 km,1st,"2,57,000",kerala
+1828,Ashok Leyland,Others,,2018,-,-,"5,555 km",-,"20,00,000",kerala
+1829,Maruti Suzuki,Swift,,2014,Manual,Diesel,"83,000 km",1st,"4,50,000",kerala
+1830,Maruti Suzuki,Zen,,1998,Manual,Petrol,0 km,4+,"62,000",kerala
+1831,Hyundai,EON,,2012,Manual,Petrol,"62,347 km",3rd,"1,85,000",kerala
+1832,Mahindra,Scorpio,,2005,Manual,Diesel,"181,000 km",3rd,"1,50,000",kerala
+1833,Tata,Indica,,2008,Manual,Diesel,"102,000 km",2nd,"60,000",kerala
+1834,Mahindra,Jeep,,1996,Manual,Diesel,"34,000 km",3rd,"2,65,000",kerala
+1835,Maruti Suzuki,Eeco,,2017,Manual,Petrol,"35,000 km",2nd,"3,35,000",kerala
+1836,Maruti Suzuki,800,,2005,Manual,Petrol,"180,000 km",2nd,"40,000",kerala
+1837,Maruti Suzuki,Eeco,,2010,Manual,Petrol,"75,000 km",4th,"1,75,000",kerala
+1838,Maruti Suzuki,Zen,,1996,Manual,Petrol,"37,939 km",3rd,"40,000",kerala
+1839,Maruti Suzuki,Wagon R,,2009,Manual,LPG,"95,000 km",2nd,"1,70,000",kerala
+1840,-,-,,-,-,-,-,-,-,kerala
+1841,Renault,Pulse,,2014,Manual,Diesel,"75,000 km",1st,"3,15,000",kerala
+1842,Volkswagen,Jetta,,2016,Automatic,Diesel,"89,179 km",3rd,"11,50,000",kerala
+1843,Maruti Suzuki,Eeco,,2010,Manual,Petrol,"112,000 km",2nd,"2,10,000",kerala
+1844,Tata,Xenon XT,,2014,Manual,Diesel,"62,400 km",2nd,"6,00,000",kerala
+1845,Honda,Civic,,2007,Manual,Petrol,85 km,3rd,"1,90,000",kerala
+1846,Hyundai,Santro Xing,,2009,Manual,Petrol,"68,000 km",2nd,"1,90,000",kerala
+1847,Hyundai,Santro Xing,,2007,Manual,Petrol,"100,000 km",2nd,"1,35,000",kerala
+1848,Hyundai,EON,,2015,Manual,Petrol,"28,000 km",2nd,"2,65,000",kerala
+1849,Honda,City,,2017,Manual,Diesel,"82,000 km",1st,"8,75,000",kerala
+1850,Renault,Duster,,2012,Manual,Diesel,"70,000 km",1st,"6,50,000",kerala
+1851,Maruti Suzuki,Swift,,2009,Manual,Petrol,"150,000 km",3rd,"2,20,000",kerala
+1852,Honda,Others,,1996,Manual,Petrol,"210,000 km",3rd,"16,500",kerala
+1853,Maruti Suzuki,Ciaz,,2014,Manual,Diesel,"119,000 km",2nd,"6,25,000",kerala
+1854,Ford,Figo,,2013,Manual,Diesel,"86,032 km",2nd,"2,00,000",kerala
+1855,Maruti Suzuki,Zen,,1999,Manual,Petrol,"5,975 km",2nd,"65,000",kerala
+1856,Toyota,Innova,,2010,Manual,Diesel,"110,000 km",3rd,"7,50,000",kerala
+1857,Hyundai,EON,,2015,Manual,Petrol,"51,000 km",1st,"2,55,000",kerala
+1858,Maruti Suzuki,Alto,,2005,Manual,Petrol,"65,000 km",2nd,"1,10,000",kerala
+1859,Mahindra,Xylo,,2010,Automatic,Diesel,"98,000 km",2nd,"2,10,000",kerala
+1860,Toyota,Glanza,,2020,Manual,Petrol,"8,500 km",1st,"7,50,000",kerala
+1861,Volkswagen,Polo,,2015,Automatic,Petrol,"80,000 km",2nd,"5,85,000",kerala
+1862,Hyundai,Creta,,2015,Manual,Diesel,"106,000 km",1st,"8,45,000",kerala
+1863,Chevrolet,Tavera Neo,,2012,Manual,Diesel,"90,000 km",2nd,"3,90,000",kerala
+1864,Toyota,Fortuner,,2011,Manual,Diesel,"75,000 km",1st,"12,00,000",kerala
+1865,Maruti Suzuki,Wagon R 1.0,,2013,Manual,Petrol,"54,947 km",2nd,"3,33,000",kerala
+1866,Toyota,Etios Liva,,2018,-,Petrol,"37,000 km",1st,"6,75,000",kerala
+1867,Maruti Suzuki,Swift,,2016,Manual,Diesel,"50,000 km",1st,"5,85,000",kerala
+1868,Volkswagen,Polo,,2014,-,Petrol,"57,000 km",1st,"5,15,000",kerala
+1869,Maruti Suzuki,Omni,,2006,Manual,Petrol,"98,000 km",4+,"98,000",kerala
+1870,Tata,Indica Vista,,2012,Manual,Diesel,"264,000 km",1st,"1,15,000",kerala
+1871,Maruti Suzuki,Ritz,,2011,Manual,Diesel,"122,000 km",3rd,"2,75,000",kerala
+1872,Toyota,Fortuner,,2010,Manual,Diesel,"140,000 km",2nd,"10,85,000",kerala
+1873,Ambassador,Ambassador,,1999,Manual,Diesel,"79,000 km",3rd,"57,000",kerala
+1874,Mahindra,Bolero Pik-Up,,2009,Manual,Diesel,"110,000 km",2nd,"2,20,000",kerala
+1875,Toyota,Etios,,2012,Manual,Diesel,"128,000 km",2nd,"2,95,000",kerala
+1876,Maruti Suzuki,Zen,,2005,Manual,Petrol,"76,000 km",3rd,"1,15,000",kerala
+1877,Maruti Suzuki,Baleno,,2018,Automatic,Petrol,"37,000 km",1st,"7,40,000",kerala
+1878,Honda,Brio,,2012,Manual,Petrol,"55,500 km",1st,"3,35,000",kerala
+1879,Tata,Others,,2021,Manual,Diesel,"4,000 km",1st,"2,50,000",kerala
+1880,Mahindra,Jeep,,1980,Manual,Diesel,"123,000 km",3rd,"2,70,000",kerala
+1881,Hyundai,i10,,2011,Manual,Petrol,"48,000 km",1st,"2,47,000",kerala
+1882,Toyota,Corolla Altis,,2009,Manual,Petrol,"98,360 km",2nd,"4,35,000",kerala
+1883,Hyundai,EON,,2011,Manual,Petrol,"53,347 km",1st,"2,55,000",kerala
+1884,Honda,City,,2016,Manual,Petrol,"28,000 km",1st,"6,50,000",kerala
+1885,Mahindra,Jeep,,1991,Manual,Diesel,0 km,2nd,"1,40,000",kerala
+1886,Maruti Suzuki,Wagon R,,2007,Manual,Petrol,"100,712 km",2nd,"1,65,000",kerala
+1887,Tata,Indigo,,2016,Manual,Diesel,"99,000 km",3rd,"1,75,000",kerala
+1888,Toyota,Etios,,2011,Manual,Petrol,"83,000 km",2nd,"3,19,000",kerala
+1889,Maruti Suzuki,Alto,,2008,Manual,Petrol,"87,100 km",3rd,"1,15,000",kerala
+1890,Maruti Suzuki,S Cross,,2015,Manual,Diesel,"110,000 km",1st,"5,85,000",kerala
+1891,Tata,Indigo,,2003,Manual,Petrol,"62,000 km",2nd,"42,000",kerala
+1892,Volkswagen,Polo,,2017,Manual,Diesel,"75,000 km",2nd,"7,25,000",kerala
+1893,Hyundai,i10,,2010,-,-,"55,900 km",1st,"2,85,000",kerala
+1894,Isuzu,D-Max V-Cross,,2017,Manual,Diesel,"100,000 km",1st,"13,60,000",kerala
+1895,Maruti Suzuki,Ritz,,2013,Manual,Diesel,"83,000 km",2nd,"3,40,000",kerala
+1896,Datsun,Redi Go,,2018,Automatic,Petrol,"21,000 km",2nd,"3,15,000",kerala
+1897,Maruti Suzuki,Swift,,2019,Manual,Petrol,"18,000 km",1st,"6,25,000",kerala
+1898,Mahindra,Verito,,2011,Manual,Diesel,"188,257 km",2nd,"1,50,000",kerala
+1899,Nissan,Micra,,2014,Manual,Diesel,"90,000 km",2nd,"3,19,000",kerala
+1900,Mahindra,Thar,,2020,Manual,Diesel,"4,000 km",1st,"16,50,000",kerala
+1901,Toyota,Innova,,2016,Manual,Diesel,"126,000 km",1st,"12,20,000",kerala
+1902,Maruti Suzuki,Swift,,2016,Manual,Petrol,"55,225 km",1st,"5,45,000",kerala
+1903,Hyundai,EON,,2016,Manual,Petrol,"51,000 km",1st,"2,70,000",kerala
+1904,Maruti Suzuki,S-Presso,,2020,Automatic,Petrol,"9,500 km",1st,"5,25,000",kerala
+1905,Tata,Tiago,,2018,Manual,Petrol,"7,000 km",1st,"5,00,000",kerala
+1906,Tata,Indica Vista,,2010,Manual,Diesel,"112,500 km",2nd,"97,000",kerala
+1907,Toyota,Innova,,2015,Manual,Diesel,"140,000 km",2nd,"9,00,000",kerala
+1908,Maruti Suzuki,Alto,,2001,Automatic,Petrol,"100,000 km",3rd,"75,000",kerala
+1909,Toyota,Etios,,2016,Manual,Petrol,"61,000 km",2nd,"5,95,000",kerala
+1910,Maruti Suzuki,Swift Dzire,,2015,Manual,Diesel,"120,000 km",2nd,"37,50,000",kerala
+1911,Maruti Suzuki,Swift,,2013,Manual,Diesel,"118,000 km",3rd,"3,75,000",kerala
+1912,Tata,Indica,,2005,Manual,Diesel,"200,000 km",2nd,"49,000",kerala
+1913,Mahindra,Xylo,,2017,Manual,Diesel,"91,000 km",2nd,"5,20,000",kerala
+1914,Maruti Suzuki,Swift,,2011,Manual,Petrol,"70,000 km",2nd,"2,95,000",kerala
+1915,Maruti Suzuki,Swift,,2020,Automatic,Petrol,"16,000 km",1st,"7,20,000",kerala
+1916,Maruti Suzuki,Wagon R 1.0,,2005,Manual,Petrol,"53,417 km",2nd,"1,10,000",kerala
+1917,Volkswagen,Polo,,2018,Manual,Petrol,"23,000 km",1st,"7,00,000",kerala
+1918,Hyundai,EON,,2014,Manual,Petrol,"50,000 km",2nd,"2,35,000",kerala
+1919,Tata,Sumo Grande,,2010,Manual,Diesel,"950,000 km",1st,"1,85,000",kerala
+1920,Volkswagen,Vento,,2014,Manual,Diesel,"47,000 km",2nd,"4,35,000",kerala
+1921,Hyundai,EON,,2012,Manual,Petrol,"63,000 km",2nd,"2,10,000",kerala
+1922,Hyundai,EON,,2018,Manual,Petrol,"36,324 km",1st,"2,98,000",kerala
+1923,Maruti Suzuki,Others,,2013,Manual,Petrol,"90,000 km",2nd,"3,25,000",kerala
+1924,Maruti Suzuki,Others,,2018,Manual,Diesel,"400,000 km",1st,"72,00,000",kerala
+1925,Maruti Suzuki,A-Star,,2010,Manual,Petrol,"66,500 km",4th,"1,70,000",kerala
+1926,Toyota,Corolla Altis,,2014,Manual,Diesel,"159,000 km",2nd,"11,25,000",kerala
+1927,Volkswagen,Polo,,2019,Manual,Petrol,"33,000 km",1st,"6,20,000",kerala
+1928,Mahindra,XUV500,,2015,Manual,Diesel,"79,300 km",1st,"7,80,000",kerala
+1929,Maruti Suzuki,Ritz,,2011,Manual,Petrol,"89,855 km",1st,"2,75,000",kerala
+1930,Maruti Suzuki,Zen,,1998,Manual,Petrol,"76,921 km",3rd,"60,000",kerala
+1931,Mercedes-Benz,E-Class,,2004,-,-,666 km,4+,"70,000",kerala
+1932,Hyundai,Grand i10 Nios,,2020,Manual,Petrol,"12,500 km",1st,"6,50,000",kerala
+1933,Hyundai,i10,,2012,Manual,Petrol,"43,000 km",1st,"2,90,000",kerala
+1934,Mercedes-Benz,New C-Class,,2012,Automatic,Diesel,"90,000 km",2nd,"13,00,000",kerala
+1935,Mahindra,Thar,,2017,Manual,Diesel,"37,000 km",2nd,"8,95,000",kerala
+1936,Tata,Others,,2015,Manual,Diesel,"80,000 km",4th,"1,85,000",kerala
+1937,Maruti Suzuki,800,,1999,Manual,Petrol,"31,000 km",1st,"38,500",kerala
+1938,Maruti Suzuki,Alto 800,,2016,Manual,Petrol,"33,000 km",1st,"2,50,000",kerala
+1939,Maruti Suzuki,Wagon R,,2008,Manual,Petrol,"65,500 km",2nd,"1,50,000",kerala
+1940,Maruti Suzuki,Ertiga,,2014,Manual,Diesel,"155,000 km",1st,"4,75,000",kerala
+1941,Maruti Suzuki,Swift,,2016,Manual,Petrol,"55,225 km",1st,"5,45,000",kerala
+1942,BMW,3 Series,,2008,Automatic,Petrol,"35,000 km",2nd,"5,50,000",kerala
+1943,Maruti Suzuki,Alto,,2007,Manual,Petrol,"95,000 km",2nd,"77,500",kerala
+1944,Maruti Suzuki,Swift Dzire,,2009,Manual,Petrol,"64,000 km",2nd,"2,20,000",kerala
+1945,-,-,,-,-,-,-,-,-,kerala
+1946,Bajaj,Others,,2012,Manual,Diesel,"80,000 km",1st,"92,000",kerala
+1947,Mahindra,Others,,2012,Manual,Diesel,"117,000 km",2nd,"1,30,000",kerala
+1948,Maruti Suzuki,Swift,,2011,Manual,Diesel,"140,000 km",3rd,"3,40,000",kerala
+1949,Mahindra,Others,,2011,Manual,Diesel,"100,000 km",2nd,"5,10,000",kerala
+1950,Maruti Suzuki,Ritz,,2009,Manual,Petrol,"44,000 km",1st,"2,95,000",kerala
+1951,Toyota,Etios,,2018,Manual,Diesel,"28,600 km",1st,"8,80,000",kerala
+1952,Maruti Suzuki,Ertiga,,2018,Manual,Diesel,"44,200 km",1st,"8,39,000",kerala
+1953,Maruti Suzuki,Swift,,2015,Manual,Diesel,"78,000 km",2nd,"4,15,000",kerala
+1954,Hyundai,Grand i10,,2013,Manual,Petrol,"17,000 km",1st,"3,95,000",kerala
+1955,Maruti Suzuki,Wagon R,,2017,Manual,Petrol,"35,000 km",1st,"4,25,000",kerala
+1956,BMW,Z4,,2012,Automatic,Petrol,"60,000 km",3rd,"32,00,000",kerala
+1957,Fiat,Avventura,,2017,Manual,Diesel,"55,000 km",1st,"5,10,000",kerala
+1958,Maruti Suzuki,Alto 800,,2016,Manual,Petrol,"24,200 km",1st,"3,00,000",kerala
+1959,Maruti Suzuki,Baleno,,2019,Manual,Petrol,"16,000 km",2nd,"7,05,000",kerala
+1960,Maruti Suzuki,Wagon R,,2014,Manual,Petrol,"61,000 km",1st,"3,80,000",kerala
+1961,Mercedes-Benz,GLE Class,,2017,Automatic,Diesel,"77,000 km",1st,"46,00,000",kerala
+1962,Toyota,Fortuner,,2013,Manual,Diesel,2 km,2nd,"13,00,000",kerala
+1963,Maruti Suzuki,Wagon R 1.0,,2019,Manual,Petrol,"11,000 km",1st,"5,15,000",kerala
+1964,Other Brands,Others,,2014,Manual,Diesel,"50,000 km",1st,"64,000",kerala
+1965,Maruti Suzuki,800,,1997,Manual,Petrol,"69,644 km",3rd,"50,000",kerala
+1966,Maruti Suzuki,800,,2004,-,-,"181,039 km",4th,"70,000",kerala
+1967,Datsun,GO,,2014,Manual,Petrol,"29,622 km",1st,"1,85,000",kerala
+1968,Ashok Leyland,Stile,,2018,Manual,Diesel,"33,000 km",2nd,"6,75,000",kerala
+1969,Renault,Duster,,2019,Manual,Diesel,"28,000 km",1st,"8,40,000",kerala
+1970,Chevrolet,Beat,,2011,Manual,Diesel,"75,000 km",2nd,"1,40,000",kerala
+1971,Maruti Suzuki,Swift Dzire Tour,,2014,Manual,Diesel,"246,000 km",1st,"2,45,000",kerala
+1972,Maruti Suzuki,800,,2003,Manual,Petrol,1 km,3rd,"65,000",kerala
+1973,Ford,Figo,,2016,Manual,Diesel,"29,000 km",1st,"5,10,000",kerala
+1974,Mahindra,Bolero Power Plus,,2015,Manual,Diesel,"73,254 km",2nd,"6,77,000",kerala
+1975,Maruti Suzuki,Omni,,2000,Manual,Petrol,85 km,4th,"62,000",kerala
+1976,Hyundai,Accent,,2006,Manual,Petrol,"91,000 km",1st,"1,00,000",kerala
+1977,Mahindra,Scorpio,,2009,Manual,Diesel,"110,000 km",1st,"4,00,000",kerala
+1978,Volkswagen,Polo,,2015,Manual,Diesel,"89,468 km",2nd,"6,30,000",kerala
+1979,Hyundai,EON,,2015,Manual,Petrol,"51,000 km",1st,"2,55,000",kerala
+1980,Toyota,Fortuner,,2019,Automatic,Diesel,"23,000 km",2nd,"37,50,000",kerala
+1981,Nissan,Micra,,2016,Manual,Petrol,"47,000 km",1st,"4,00,000",kerala
+1982,Ford,Figo,,2010,Manual,Diesel,"86,000 km",3rd,"2,00,000",kerala
+1983,Mahindra,Jeep,,2000,Manual,Diesel,"150,000 km",2nd,"1,90,000",kerala
+1984,Mahindra,XUV500,,2018,Automatic,Diesel,"81,000 km",1st,"16,50,000",kerala
+1985,Force Motors,Others,,2016,Manual,Diesel,"80,000 km",1st,"11,00,000",kerala
+1986,Maruti Suzuki,Alto 800,,2014,Manual,Petrol,"79,000 km",2nd,"2,20,000",kerala
+1987,Maruti Suzuki,800,,2003,Manual,Petrol,0 km,2nd,"80,000",kerala
+1988,Ford,Figo,,2010,Manual,Diesel,"118,000 km",3rd,"1,95,000",kerala
+1989,Mahindra,Scorpio,,2005,Manual,Diesel,"181,000 km",3rd,"1,50,000",kerala
+1990,Hyundai,Santro,,2003,Manual,Petrol,"78,000 km",2nd,"80,000",kerala
+1991,Nissan,Micra Active,,2017,Manual,Petrol,"23,500 km",1st,"4,25,000",kerala
+1992,Maruti Suzuki,Swift,,2016,-,Diesel,14 km,-,"4,44,444",kerala
+1993,Maruti Suzuki,Alto 800,,2016,Manual,Petrol,"42,280 km",1st,"2,70,000",kerala
+1994,Honda,City,,2007,-,-,"128,199 km",1st,"2,00,000",kerala
+1995,Ford,Figo,,2012,Manual,Diesel,"82,000 km",2nd,"1,83,000",kerala
+1996,Hyundai,Elite i20,,2015,Manual,Petrol,"48,000 km",1st,"5,20,000",kerala
+1997,Maruti Suzuki,Alto,,2009,Manual,Petrol,"100,000 km",2nd,"1,35,000",kerala
+1998,Maruti Suzuki,Wagon R,,2009,Manual,Petrol,"88,000 km",3rd,"1,58,500",kerala
+1999,Mahindra,Bolero,,2016,Manual,Diesel,"63,000 km",1st,"6,75,000",kerala
+2000,Tata,Vista,,2011,Manual,Diesel,"82,000 km",2nd,"1,28,000",kerala
+2001,Mercedes-Benz,A Class,,2014,Automatic,Diesel,"65,000 km",-,"16,00,000",kerala
+2002,Maruti Suzuki,XL6,,2020,Manual,Petrol,"8,000 km",1st,"9,95,000",kerala
+2003,Hyundai,i20,,2018,Manual,Diesel,"45,000 km",1st,"8,40,000",kerala
+2004,Maruti Suzuki,Swift,,2012,Manual,Diesel,"99,000 km",1st,"3,90,000",kerala
+2005,Toyota,Fortuner,,2011,Manual,Diesel,"250,000 km",2nd,"11,50,000",kerala
+2006,Fiat,Punto,,2010,Manual,Diesel,1 km,2nd,"2,00,000",kerala
+2007,Tata,Indica V2,,2001,Manual,Diesel,"68,000 km",2nd,"45,000",kerala
+2008,Chevrolet,Tavera,,2005,Manual,Diesel,"120,000 km",1st,"1,60,000",kerala
+2009,Maruti Suzuki,Alto,,2012,Manual,Petrol,"73,450 km",2nd,"1,68,000",kerala
+2010,Maruti Suzuki,Alto,,2011,Manual,Petrol,"90,000 km",2nd,"1,66,000",kerala
+2011,Honda,Jazz,,2019,Manual,Petrol,"7,000 km",1st,"5,60,000",kerala
+2012,Maruti Suzuki,Alto,,2011,Manual,Petrol,"30,000 km",1st,"2,00,000",kerala
+2013,Maruti Suzuki,Alto,,2008,Manual,Petrol,"102,000 km",1st,"1,00,000",kerala
+2014,Hyundai,Santro Xing,,2008,Manual,Petrol,"96,727 km",4+,"1,15,000",kerala
+2015,Chevrolet,Spark,,2010,Manual,Petrol,"48,412 km",1st,"75,000",kerala
+2016,Maruti Suzuki,Wagon R,,2005,Manual,Petrol,"70,000 km",2nd,"1,55,000",kerala
+2017,Maruti Suzuki,Alto 800,,2014,Manual,Petrol,"61,000 km",2nd,"2,10,000",kerala
+2018,Maruti Suzuki,Baleno,,2003,Manual,Petrol,"128,000 km",3rd,"1,10,000",kerala
+2019,Maruti Suzuki,Swift,,2016,Manual,Diesel,"59,000 km",1st,"5,50,000",kerala
+2020,Toyota,Etios,,2018,Manual,Diesel,"27,000 km",1st,"8,90,000",kerala
+2021,Maruti Suzuki,Ciaz,,2017,Manual,Diesel,"96,500 km",1st,"6,85,000",kerala
+2022,Renault,Duster,,2012,Manual,Diesel,"130,000 km",2nd,"4,25,000",kerala
+2023,Ambassador,Ambassador,,2007,Manual,Diesel,"138,000 km",2nd,"70,000",kerala
+2024,Maruti Suzuki,Alto,,2003,Manual,Petrol,"92,000 km",3rd,"69,000",kerala
+2025,Volkswagen,Polo,,2013,Manual,Diesel,"78,000 km",-,"3,50,000",kerala
+2026,Maruti Suzuki,Swift,,2015,Manual,Diesel,"196,000 km",1st,"4,25,000",kerala
+2027,Tata,Others,,2013,Manual,Diesel,"113,000 km",2nd,"1,30,000",kerala
+2028,Maruti Suzuki,800,,2011,Manual,Petrol,"48,000 km",2nd,"1,30,000",kerala
+2029,Maruti Suzuki,800,,1991,Manual,Petrol,"58,675 km",2nd,"46,000",kerala
+2030,Volkswagen,Polo,,2017,Manual,Petrol,"90,000 km",1st,"6,90,000",kerala
+2031,Tata,Others,,2015,Manual,Diesel,"105,000 km",1st,"3,30,000",kerala
+2032,Maruti Suzuki,Ritz,,2014,Manual,Petrol,"101,000 km",-,"3,60,000",kerala
+2033,Hyundai,Santro,,2019,Manual,Petrol,"12,000 km",1st,"4,35,000",kerala
+2034,Hyundai,EON,,2014,Manual,Petrol,"90,000 km",2nd,"2,10,000",kerala
+2035,Tata,Nano,,2012,Manual,Petrol,"103,000 km",2nd,"66,000",kerala
+2036,Hyundai,Grand I 10,,2015,-,-,"72,468 km",2nd,"3,70,000",kerala
+2037,BMW,3 Series,,2016,Automatic,Diesel,"54,699 km",1st,"30,50,000",kerala
+2038,Maruti Suzuki,Estilo,,2011,Manual,Petrol,"72,000 km",2nd,"1,95,000",kerala
+2039,Maruti Suzuki,Alto K10,,2011,Manual,Petrol,"55,000 km",3rd,"2,00,000",kerala
+2040,Tata,Harrier,,2019,Manual,Diesel,"8,600 km",1st,"16,75,000",kerala
+2041,Maruti Suzuki,Swift,,2016,Manual,Petrol,"55,225 km",1st,"5,45,000",kerala
+2042,Maruti Suzuki,Eeco,,2011,Manual,Petrol,"75,000 km",2nd,"1,98,000",kerala
+2043,Maruti Suzuki,Swift Dzire,,2014,Manual,Diesel,"120,000 km",2nd,"4,00,000",kerala
+2044,Mahindra,Xylo,,2010,Manual,Diesel,"120,000 km",2nd,"2,35,000",kerala
+2045,Maruti Suzuki,800,,2015,Manual,Petrol,555 km,4th,"15,000",kerala
+2046,Maruti Suzuki,Zen Estilo,,2013,Manual,Petrol,"92,345 km",2nd,"2,25,000",kerala
+2047,Audi,Q5,,2015,Automatic,Diesel,"110,000 km",1st,"22,50,000",kerala
+2048,Skoda,Octavia,,2011,Manual,Diesel,55 km,4th,"35,000",kerala
+2049,Hyundai,Accent,,2013,Automatic,LPG,555 km,3rd,"15,000",kerala
+2050,Maruti Suzuki,Alto K10,,2014,Automatic,-,"81,270 km",3rd,"2,90,000",kerala
+2051,Ford,Classic,,2016,Automatic,Diesel,225 km,4th,"15,000",kerala
+2052,Ford,Aspire,,2017,Manual,Diesel,"65,000 km",2nd,"4,68,000",kerala
+2053,Ford,Ecosport,,2013,Manual,Diesel,"100,000 km",2nd,"5,25,000",kerala
+2054,Renault,Pulse,,2012,Manual,Diesel,"110,000 km",1st,"2,55,000",kerala
+2055,Hyundai,Creta,,2015,Manual,Diesel,"116,000 km",1st,"8,65,000",kerala
+2056,Maruti Suzuki,Zen,,2000,Manual,Petrol,"95,000 km",3rd,"80,000",kerala
+2057,Jeep,Compass,,2017,Manual,Diesel,"38,000 km",1st,"15,75,000",kerala
+2058,-,-,,-,-,-,-,-,-,kerala
+2059,Ford,Fiesta,,2008,Manual,Diesel,"120,000 km",1st,"1,48,000",kerala
+2060,Volkswagen,Vento,,2014,Automatic,Diesel,"91,000 km",3rd,"5,45,000",kerala
+2061,Audi,S5,,2018,Automatic,Petrol,"20,000 km",2nd,"58,00,000",kerala
+2062,-,-,,-,-,-,-,-,-,kerala
+2063,-,-,,-,-,-,-,-,-,kerala
+2064,-,-,,-,-,-,-,-,-,kerala
+2065,-,-,,-,-,-,-,-,-,kerala
+2066,-,-,,-,-,-,-,-,-,kerala
+2067,-,-,,-,-,-,-,-,-,kerala
+2068,-,-,,-,-,-,-,-,-,kerala
+2069,-,-,,-,-,-,-,-,-,kerala
+2070,-,-,,-,-,-,-,-,-,kerala
+2071,-,-,,-,-,-,-,-,-,kerala
+2072,-,-,,-,-,-,-,-,-,kerala
+2073,-,-,,-,-,-,-,-,-,kerala
+2074,-,-,,-,-,-,-,-,-,kerala
+2075,-,-,,-,-,-,-,-,-,kerala
+2076,-,-,,-,-,-,-,-,-,kerala
+2077,-,-,,-,-,-,-,-,-,kerala
+2078,-,-,,-,-,-,-,-,-,kerala
+2079,-,-,,-,-,-,-,-,-,kerala
+2080,-,-,,-,-,-,-,-,-,kerala
+2081,-,-,,-,-,-,-,-,-,kerala
+2082,-,-,,-,-,-,-,-,-,kerala
+2083,-,-,,-,-,-,-,-,-,kerala
+2084,-,-,,-,-,-,-,-,-,kerala
+2085,-,-,,-,-,-,-,-,-,kerala
+2086,-,-,,-,-,-,-,-,-,kerala
+2087,-,-,,-,-,-,-,-,-,kerala
+2088,-,-,,-,-,-,-,-,-,kerala
+2089,Tata,Indica Vista,,2011,Manual,Diesel,"75,000 km",2nd,"1,39,000",kerala
+2090,-,-,,-,-,-,-,-,-,kerala
+2091,Hyundai,i10,,2021,Manual,Petrol,"2,000 km",1st,"6,60,000",kerala
+2092,Toyota,Etios Liva,,2015,Manual,Diesel,"75,000 km",2nd,"5,70,000",kerala
+2093,Mahindra,TUV 300,,2016,-,Diesel,"68,000 km",1st,"6,50,000",kerala
+2094,Maruti Suzuki,Swift,,2017,Manual,Diesel,"80,000 km",1st,"5,60,000",kerala
+2095,Maruti Suzuki,Ritz,,2016,Manual,Petrol,"80,000 km",1st,"4,40,000",kerala
+2096,Mahindra Renault,Logan,,2009,Manual,Diesel,"95,000 km",2nd,"1,09,000",kerala
+2097,Ford,Figo,,2012,Manual,Diesel,"66,011 km",1st,"2,15,000",kerala
+2098,Ford,Figo,,2010,Manual,Diesel,"118,000 km",3rd,"1,95,000",kerala
+2099,Toyota,Etios Liva,,2017,Manual,Petrol,"21,000 km",2nd,"5,95,000",kerala
+2100,Maruti Suzuki,Swift Dzire,,2018,Manual,Diesel,"8,900 km",1st,"7,25,000",kerala
+2101,Hyundai,Verna,,2016,Manual,Petrol,"77,889 km",2nd,"6,30,000",kerala
+2102,Maruti Suzuki,Swift Dzire,,2018,Manual,Diesel,"70,500 km",1st,"6,35,000",kerala
+2103,Ford,Figo,,2011,-,Diesel,"117,000 km",1st,"1,83,000",kerala
+2104,Maruti Suzuki,Baleno,,2017,Manual,Petrol,"42,042 km",1st,"5,75,000",kerala
+2105,Maruti Suzuki,Wagon R,,2007,Manual,Petrol,"133,916 km",1st,"1,55,000",kerala
+2106,Maruti Suzuki,Alto K10,,2014,Manual,Petrol,"35,000 km",1st,"2,70,000",kerala
+2107,Maruti Suzuki,Alto,,2002,Manual,Petrol,"115,000 km",3rd,"1,45,000",kerala
+2108,Mahindra,Marazzo,,2020,Manual,Diesel,"10,000 km",1st,"13,00,000",kerala
+2109,Ford,Ecosport,,2020,Manual,Petrol,"12,100 km",1st,"8,20,000",kerala
+2110,Maruti Suzuki,800,,2003,Manual,Petrol,"68,000 km",2nd,"60,000",kerala
+2111,Maruti Suzuki,Swift,,2018,Automatic,Petrol,"50,000 km",1st,"7,25,000",kerala
+2112,Maruti Suzuki,800,,2003,Manual,Petrol,"33,000 km",2nd,"1,30,000",kerala
+2113,Maruti Suzuki,Swift,,2013,Manual,Diesel,"119,024 km",1st,"3,75,000",kerala
+2114,Toyota,Innova,,2005,Manual,Diesel,"165,000 km",2nd,"4,15,000",kerala
+2115,Maruti Suzuki,Celerio X,,2018,Manual,Petrol,"50,000 km",1st,"4,25,000",kerala
+2116,Maruti Suzuki,Vitara Brezza,,2017,Manual,Diesel,"22,500 km",2nd,"7,50,000",kerala
+2117,Hyundai,EON,,2014,Manual,Petrol,"66,000 km",2nd,"2,50,000",kerala
+2118,-,-,,-,-,-,-,-,-,kerala
+2119,Maruti Suzuki,Estilo,,2011,Manual,Petrol,"90,000 km",1st,"1,80,000",kerala
+2120,Maruti Suzuki,Vitara Brezza,,2018,Manual,Diesel,"36,745 km",1st,"9,40,000",kerala
+2121,Maruti Suzuki,Ertiga,,2020,Manual,Diesel,"58,000 km",1st,"9,50,000",kerala
+2122,BMW,6 Series,,2012,Automatic,Diesel,"48,000 km",2nd,"40,00,000",kerala
+2123,Maruti Suzuki,800,,2003,Manual,Petrol,"120,000 km",2nd,"50,000",kerala
+2124,Mahindra,Scorpio,,2006,Manual,Diesel,"130,000 km",3rd,"1,95,000",kerala
+2125,Bajaj,Others,,1993,Manual,Petrol,"111,111 km",2nd,"42,000",kerala
+2126,Hyundai,i10,,2010,Manual,Petrol,"63,511 km",2nd,"2,15,000",kerala
+2127,Jeep,Compass,,2018,Manual,Diesel,"49,000 km",1st,"16,00,000",kerala
+2128,Hyundai,i10,,2011,Manual,Petrol,"72,446 km",1st,"2,65,000",kerala
+2129,Maruti Suzuki,Swift,,2018,Manual,Diesel,"62,000 km",1st,"6,10,000",kerala
+2130,Ford,Figo Aspire,,2017,Manual,Diesel,"52,000 km",1st,"4,50,000",kerala
+2131,Hyundai,Santro Xing,,2008,Manual,Petrol,"54,986 km",1st,"1,38,000",kerala
+2132,Maruti Suzuki,Omni,,2010,Manual,Petrol,"78,958 km",2nd,"1,58,000",kerala
+2133,Maruti Suzuki,Eeco,,2013,Manual,Petrol,"65,000 km",1st,"2,75,000",kerala
+2134,Maruti Suzuki,A-Star,,2012,Manual,Petrol,"80,000 km",1st,"2,48,000",kerala
+2135,Tata,Nexon,,2018,Manual,Petrol,"70,000 km",1st,"7,70,000",kerala
+2136,Tata,Indigo,,2003,Manual,Petrol,"74,586 km",3rd,"65,000",kerala
+2137,Hyundai,i10,,2008,Manual,Petrol,"90,791 km",3rd,"1,65,000",kerala
+2138,Maruti Suzuki,Alto K10,,2011,-,Petrol,"36,499 km",1st,"2,15,000",kerala
+2139,Maruti Suzuki,800,,2003,Manual,Petrol,"50,751 km",4+,"69,000",kerala
+2140,Jeep,Compass,,2019,Manual,Diesel,"36,860 km",1st,"14,50,000",kerala
+2141,Chevrolet,Cruze,,2011,Manual,Diesel,"185,000 km",1st,"5,00,000",kerala
+2142,Maruti Suzuki,Swift Dzire,,2018,Manual,Petrol,"27,000 km",1st,"6,45,000",kerala
+2143,Hyundai,Grand i10,,2016,Manual,Petrol,"33,067 km",1st,"4,25,000",kerala
+2144,Maruti Suzuki,800,,2007,Manual,Petrol,"50,000 km",1st,"90,000",kerala
+2145,Mercedes-Benz,CLA,,2015,Automatic,Diesel,"35,000 km",1st,"29,00,000",kerala
+2146,Maruti Suzuki,Swift,,2018,Manual,Diesel,"50,100 km",1st,"6,35,000",kerala
+2147,Maruti Suzuki,Swift,,2019,Manual,Petrol,"35,000 km",1st,"5,60,000",kerala
+2148,Hyundai,Santro Xing,,2007,Manual,Petrol,"56,000 km",2nd,"1,48,000",kerala
+2149,Mahindra,XUV500,,2018,Manual,Diesel,"52,989 km",1st,"9,75,000",kerala
+2150,Mercedes-Benz,A Class,,2013,Automatic,Diesel,"40,000 km",1st,"16,00,000",kerala
+2151,Tata,Indigo Ecs,,2011,Manual,Diesel,"100,000 km",2nd,"85,000",kerala
+2152,Maruti Suzuki,Ritz,,2009,Manual,Petrol,"131,288 km",3rd,"2,15,000",kerala
+2153,Maruti Suzuki,Alto,,2009,Manual,Petrol,"70,000 km",2nd,"1,45,000",kerala
+2154,Chevrolet,Spark,,2010,Manual,Petrol,"76,342 km",3rd,"1,00,000",kerala
+2155,Maruti Suzuki,Alto 800,,2017,Manual,Petrol,"57,858 km",1st,"2,85,000",kerala
+2156,Volkswagen,Vento,,2012,Manual,Diesel,"80,000 km",4+,"3,40,000",kerala
+2157,Tata,Nano,,2014,Manual,Petrol,"64,585 km",1st,"1,35,000",kerala
+2158,Ford,Fiesta,,2007,Manual,Petrol,"107,858 km",3rd,"1,05,000",kerala
+2159,Chevrolet,Spark,,2008,Manual,Petrol,"85,858 km",2nd,"89,000",kerala
+2160,Renault,Triber,,2019,Manual,Petrol,"2,650 km",1st,"6,75,000",kerala
+2161,Hyundai,Xcent,,2017,Manual,Diesel,"35,266 km",1st,"4,85,000",kerala
+2162,Volkswagen,Polo,,2017,Manual,Diesel,"52,486 km",2nd,"6,84,000",kerala
+2163,Honda,BR-V,,2017,Manual,Diesel,"100,000 km",1st,"6,00,000",kerala
+2164,Maruti Suzuki,Wagon R,,2014,Manual,Petrol,"72,000 km",2nd,"3,40,000",kerala
+2165,Hyundai,Santro Xing,,2007,Manual,Petrol,"77,000 km",2nd,"1,40,000",kerala
+2166,Maruti Suzuki,Swift,,2019,Manual,Diesel,"30,000 km",1st,"7,80,000",kerala
+2167,Maruti Suzuki,800,,1996,Manual,Petrol,77 km,3rd,"45,000",kerala
+2168,Kia,Others,,2021,Automatic,Petrol,0 km,1st,"4,00,000",kerala
+2169,Tata,Indica V2,,2013,Manual,Diesel,"82,130 km",2nd,"1,20,000",kerala
+2170,Maruti Suzuki,Alto 800,,2015,Manual,Petrol,"57,000 km",1st,"2,40,000",kerala
+2171,Maruti Suzuki,Wagon R,,2010,Manual,Petrol,89 km,2nd,"2,45,000",kerala
+2172,Hyundai,Santro Xing,,2006,Manual,Petrol,"110,265 km",4+,"95,000",kerala
+2173,BMW,X5,,2017,Automatic,Diesel,"44,000 km",1st,"59,00,000",kerala
+2174,Nissan,Sunny,,2016,Manual,Diesel,"100,000 km",1st,"2,90,000",kerala
+2175,Maruti Suzuki,Alto 800,,2004,Manual,Petrol,"105,000 km",3rd,"80,000",kerala
+2176,Maruti Suzuki,Alto,,2010,Manual,Petrol,"76,000 km",2nd,"1,55,000",kerala
+2177,Hyundai,Venue,,2021,Manual,Petrol,0 km,-,"6,99,200",kerala
+2178,BMW,5 Series Gt,,2018,-,-,55 km,-,"25,000",kerala
+2179,Maruti Suzuki,Zen,,2003,Manual,Petrol,0 km,2nd,"1,10,000",kerala
+2180,Hyundai,Creta,,2018,Automatic,Petrol,"60,000 km",1st,"13,50,000",kerala
+2181,-,-,,-,-,-,-,-,-,kerala
+2182,Mercedes-Benz,E-Class,,2018,Automatic,Diesel,"45,000 km",1st,"65,00,000",kerala
+2183,Hyundai,Santro Xing,,2009,Manual,Petrol,"49,500 km",2nd,"1,55,000",kerala
+2184,Maruti Suzuki,Swift,,2011,Manual,Diesel,"130,000 km",-,"3,35,000",kerala
+2185,Maruti Suzuki,Swift,,2017,Manual,Petrol,"34,000 km",1st,"6,10,000",kerala
+2186,Tata,Sumo Spacio,,2008,Manual,Diesel,"199,000 km",3rd,"1,25,000",kerala
+2187,Maruti Suzuki,Swift,,2018,Manual,Petrol,"75,000 km",2nd,"5,30,000",kerala
+2188,Maruti Suzuki,Wagon R,,2008,Manual,Petrol,"80,000 km",3rd,"1,50,000",kerala
+2189,Other Brands,Others,,2014,Manual,Diesel,"50,000 km",1st,"64,000",kerala
+2190,Ford,Figo,,2012,Manual,Diesel,"82,000 km",2nd,"1,83,000",kerala
+2191,Jeep,Compass,,2019,-,Petrol,"27,000 km",-,"17,60,000",kerala
+2192,Hyundai,i20,,2014,Manual,Diesel,"10,000 km",1st,"17,000",kerala
+2193,Maruti Suzuki,800,,2003,Manual,Petrol,"68,000 km",2nd,"50,000",kerala
+2194,Force Motors,Others,,2011,Manual,Diesel,"55,000 km",2nd,"4,50,000",kerala
+2195,Jaguar,XJ,,2017,-,-,55 km,-,"20,000",kerala
+2196,Maruti Suzuki,Wagon R,,2008,-,-,"47,413 km",1st,"2,15,000",kerala
+2197,Mahindra,Bolero Power Plus,,2017,Manual,Diesel,"68,000 km",1st,"7,75,000",kerala
+2198,Datsun,Redi Go,,2017,Manual,Petrol,"40,000 km",1st,"2,10,000",kerala
+2199,Mercedes-Benz,E-Class,,2018,-,-,555 km,4+,"1,00,000",kerala
+2200,Mercedes-Benz,GLE Class,,2017,Automatic,Diesel,"77,000 km",1st,"46,00,000",kerala
+2201,Toyota,Innova Crysta,,2017,-,Diesel,"36,000 km",2nd,"17,50,000",kerala
+2202,Datsun,GO,,2015,Manual,Petrol,"22,000 km",1st,"2,35,000",kerala
+2203,Maruti Suzuki,800,,2008,Manual,Petrol,"68,000 km",2nd,"89,000",kerala
+2204,Maruti Suzuki,Swift,,2010,Manual,Petrol,"75,000 km",2nd,"2,65,000",kerala
+2205,Toyota,Etios,,2014,Manual,Diesel,"125,000 km",2nd,"3,75,000",kerala
+2206,Maruti Suzuki,Wagon R,,2008,Manual,Petrol,"47,000 km",2nd,"1,95,000",kerala
+2207,Chevrolet,Beat,,2012,Manual,Diesel,"78,000 km",4th,"1,18,000",kerala
+2208,Maruti Suzuki,Omni,,2002,Manual,Petrol,0 km,2nd,"55,000",kerala
+2209,Maruti Suzuki,Swift,,2011,Manual,Diesel,"112,529 km",1st,"3,40,000",kerala
+2210,Hyundai,EON,,2014,Manual,Petrol,"56,000 km",1st,"2,65,000",kerala
+2211,Toyota,Innova,,2012,Manual,Diesel,"75,000 km",1st,"7,35,000",kerala
+2212,Maruti Suzuki,Wagon R,,2011,Manual,Petrol,"133,000 km",3rd,"2,40,000",kerala
+2213,Hyundai,Elite i20,,2017,Manual,Diesel,"85,000 km",2nd,"6,50,000",kerala
+2214,Tata,Indica V2 Xeta,,2008,Manual,Petrol,"49,906 km",1st,"90,000",kerala
+2215,Maruti Suzuki,Wagon R,,2016,Manual,Petrol,"76,000 km",2nd,"3,45,000",kerala
+2216,Maruti Suzuki,Alto,,2010,Manual,Petrol,"150,000 km",1st,"1,29,000",kerala
+2217,Maruti Suzuki,800,,2002,Manual,Petrol,"60,000 km",2nd,"40,000",kerala
+2218,-,-,,-,-,-,-,-,-,kerala
+2219,Maruti Suzuki,Wagon R,,2008,Manual,Petrol,"78,000 km",2nd,"1,70,000",kerala
+2220,Mahindra,Thar,,2017,Manual,Diesel,"30,000 km",-,"8,90,000",kerala
+2221,BMW,3 Series,,2010,Automatic,Diesel,"89,000 km",2nd,"9,50,000",kerala
+2222,BMW,X5,,2017,Automatic,Diesel,"45,000 km",1st,"62,00,000",kerala
+2223,Ford,Fiesta,,2007,Manual,Diesel,"140,000 km",2nd,"1,50,000",kerala
+2224,Maruti Suzuki,Wagon R 1.0,,2019,Manual,Petrol,"11,000 km",1st,"5,15,000",kerala
+2225,Maruti Suzuki,800,,1997,Manual,Petrol,"69,644 km",3rd,"50,000",kerala
+2226,Renault,Duster,,2019,Manual,Diesel,"28,000 km",1st,"8,40,000",kerala
+2227,Chevrolet,Beat,,2011,Manual,Diesel,"75,000 km",2nd,"1,40,000",kerala
+2228,Maruti Suzuki,Ritz,,2016,Manual,Diesel,"40,000 km",1st,"2,50,000",kerala
+2229,Maruti Suzuki,Alto 800,,2013,Manual,Petrol,"14,000 km",1st,"2,10,000",kerala
+2230,Maruti Suzuki,Swift,,2018,Automatic,Diesel,"10,000 km",1st,"3,75,000",kerala
+2231,Maruti Suzuki,Wagon R,,2004,Manual,Petrol,"120,000 km",2nd,"1,15,000",kerala
+2232,Hyundai,EON,,2011,Manual,Petrol,"81,339 km",2nd,"1,90,000",kerala
+2233,Maruti Suzuki,Swift Dzire Tour,,2014,Manual,Diesel,"246,000 km",1st,"2,45,000",kerala
+2234,Maruti Suzuki,800,,2016,Manual,Petrol,"49,000 km",2nd,"2,62,500",kerala
+2235,Maruti Suzuki,800,,2004,Manual,Petrol,"36,500 km",1st,"45,000",kerala
+2236,Datsun,GO,,2014,Manual,Petrol,"29,622 km",1st,"1,85,000",kerala
+2237,Ashok Leyland,Stile,,2018,Manual,Diesel,"33,000 km",2nd,"6,75,000",kerala
+2238,Maruti Suzuki,Swift,,2006,Manual,Petrol,"99,500 km",3rd,"2,00,000",kerala
+2239,Tata,Indica,,2021,Manual,Diesel,0 km,1st,"15,000",kerala
+2240,Maruti Suzuki,Alto 800,,2017,Manual,Petrol,"16,852 km",1st,"3,35,000",kerala
+2241,Jaguar,XF,,2015,Automatic,Diesel,"53,000 km",2nd,"28,00,000",kerala
+2242,Maruti Suzuki,Alto 800,,2014,Manual,Petrol,"41,000 km",2nd,"2,40,000",kerala
+2243,Maruti Suzuki,A-Star,,2009,Manual,Petrol,"95,000 km",2nd,"1,52,000",kerala
+2244,Maruti Suzuki,Alto,,2005,Manual,Petrol,"90,000 km",3rd,"90,000",kerala
+2245,Maruti Suzuki,Swift Dzire,,2017,Manual,Petrol,"86,000 km",1st,"5,85,000",kerala
+2246,Maruti Suzuki,800,,2003,Manual,Petrol,1 km,3rd,"65,000",kerala
+2247,Ford,Figo,,2016,Manual,Diesel,"29,000 km",1st,"5,10,000",kerala
+2248,Maruti Suzuki,Wagon R,,2007,Manual,Petrol,"75,109 km",2nd,"1,35,000",kerala
+2249,Maruti Suzuki,Swift Dzire Tour,,2016,-,-,"100,000 km",1st,"3,60,000",kerala
+2250,Jeep,Compass,,2019,Manual,Petrol,"23,000 km",1st,"18,00,000",kerala
+2251,Hyundai,Xcent,,2014,Manual,Diesel,"114,000 km",1st,"3,60,000",kerala
+2252,Maruti Suzuki,Omni,,2000,Manual,Petrol,85 km,4th,"62,000",kerala
+2253,Hyundai,Accent,,2006,Manual,Petrol,"91,000 km",1st,"1,00,000",kerala
+2254,Mahindra,Bolero Power Plus,,2015,Manual,Diesel,"73,254 km",2nd,"6,77,000",kerala
+2255,Mahindra,Scorpio,,2009,Manual,Diesel,"110,000 km",1st,"4,00,000",kerala
+2256,Maruti Suzuki,Alto,,2001,Manual,Petrol,"87,000 km",1st,"70,000",kerala
+2257,Volkswagen,Polo,,2015,Manual,Diesel,"89,468 km",2nd,"6,30,000",kerala
+2258,Mahindra,XUV500,,2018,Automatic,Diesel,"81,000 km",1st,"16,50,000",kerala
+2259,Maruti Suzuki,Alto,,2002,Manual,Petrol,"160,000 km",3rd,"75,000",kerala
+2260,Ambassador,Ambassador,,2007,Manual,Diesel,"80,000 km",1st,"75,000",kerala
+2261,Hyundai,i20,,2020,Manual,Petrol,"3,500 km",1st,"7,85,000",kerala
+2262,Chevrolet,Beat,,2013,Manual,Diesel,"85,895 km",3rd,"1,38,000",kerala
+2263,Maruti Suzuki,Stingray,,2015,Manual,Petrol,"74,500 km",2nd,"3,30,000",kerala
+2264,Toyota,Corolla,,2009,Manual,Petrol,"74,000 km",2nd,"3,11,000",kerala
+2265,Honda,Jazz,,2018,Manual,Petrol,"20,000 km",1st,"7,00,000",kerala
+2266,Maruti Suzuki,800,,2001,Manual,Petrol,"97,500 km",2nd,"47,000",kerala
+2267,Mitsubishi,Lancer,,2005,Manual,Diesel,1 km,1st,"1,25,000",kerala
+2268,Maruti Suzuki,800,,2001,Manual,Petrol,"67,000 km",2nd,"46,000",kerala
+2269,Other Brands,Others,,2021,Manual,CNG & Hybrids,0 km,2nd,"6,00,000",kerala
+2270,Volkswagen,Polo,,2018,Manual,Petrol,"18,678 km",2nd,"6,50,000",kerala
+2271,Mahindra,Scorpio,,2008,Manual,Diesel,"185,000 km",1st,"3,50,000",kerala
+2272,Ford,Figo,,2020,Manual,Diesel,"12,000 km",1st,"7,25,000",kerala
+2273,Maruti Suzuki,Zen,,1998,Manual,Petrol,"54,000 km",3rd,"52,000",kerala
+2274,Mahindra,Jeep,,2004,Manual,Diesel,"110,000 km",2nd,"2,99,999",kerala
+2275,Maruti Suzuki,Alto 800,,2017,Manual,Petrol,"9,500 km",2nd,"2,35,000",kerala
+2276,Renault,KWID,,2016,Manual,Petrol,"56,324 km",2nd,"2,75,000",kerala
+2277,Hyundai,i10,,2011,Manual,Petrol,82 km,2nd,"2,80,000",kerala
+2278,Maruti Suzuki,Wagon R,,2003,Manual,Petrol,"10,000 km",2nd,"1,05,000",kerala
+2279,Maruti Suzuki,Alto,,2006,Manual,Petrol,"73,000 km",1st,"85,000",kerala
+2280,Maruti Suzuki,Ertiga,,2013,Manual,Diesel,"116,320 km",2nd,"4,75,000",kerala
+2281,Maruti Suzuki,Vitara Brezza,,2017,Manual,Diesel,"16,500 km",1st,"8,25,000",kerala
+2282,Maruti Suzuki,Alto 800,,2018,Manual,Petrol,"38,650 km",1st,"3,15,000",kerala
+2283,Hyundai,Santro Xing,,2010,Manual,Petrol,"76,656 km",3rd,"1,99,000",kerala
+2284,Maruti Suzuki,Wagon R,,2004,Manual,Petrol,"74,600 km",3rd,"1,00,000",kerala
+2285,Mahindra,Scorpio,,2007,Manual,Diesel,"144,000 km",2nd,"2,40,000",kerala
+2286,Chevrolet,Aveo,,2006,Automatic,Petrol,"88,000 km",1st,"1,10,000",kerala
+2287,Volkswagen,Ameo,,2017,Automatic,Diesel,"45,000 km",1st,"7,50,000",kerala
+2288,Maruti Suzuki,Wagon R,,2009,Manual,Petrol,0 km,-,"1,50,000",kerala
+2289,Maruti Suzuki,Ignis,,2019,Automatic,Petrol,"17,000 km",1st,"6,00,000",kerala
+2290,Ford,Ecosport,,2014,Manual,Diesel,"90,000 km",1st,"5,10,000",kerala
+2291,Audi,A6,,2016,Automatic,Diesel,"55,555 km",-,"25,000",kerala
+2292,Toyota,Fortuner,,2011,Manual,Diesel,"250,000 km",2nd,"11,50,000",kerala
+2293,Toyota,Fortuner,,2012,Automatic,Diesel,"65,000 km",2nd,"16,50,000",kerala
+2294,Maruti Suzuki,Zen,,1997,Manual,Petrol,"92,545 km",3rd,"43,000",kerala
+2295,Maruti Suzuki,Swift,,2015,Manual,Petrol,"92,000 km",1st,"4,90,000",kerala
+2296,Maruti Suzuki,Zen,,2002,Automatic,Petrol,"59,639 km",2nd,"68,500",kerala
+2297,Maruti Suzuki,Alto 800,,2014,Manual,Petrol,"79,000 km",2nd,"2,20,000",kerala
+2298,Maruti Suzuki,800,,2003,Manual,Petrol,0 km,2nd,"80,000",kerala
+2299,Maruti Suzuki,Ertiga,,2017,Manual,Diesel,"38,000 km",2nd,"8,25,000",kerala
+2300,Kia,Seltos,,2019,Manual,Petrol,"20,000 km",1st,"13,75,000",kerala
+2301,Maruti Suzuki,Swift Dzire,,2015,Manual,Petrol,"29,000 km",2nd,"4,80,000",kerala
+2302,Honda,BR-V,,2018,Manual,Diesel,"72,500 km",1st,"5,75,000",kerala
+2303,Maruti Suzuki,Alto,,2006,Manual,Petrol,"86,000 km",1st,"1,05,000",kerala
+2304,Hyundai,Grand i10,,2008,Manual,Petrol,"79,000 km",-,"1,72,000",kerala
+2305,Maruti Suzuki,Estilo,,2007,Manual,Petrol,"71,651 km",2nd,"1,30,000",kerala
+2306,Mercedes-Benz,E-Class,,2013,-,-,"50,000 km",2nd,"25,00,000",kerala
+2307,-,-,,-,-,-,-,-,-,kerala
+2308,Ashok Leyland,Others,,2018,-,-,"5,555 km",-,"20,00,000",kerala
+2309,Maruti Suzuki,Swift,,2014,Manual,Diesel,"83,000 km",1st,"4,50,000",kerala
+2310,Maruti Suzuki,Zen,,1998,Manual,Petrol,0 km,4+,"62,000",kerala
+2311,Hyundai,EON,,2012,Manual,Petrol,"62,347 km",3rd,"1,85,000",kerala
+2312,Mahindra,Scorpio,,2005,Manual,Diesel,"181,000 km",3rd,"1,50,000",kerala
+2313,Tata,Indica,,2008,Manual,Diesel,"102,000 km",2nd,"60,000",kerala
+2314,Mahindra,Jeep,,1996,Manual,Diesel,"34,000 km",3rd,"2,65,000",kerala
+2315,Maruti Suzuki,Eeco,,2017,Manual,Petrol,"35,000 km",2nd,"3,35,000",kerala
+2316,Maruti Suzuki,800,,2005,Manual,Petrol,"180,000 km",2nd,"40,000",kerala
+2317,Maruti Suzuki,Eeco,,2010,Manual,Petrol,"75,000 km",4th,"1,75,000",kerala
+2318,Maruti Suzuki,Zen,,1996,Manual,Petrol,"37,939 km",3rd,"40,000",kerala
+2319,Maruti Suzuki,Wagon R,,2009,Manual,LPG,"95,000 km",2nd,"1,70,000",kerala
+2320,-,-,,-,-,-,-,-,-,kerala
+2321,Renault,Pulse,,2014,Manual,Diesel,"75,000 km",1st,"3,15,000",kerala
+2322,Volkswagen,Jetta,,2016,Automatic,Diesel,"89,179 km",3rd,"11,50,000",kerala
+2323,Maruti Suzuki,Eeco,,2010,Manual,Petrol,"112,000 km",2nd,"2,10,000",kerala
+2324,Tata,Xenon XT,,2014,Manual,Diesel,"62,400 km",2nd,"6,00,000",kerala
+2325,Honda,Civic,,2007,Manual,Petrol,85 km,3rd,"1,90,000",kerala
+2326,Hyundai,Santro Xing,,2009,Manual,Petrol,"68,000 km",2nd,"1,90,000",kerala
+2327,Hyundai,Santro Xing,,2007,Manual,Petrol,"100,000 km",2nd,"1,35,000",kerala
+2328,Hyundai,EON,,2015,Manual,Petrol,"28,000 km",2nd,"2,65,000",kerala
+2329,Honda,City,,2017,Manual,Diesel,"82,000 km",1st,"8,75,000",kerala
+2330,Renault,Duster,,2012,Manual,Diesel,"70,000 km",1st,"6,50,000",kerala
+2331,Maruti Suzuki,Swift,,2009,Manual,Petrol,"150,000 km",3rd,"2,20,000",kerala
+2332,Honda,Others,,1996,Manual,Petrol,"210,000 km",3rd,"16,500",kerala
+2333,Maruti Suzuki,Ciaz,,2014,Manual,Diesel,"119,000 km",2nd,"6,25,000",kerala
+2334,Ford,Figo,,2013,Manual,Diesel,"86,032 km",2nd,"2,00,000",kerala
+2335,Maruti Suzuki,Zen,,1999,Manual,Petrol,"5,975 km",2nd,"65,000",kerala
+2336,Toyota,Innova,,2010,Manual,Diesel,"110,000 km",3rd,"7,50,000",kerala
+2337,Hyundai,EON,,2015,Manual,Petrol,"51,000 km",1st,"2,55,000",kerala
+2338,Maruti Suzuki,Alto,,2005,Manual,Petrol,"65,000 km",2nd,"1,10,000",kerala
+2339,Mahindra,Xylo,,2010,Automatic,Diesel,"98,000 km",2nd,"2,10,000",kerala
+2340,Toyota,Glanza,,2020,Manual,Petrol,"8,500 km",1st,"7,50,000",kerala
+2341,Volkswagen,Polo,,2015,Automatic,Petrol,"80,000 km",2nd,"5,85,000",kerala
+2342,Hyundai,Creta,,2015,Manual,Diesel,"106,000 km",1st,"8,45,000",kerala
+2343,Chevrolet,Tavera Neo,,2012,Manual,Diesel,"90,000 km",2nd,"3,90,000",kerala
+2344,Toyota,Fortuner,,2011,Manual,Diesel,"75,000 km",1st,"12,00,000",kerala
+2345,Maruti Suzuki,Wagon R 1.0,,2013,Manual,Petrol,"54,947 km",2nd,"3,33,000",kerala
+2346,Toyota,Etios Liva,,2018,-,Petrol,"37,000 km",1st,"6,75,000",kerala
+2347,Maruti Suzuki,Swift,,2016,Manual,Diesel,"50,000 km",1st,"5,85,000",kerala
+2348,Volkswagen,Polo,,2014,-,Petrol,"57,000 km",1st,"5,15,000",kerala
+2349,Maruti Suzuki,Omni,,2006,Manual,Petrol,"98,000 km",4+,"98,000",kerala
+2350,Tata,Indica Vista,,2012,Manual,Diesel,"264,000 km",1st,"1,15,000",kerala
+2351,Maruti Suzuki,Ritz,,2011,Manual,Diesel,"122,000 km",3rd,"2,75,000",kerala
+2352,Toyota,Fortuner,,2010,Manual,Diesel,"140,000 km",2nd,"10,85,000",kerala
+2353,Ambassador,Ambassador,,1999,Manual,Diesel,"79,000 km",3rd,"57,000",kerala
+2354,Mahindra,Bolero Pik-Up,,2009,Manual,Diesel,"110,000 km",2nd,"2,20,000",kerala
+2355,Toyota,Etios,,2012,Manual,Diesel,"128,000 km",2nd,"2,95,000",kerala
+2356,Maruti Suzuki,Zen,,2005,Manual,Petrol,"76,000 km",3rd,"1,15,000",kerala
+2357,Maruti Suzuki,Baleno,,2018,Automatic,Petrol,"37,000 km",1st,"7,40,000",kerala
+2358,Honda,Brio,,2012,Manual,Petrol,"55,500 km",1st,"3,35,000",kerala
+2359,Tata,Others,,2021,Manual,Diesel,"4,000 km",1st,"2,50,000",kerala
+2360,Mahindra,Jeep,,1980,Manual,Diesel,"123,000 km",3rd,"2,70,000",kerala
+2361,Hyundai,i10,,2011,Manual,Petrol,"48,000 km",1st,"2,47,000",kerala
+2362,Toyota,Corolla Altis,,2009,Manual,Petrol,"98,360 km",2nd,"4,35,000",kerala
+2363,Hyundai,EON,,2011,Manual,Petrol,"53,347 km",1st,"2,55,000",kerala
+2364,Honda,City,,2016,Manual,Petrol,"28,000 km",1st,"6,50,000",kerala
+2365,Mahindra,Jeep,,1991,Manual,Diesel,0 km,2nd,"1,40,000",kerala
+2366,Maruti Suzuki,Wagon R,,2007,Manual,Petrol,"100,712 km",2nd,"1,65,000",kerala
+2367,Tata,Indigo,,2016,Manual,Diesel,"99,000 km",3rd,"1,75,000",kerala
+2368,Toyota,Etios,,2011,Manual,Petrol,"83,000 km",2nd,"3,19,000",kerala
+2369,Maruti Suzuki,Alto,,2008,Manual,Petrol,"87,100 km",3rd,"1,15,000",kerala
+2370,Maruti Suzuki,S Cross,,2015,Manual,Diesel,"110,000 km",1st,"5,85,000",kerala
+2371,Tata,Indigo,,2003,Manual,Petrol,"62,000 km",2nd,"42,000",kerala
+2372,Volkswagen,Polo,,2017,Manual,Diesel,"75,000 km",2nd,"7,25,000",kerala
+2373,Hyundai,i10,,2010,-,-,"55,900 km",1st,"2,85,000",kerala
+2374,Isuzu,D-Max V-Cross,,2017,Manual,Diesel,"100,000 km",1st,"13,60,000",kerala
+2375,Maruti Suzuki,Ritz,,2013,Manual,Diesel,"83,000 km",2nd,"3,40,000",kerala
+2376,Datsun,Redi Go,,2018,Automatic,Petrol,"21,000 km",2nd,"3,15,000",kerala
+2377,Maruti Suzuki,Swift,,2019,Manual,Petrol,"18,000 km",1st,"6,25,000",kerala
+2378,Mahindra,Verito,,2011,Manual,Diesel,"188,257 km",2nd,"1,50,000",kerala
+2379,Nissan,Micra,,2014,Manual,Diesel,"90,000 km",2nd,"3,19,000",kerala
+2380,Mahindra,Thar,,2020,Manual,Diesel,"4,000 km",1st,"16,50,000",kerala
+2381,Toyota,Innova,,2016,Manual,Diesel,"126,000 km",1st,"12,20,000",kerala
+2382,Maruti Suzuki,Swift,,2016,Manual,Petrol,"55,225 km",1st,"5,45,000",kerala
+2383,Hyundai,EON,,2016,Manual,Petrol,"51,000 km",1st,"2,70,000",kerala
+2384,Maruti Suzuki,S-Presso,,2020,Automatic,Petrol,"9,500 km",1st,"5,25,000",kerala
+2385,Tata,Tiago,,2018,Manual,Petrol,"7,000 km",1st,"5,00,000",kerala
+2386,Tata,Indica Vista,,2010,Manual,Diesel,"112,500 km",2nd,"97,000",kerala
+2387,Toyota,Innova,,2015,Manual,Diesel,"140,000 km",2nd,"9,00,000",kerala
+2388,Maruti Suzuki,Alto,,2001,Automatic,Petrol,"100,000 km",3rd,"75,000",kerala
+2389,Toyota,Etios,,2016,Manual,Petrol,"61,000 km",2nd,"5,95,000",kerala
+2390,Maruti Suzuki,Swift Dzire,,2015,Manual,Diesel,"120,000 km",2nd,"37,50,000",kerala
+2391,Maruti Suzuki,Swift,,2013,Manual,Diesel,"118,000 km",3rd,"3,75,000",kerala
+2392,Tata,Indica,,2005,Manual,Diesel,"200,000 km",2nd,"49,000",kerala
+2393,Mahindra,Xylo,,2017,Manual,Diesel,"91,000 km",2nd,"5,20,000",kerala
+2394,Maruti Suzuki,Swift,,2011,Manual,Petrol,"70,000 km",2nd,"2,95,000",kerala
+2395,Maruti Suzuki,Swift,,2020,Automatic,Petrol,"16,000 km",1st,"7,20,000",kerala
+2396,Maruti Suzuki,Wagon R 1.0,,2005,Manual,Petrol,"53,417 km",2nd,"1,10,000",kerala
+2397,Volkswagen,Polo,,2018,Manual,Petrol,"23,000 km",1st,"7,00,000",kerala
+2398,Hyundai,EON,,2014,Manual,Petrol,"50,000 km",2nd,"2,35,000",kerala
+2399,Tata,Sumo Grande,,2010,Manual,Diesel,"950,000 km",1st,"1,85,000",kerala
+2400,Volkswagen,Vento,,2014,Manual,Diesel,"47,000 km",2nd,"4,35,000",kerala
+2401,Hyundai,EON,,2012,Manual,Petrol,"63,000 km",2nd,"2,10,000",kerala
+2402,Hyundai,EON,,2018,Manual,Petrol,"36,324 km",1st,"2,98,000",kerala
+2403,Maruti Suzuki,Others,,2013,Manual,Petrol,"90,000 km",2nd,"3,25,000",kerala
+2404,Maruti Suzuki,Others,,2018,Manual,Diesel,"400,000 km",1st,"72,00,000",kerala
+2405,Maruti Suzuki,A-Star,,2010,Manual,Petrol,"66,500 km",4th,"1,70,000",kerala
+2406,Toyota,Corolla Altis,,2014,Manual,Diesel,"159,000 km",2nd,"11,25,000",kerala
+2407,Volkswagen,Polo,,2019,Manual,Petrol,"33,000 km",1st,"6,20,000",kerala
+2408,Mahindra,XUV500,,2015,Manual,Diesel,"79,300 km",1st,"7,80,000",kerala
+2409,Maruti Suzuki,Ritz,,2011,Manual,Petrol,"89,855 km",1st,"2,75,000",kerala
+2410,Maruti Suzuki,Zen,,1998,Manual,Petrol,"76,921 km",3rd,"60,000",kerala
+2411,Mercedes-Benz,E-Class,,2004,-,-,666 km,4+,"70,000",kerala
+2412,Hyundai,Grand i10 Nios,,2020,Manual,Petrol,"12,500 km",1st,"6,50,000",kerala
+2413,Hyundai,i10,,2012,Manual,Petrol,"43,000 km",1st,"2,90,000",kerala
+2414,Mercedes-Benz,New C-Class,,2012,Automatic,Diesel,"90,000 km",2nd,"13,00,000",kerala
+2415,Mahindra,Thar,,2017,Manual,Diesel,"37,000 km",2nd,"8,95,000",kerala
+2416,Tata,Others,,2015,Manual,Diesel,"80,000 km",4th,"1,85,000",kerala
+2417,Maruti Suzuki,800,,1999,Manual,Petrol,"31,000 km",1st,"38,500",kerala
+2418,Maruti Suzuki,Alto 800,,2016,Manual,Petrol,"33,000 km",1st,"2,50,000",kerala
+2419,Maruti Suzuki,Wagon R,,2008,Manual,Petrol,"65,500 km",2nd,"1,50,000",kerala
+2420,Maruti Suzuki,Ertiga,,2014,Manual,Diesel,"155,000 km",1st,"4,75,000",kerala
+2421,Maruti Suzuki,Swift,,2016,Manual,Petrol,"55,225 km",1st,"5,45,000",kerala
+2422,BMW,3 Series,,2008,Automatic,Petrol,"35,000 km",2nd,"5,50,000",kerala
+2423,Maruti Suzuki,Alto,,2007,Manual,Petrol,"95,000 km",2nd,"77,500",kerala
+2424,Maruti Suzuki,Swift Dzire,,2009,Manual,Petrol,"64,000 km",2nd,"2,20,000",kerala
+2425,Tata,Nano,,2014,Manual,Petrol,"22,000 km",2nd,"1,90,000",kerala
+2426,Bajaj,Others,,2012,Manual,Diesel,"80,000 km",1st,"92,000",kerala
+2427,Mahindra,Others,,2012,Manual,Diesel,"117,000 km",2nd,"1,30,000",kerala
+2428,Maruti Suzuki,Swift,,2011,Manual,Diesel,"140,000 km",3rd,"3,40,000",kerala
+2429,Mahindra,Others,,2011,Manual,Diesel,"100,000 km",2nd,"5,10,000",kerala
+2430,Maruti Suzuki,Ritz,,2009,Manual,Petrol,"44,000 km",1st,"2,95,000",kerala
+2431,Toyota,Etios,,2018,Manual,Diesel,"28,600 km",1st,"8,80,000",kerala
+2432,Maruti Suzuki,Ertiga,,2018,Manual,Diesel,"44,200 km",1st,"8,39,000",kerala
+2433,Maruti Suzuki,Swift,,2015,Manual,Diesel,"78,000 km",2nd,"4,15,000",kerala
+2434,Hyundai,Grand i10,,2013,Manual,Petrol,"17,000 km",1st,"3,95,000",kerala
+2435,Maruti Suzuki,Wagon R,,2017,Manual,Petrol,"35,000 km",1st,"4,25,000",kerala
+2436,BMW,Z4,,2012,Automatic,Petrol,"60,000 km",3rd,"32,00,000",kerala
+2437,Fiat,Avventura,,2017,Manual,Diesel,"55,000 km",1st,"5,10,000",kerala
+2438,Maruti Suzuki,Alto 800,,2016,Manual,Petrol,"24,200 km",1st,"3,00,000",kerala
+2439,Maruti Suzuki,Baleno,,2019,Manual,Petrol,"16,000 km",2nd,"7,05,000",kerala
+2440,Maruti Suzuki,Wagon R,,2014,Manual,Petrol,"61,000 km",1st,"3,80,000",kerala
+2441,Mercedes-Benz,GLE Class,,2017,Automatic,Diesel,"77,000 km",1st,"46,00,000",kerala
+2442,Toyota,Fortuner,,2013,Manual,Diesel,2 km,2nd,"13,00,000",kerala
+2443,Maruti Suzuki,Wagon R 1.0,,2019,Manual,Petrol,"11,000 km",1st,"5,15,000",kerala
+2444,Other Brands,Others,,2014,Manual,Diesel,"50,000 km",1st,"64,000",kerala
+2445,Maruti Suzuki,800,,1997,Manual,Petrol,"69,644 km",3rd,"50,000",kerala
+2446,Maruti Suzuki,800,,2004,-,-,"181,039 km",4th,"70,000",kerala
+2447,Datsun,GO,,2014,Manual,Petrol,"29,622 km",1st,"1,85,000",kerala
+2448,Ashok Leyland,Stile,,2018,Manual,Diesel,"33,000 km",2nd,"6,75,000",kerala
+2449,Renault,Duster,,2019,Manual,Diesel,"28,000 km",1st,"8,40,000",kerala
+2450,Chevrolet,Beat,,2011,Manual,Diesel,"75,000 km",2nd,"1,40,000",kerala
+2451,Maruti Suzuki,Swift Dzire Tour,,2014,Manual,Diesel,"246,000 km",1st,"2,45,000",kerala
+2452,Maruti Suzuki,800,,2003,Manual,Petrol,1 km,3rd,"65,000",kerala
+2453,Ford,Figo,,2016,Manual,Diesel,"29,000 km",1st,"5,10,000",kerala
+2454,Mahindra,Bolero Power Plus,,2015,Manual,Diesel,"73,254 km",2nd,"6,77,000",kerala
+2455,Maruti Suzuki,Omni,,2000,Manual,Petrol,85 km,4th,"62,000",kerala
+2456,Hyundai,Accent,,2006,Manual,Petrol,"91,000 km",1st,"1,00,000",kerala
+2457,Mahindra,Scorpio,,2009,Manual,Diesel,"110,000 km",1st,"4,00,000",kerala
+2458,Volkswagen,Polo,,2015,Manual,Diesel,"89,468 km",2nd,"6,30,000",kerala
+2459,Hyundai,EON,,2015,Manual,Petrol,"51,000 km",1st,"2,55,000",kerala
+2460,Toyota,Fortuner,,2019,Automatic,Diesel,"23,000 km",2nd,"37,50,000",kerala
+2461,Nissan,Micra,,2016,Manual,Petrol,"47,000 km",1st,"4,00,000",kerala
+2462,Ford,Figo,,2010,Manual,Diesel,"86,000 km",3rd,"2,00,000",kerala
+2463,Mahindra,Jeep,,2000,Manual,Diesel,"150,000 km",2nd,"1,90,000",kerala
+2464,Mahindra,XUV500,,2018,Automatic,Diesel,"81,000 km",1st,"16,50,000",kerala
+2465,Force Motors,Others,,2016,Manual,Diesel,"80,000 km",1st,"11,00,000",kerala
+2466,Maruti Suzuki,Alto 800,,2014,Manual,Petrol,"79,000 km",2nd,"2,20,000",kerala
+2467,Maruti Suzuki,800,,2003,Manual,Petrol,0 km,2nd,"80,000",kerala
+2468,Ford,Figo,,2010,Manual,Diesel,"118,000 km",3rd,"1,95,000",kerala
+2469,Mahindra,Scorpio,,2005,Manual,Diesel,"181,000 km",3rd,"1,50,000",kerala
+2470,Hyundai,Santro,,2003,Manual,Petrol,"78,000 km",2nd,"80,000",kerala
+2471,Nissan,Micra Active,,2017,Manual,Petrol,"23,500 km",1st,"4,25,000",kerala
+2472,Maruti Suzuki,Swift,,2016,-,Diesel,14 km,-,"4,44,444",kerala
+2473,Maruti Suzuki,Alto 800,,2016,Manual,Petrol,"42,280 km",1st,"2,70,000",kerala
+2474,Honda,City,,2007,-,-,"128,199 km",1st,"2,00,000",kerala
+2475,Ford,Figo,,2012,Manual,Diesel,"82,000 km",2nd,"1,83,000",kerala
+2476,Hyundai,Elite i20,,2015,Manual,Petrol,"48,000 km",1st,"5,20,000",kerala
+2477,Maruti Suzuki,Alto,,2009,Manual,Petrol,"100,000 km",2nd,"1,35,000",kerala
+2478,Maruti Suzuki,Wagon R,,2009,Manual,Petrol,"88,000 km",3rd,"1,58,500",kerala
+2479,Mahindra,Bolero,,2016,Manual,Diesel,"63,000 km",1st,"6,75,000",kerala
+2480,Tata,Vista,,2011,Manual,Diesel,"82,000 km",2nd,"1,28,000",kerala
+2481,Mercedes-Benz,A Class,,2014,Automatic,Diesel,"65,000 km",-,"16,00,000",kerala
+2482,Maruti Suzuki,XL6,,2020,Manual,Petrol,"8,000 km",1st,"9,95,000",kerala
+2483,Hyundai,i20,,2018,Manual,Diesel,"45,000 km",1st,"8,40,000",kerala
+2484,Maruti Suzuki,Swift,,2012,Manual,Diesel,"99,000 km",1st,"3,90,000",kerala
+2485,Toyota,Fortuner,,2011,Manual,Diesel,"250,000 km",2nd,"11,50,000",kerala
+2486,Fiat,Punto,,2010,Manual,Diesel,1 km,2nd,"2,00,000",kerala
+2487,Tata,Indica V2,,2001,Manual,Diesel,"68,000 km",2nd,"45,000",kerala
+2488,Chevrolet,Tavera,,2005,Manual,Diesel,"120,000 km",1st,"1,60,000",kerala
+2489,Maruti Suzuki,Alto,,2012,Manual,Petrol,"73,450 km",2nd,"1,68,000",kerala
+2490,Maruti Suzuki,Alto,,2011,Manual,Petrol,"90,000 km",2nd,"1,66,000",kerala
+2491,Honda,Jazz,,2019,Manual,Petrol,"7,000 km",1st,"5,60,000",kerala
+2492,Maruti Suzuki,Alto,,2011,Manual,Petrol,"30,000 km",1st,"2,00,000",kerala
+2493,Maruti Suzuki,Alto,,2008,Manual,Petrol,"102,000 km",1st,"1,00,000",kerala
+2494,Hyundai,Santro Xing,,2008,Manual,Petrol,"96,727 km",4+,"1,15,000",kerala
+2495,Chevrolet,Spark,,2010,Manual,Petrol,"48,412 km",1st,"75,000",kerala
+2496,Maruti Suzuki,Wagon R,,2005,Manual,Petrol,"70,000 km",2nd,"1,55,000",kerala
+2497,Maruti Suzuki,Alto 800,,2014,Manual,Petrol,"61,000 km",2nd,"2,10,000",kerala
+2498,Maruti Suzuki,Baleno,,2003,Manual,Petrol,"128,000 km",3rd,"1,10,000",kerala
+2499,Maruti Suzuki,Swift,,2016,Manual,Diesel,"59,000 km",1st,"5,50,000",kerala
+2500,Toyota,Etios,,2018,Manual,Diesel,"27,000 km",1st,"8,90,000",kerala
+2501,Maruti Suzuki,Ciaz,,2017,Manual,Diesel,"96,500 km",1st,"6,85,000",kerala
+2502,Renault,Duster,,2012,Manual,Diesel,"130,000 km",2nd,"4,25,000",kerala
+2503,Ambassador,Ambassador,,2007,Manual,Diesel,"138,000 km",2nd,"70,000",kerala
+2504,Maruti Suzuki,Alto,,2003,Manual,Petrol,"92,000 km",3rd,"69,000",kerala
+2505,Volkswagen,Polo,,2013,Manual,Diesel,"78,000 km",-,"3,50,000",kerala
+2506,Maruti Suzuki,Swift,,2015,Manual,Diesel,"196,000 km",1st,"4,25,000",kerala
+2507,Tata,Others,,2013,Manual,Diesel,"113,000 km",2nd,"1,30,000",kerala
+2508,Maruti Suzuki,800,,2011,Manual,Petrol,"48,000 km",2nd,"1,30,000",kerala
+2509,Maruti Suzuki,800,,1991,Manual,Petrol,"58,675 km",2nd,"46,000",kerala
+2510,Volkswagen,Polo,,2017,Manual,Petrol,"90,000 km",1st,"6,90,000",kerala
+2511,Tata,Others,,2015,Manual,Diesel,"105,000 km",1st,"3,30,000",kerala
+2512,Maruti Suzuki,Ritz,,2014,Manual,Petrol,"101,000 km",-,"3,60,000",kerala
+2513,Hyundai,Santro,,2019,Manual,Petrol,"12,000 km",1st,"4,35,000",kerala
+2514,Hyundai,EON,,2014,Manual,Petrol,"90,000 km",2nd,"2,10,000",kerala
+2515,Tata,Nano,,2012,Manual,Petrol,"103,000 km",2nd,"66,000",kerala
+2516,Hyundai,Grand I 10,,2015,-,-,"72,468 km",2nd,"3,70,000",kerala
+2517,BMW,3 Series,,2016,Automatic,Diesel,"54,699 km",1st,"30,50,000",kerala
+2518,Maruti Suzuki,Estilo,,2011,Manual,Petrol,"72,000 km",2nd,"1,95,000",kerala
+2519,Maruti Suzuki,Alto K10,,2011,Manual,Petrol,"55,000 km",3rd,"2,00,000",kerala
+2520,Renault,Duster,,2016,Automatic,Diesel,"79,000 km",2nd,"7,75,000",kerala
+2521,Chevrolet,Beat,,2013,Manual,Diesel,"85,895 km",3rd,"1,38,000",kerala
+2522,Volkswagen,Polo,,2018,Manual,Petrol,"74,000 km",1st,"6,25,000",kerala
+2523,Datsun,GO,,2014,Manual,Petrol,"69,000 km",2nd,"2,25,000",kerala
+2524,Nissan,Terrano,,2014,-,Diesel,"82,000 km",2nd,"5,70,000",kerala
+2525,Maruti Suzuki,Alto,,2003,Manual,Petrol,"58,000 km",2nd,"96,000",kerala
+2526,Toyota,Innova,,2013,Manual,Diesel,"130,000 km",2nd,"7,45,000",kerala
+2527,Chevrolet,Beat,,2010,Manual,Petrol,"110,000 km",3rd,"1,15,000",kerala
+2528,Maruti Suzuki,Baleno,,2020,Manual,Petrol,"7,000 km",1st,"7,00,000",kerala
+2529,Volkswagen,Vento,,2010,Manual,Diesel,"126,000 km",4th,"3,20,000",kerala
+2530,Mahindra,Jeep,,1980,Manual,Diesel,"10,000 km",4+,"1,00,000",kerala
+2531,Ford,Ecosport,,2020,Manual,Diesel,"6,200 km",1st,"10,75,000",kerala
+2532,Fiat,Linea,,2010,Manual,Diesel,"110,000 km",3rd,"2,25,000",kerala
+2533,Renault,Duster,,2020,-,-,"12,700 km",-,"12,25,000",kerala
+2534,Maruti Suzuki,800,,1996,Manual,Petrol,77 km,3rd,"45,000",kerala
+2535,Tata,Xenon XT,,2014,Manual,Diesel,"62,400 km",2nd,"6,00,000",kerala
+2536,Maruti Suzuki,Alto K10,,2013,Manual,Petrol,"72,000 km",3rd,"2,30,000",kerala
+2537,Maruti Suzuki,Swift Dzire,,2012,Manual,Diesel,"87,000 km",1st,"4,30,000",kerala
+2538,Hyundai,Santro Xing,,2009,Manual,Petrol,"80,000 km",2nd,"1,65,000",kerala
+2539,Maruti Suzuki,Alto,,2007,Manual,Petrol,"108,000 km",3rd,"1,05,000",kerala
+2540,Tata,Harrier,,2019,Manual,Diesel,"8,600 km",1st,"16,75,000",kerala
+2541,Maruti Suzuki,Swift,,2016,Manual,Petrol,"55,225 km",1st,"5,45,000",kerala
+2542,Maruti Suzuki,Eeco,,2011,Manual,Petrol,"75,000 km",2nd,"1,98,000",kerala
+2543,Maruti Suzuki,Swift Dzire,,2014,Manual,Diesel,"120,000 km",2nd,"4,00,000",kerala
+2544,Mahindra,Xylo,,2010,Manual,Diesel,"120,000 km",2nd,"2,35,000",kerala
+2545,Maruti Suzuki,800,,2015,Manual,Petrol,555 km,4th,"15,000",kerala
+2546,Maruti Suzuki,Zen Estilo,,2013,Manual,Petrol,"92,345 km",2nd,"2,25,000",kerala
+2547,Audi,Q5,,2015,Automatic,Diesel,"110,000 km",1st,"22,50,000",kerala
+2548,Skoda,Octavia,,2011,Manual,Diesel,55 km,4th,"35,000",kerala
+2549,Hyundai,Accent,,2013,Automatic,LPG,555 km,3rd,"15,000",kerala
+2550,Maruti Suzuki,Alto K10,,2014,Automatic,-,"81,270 km",3rd,"2,90,000",kerala
+2551,Ford,Classic,,2016,Automatic,Diesel,225 km,4th,"15,000",kerala
+2552,Ford,Aspire,,2017,Manual,Diesel,"65,000 km",2nd,"4,68,000",kerala
+2553,Ford,Ecosport,,2013,Manual,Diesel,"100,000 km",2nd,"5,25,000",kerala
+2554,Renault,Pulse,,2012,Manual,Diesel,"110,000 km",1st,"2,55,000",kerala
+2555,Hyundai,Creta,,2015,Manual,Diesel,"116,000 km",1st,"8,65,000",kerala
+2556,Maruti Suzuki,Zen,,2000,Manual,Petrol,"95,000 km",3rd,"80,000",kerala
+2557,Jeep,Compass,,2017,Manual,Diesel,"38,000 km",1st,"15,75,000",kerala
+2558,-,-,,-,-,-,-,-,-,kerala
+2559,Ford,Fiesta,,2008,Manual,Diesel,"120,000 km",1st,"1,48,000",kerala
+2560,Volkswagen,Vento,,2014,Automatic,Diesel,"91,000 km",3rd,"5,45,000",kerala
+2561,Audi,S5,,2018,Automatic,Petrol,"20,000 km",2nd,"58,00,000",kerala
+2562,Volkswagen,Polo,,2019,Manual,Petrol,"44,080 km",1st,"6,40,000",kerala
+2563,Nissan,Sunny,,2015,Manual,Diesel,"43,000 km",1st,"5,65,000",kerala
+2564,Nissan,Micra Active,,2013,Manual,Petrol,"80,000 km",1st,"2,90,000",kerala
+2565,Mahindra,Bolero Pik-Up,,2012,Automatic,Diesel,"150,000 km",2nd,"4,10,000",kerala
+2566,Mahindra,Verito,,2013,Manual,Diesel,"260,000 km",2nd,"1,70,000",kerala
+2567,Mahindra,Bolero,,2011,Manual,Diesel,"76,000 km",2nd,"4,55,000",kerala
+2568,Maruti Suzuki,Alto,,2007,Manual,Petrol,"109,752 km",2nd,"1,05,000",kerala
+2569,Hyundai,Santro Xing,,2010,Manual,Petrol,"95,000 km",2nd,"1,65,000",kerala
+2570,Opel,Corsa,,2003,Manual,Petrol,"120,250 km",4th,"30,000",kerala
+2571,Maruti Suzuki,Ritz,,2011,Manual,Diesel,"132,000 km",2nd,"2,85,000",kerala
+2572,Chevrolet,Optra Magnum,,2010,Manual,Diesel,"110,000 km",1st,"3,00,000",kerala
+2573,Maruti Suzuki,Swift,,2018,Manual,Diesel,"41,889 km",1st,"6,40,000",kerala
+2574,Maruti Suzuki,Ertiga,,2016,Manual,Diesel,"50,000 km",1st,"7,50,000",kerala
+2575,Toyota,Innova,,2012,Manual,Diesel,"110,000 km",2nd,"8,00,000",kerala
+2576,Ford,Figo,,2015,Manual,Diesel,"25,086 km",2nd,"15,000",kerala
+2577,Toyota,Innova,,2010,-,-,5 km,-,"1,00,000",kerala
+2578,BMW,X5,,2016,-,Diesel,45 km,-,"45,55,555",kerala
+2579,Maruti Suzuki,Swift Dzire,,2016,Manual,Diesel,"92,000 km",2nd,"4,15,000",kerala
+2580,Maruti Suzuki,Baleno,,2018,Manual,Diesel,"13,000 km",1st,"7,75,000",kerala
+2581,Hyundai,EON,,2017,Manual,Petrol,"14,958 km",1st,"3,10,000",kerala
+2582,Skoda,Rapid,,2015,Automatic,Diesel,"122,000 km",1st,"4,85,000",kerala
+2583,Maruti Suzuki,Alto 800,,2014,Manual,Petrol,"70,000 km",2nd,"2,10,000",kerala
+2584,Maruti Suzuki,Swift,,2018,Manual,Petrol,"36,000 km",1st,"5,20,000",kerala
+2585,-,-,,-,-,-,-,-,-,kerala
+2586,-,-,,-,-,-,-,-,-,kerala
+2587,-,-,,-,-,-,-,-,-,kerala
+2588,-,-,,-,-,-,-,-,-,kerala
+2589,-,-,,-,-,-,-,-,-,kerala
+2590,-,-,,-,-,-,-,-,-,kerala
+2591,-,-,,-,-,-,-,-,-,kerala
+2592,-,-,,-,-,-,-,-,-,kerala
+2593,-,-,,-,-,-,-,-,-,kerala
+2594,-,-,,-,-,-,-,-,-,kerala
+2595,-,-,,-,-,-,-,-,-,kerala
+2596,-,-,,-,-,-,-,-,-,kerala
